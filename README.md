@@ -3,8 +3,9 @@ This is a a Project I created for anyone just starting out in CSS and Open-Sourc
 
 ## How to get Started
 - I would like to suggest you to get some hands-on experience with HTML and Basic CSS first on your local machine
-- Once you're done with that, you can get started [Here](https://github.com/nishantattrey07/nishantattrey07.github.io), Nishant has created a similar project for you to hone your HTML skills, and it's ReadMe section has all you need to know about Forking and Cloning a repository, and submitting a pull-request
-- This is a learning experience so don't worry much about it, just get started and let's all build this WebPage together
+- After making sure you're comfortable start by editing the HTML and CSS files given in the repository 
+- Along with the changes made to the code, add your name in the CONTRIBUTORS.md file
+- This is a learning experience so don't worry too much about it, just get started and let's all build this WebPage together
 - Happy Contributing!!
 
 **Yes This Project was Inspired from Shawshank Redemption's "Brooks Was Here"**
