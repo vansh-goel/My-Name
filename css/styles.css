@@ -159,6 +159,16 @@
     margin: 2px auto 16px auto;
     width: 85%;
 }
+.aman{
+  padding: 7% 15%;
+  background-color: aquamarine;
+  font-family: "Sacramento";
+  text-align: center;
+}
+.aman-Para{
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .footer {
   padding: 7% 15%;
