@@ -159,3 +159,17 @@
     margin: 2px auto 16px auto;
     width: 85%;
 }
+
+.himangs{
+  padding: 7% 15%;
+    background-color: powderblue;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.himangskalita {
+    font-family: 'Montserrat';
+    line-height: 2;
+    margin: 2px auto 16px auto;
+    width: 85%;
+}
