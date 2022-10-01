@@ -27,3 +27,8 @@
 - Place: Switzerland
 - Bio: Lifelong learner, build and learn in public
 - GitHub: [Markus Eicher](https://github.com/MarkusEicher)
+
+# Name: Jayne
+- Place: England
+- Bio: Aspiring coder
+- GitHub: [Jayne Elliott](https://github.com/JayneElliott404)
