@@ -159,3 +159,8 @@
     margin: 2px auto 16px auto;
     width: 85%;
 }
+
+.footer {
+  padding: 7% 15%;
+  background-color: black;
+}
