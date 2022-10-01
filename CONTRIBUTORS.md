@@ -43,3 +43,8 @@
 - Place: Canada
 - Bio: chimpanzee with rock
 - GitHub: [Jeffrey Zang](https://github.com/jeffrey-zang)
+
+# Name: Aman
+- Place: India
+- Bio: Web Developer
+- GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
