@@ -13,8 +13,12 @@
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
-# Name: Markus
-- Place: Switzerland
-- Bio: Lifelong learner, build and learn in public
-- GitHub: [Markus Eicher](https://github.com/MarkusEicher)
+# Name: Chirag
+- Place: India
+- Bio: Student, Learning Frontend Development
+- GitHub: [Chirag Khatri](https://github.com/chiragkhatri19)
 
+# Name: Lea
+- Place: France
+- Bio: Journalist, Learning Web Development
+- GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
