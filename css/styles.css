@@ -23,3 +23,30 @@
     padding-top: 10px;
     width: 20px;
 }
+
+.Harshvardhan-Sharma{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #b7facd;
+    
+}
+#Harshvardhan-Sharma{
+    font-family: 'Sacramento';
+
+}
+
+#Harshvardhan-Sharma-Para{
+    font-family: 'Montserrat';
+    line-height: 2;
+}
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    align-items: center;
+}
+.github{
+    padding-top: 10px;
+    width: 20px;
+
+}
