@@ -169,7 +169,16 @@
   font-family: "Montserrat";
   line-height: 2;
 }
-
+.anand{
+  padding: 7% 15%;
+  background-color: darkorchid;
+  font-family: "Sacramento";
+  text-align: center;
+  }
+.anand-para{
+  font-family: 'Courier New', monospace;
+  line-height: 2;
+  }
 .footer {
   padding: 7% 15%;
   background-color: black;
