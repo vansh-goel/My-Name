@@ -24,6 +24,7 @@
 
 # Name: Lea
 
+
 -    Place: France
 -    Bio: Journalist, Learning Web Development
 -    GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
@@ -33,3 +34,24 @@
 -    Place: Nigeria
 -    Bio: Student, Learning Web Development
 -    GitHub: [Jimoh Abdulsamad](https://github.com/buk-ola01)
+
+- Place: France
+- Bio: Journalist, Learning Web Development
+- GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
+
+# Name: Markus
+- Place: Switzerland
+- Bio: Lifelong learner, build and learn in public
+- GitHub: [Markus Eicher](https://github.com/MarkusEicher)
+
+# Name: Jayne
+- Place: England
+- Bio: Aspiring coder
+- GitHub: [Jayne Elliott](https://github.com/JayneElliott404)
+
+
+# Name: Rachit
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Rachit Ranka](https://github.com/rachit-ranka)
+
