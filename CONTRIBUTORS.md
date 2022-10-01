@@ -38,3 +38,8 @@
 - Place: India
 - Bio: Student, Learning Web Development
 - GitHub: [Rachit Ranka](https://github.com/rachit-ranka)
+
+# Name: Jeffrey
+- Place: Canada
+- Bio: chimpanzee with rock
+- GitHub: [Jeffrey Zang](https://github.com/jeffrey-zang)
