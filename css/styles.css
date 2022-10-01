@@ -66,3 +66,17 @@
     width: 20px;
 
 }
+
+.Ayush {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #b7facd;
+}
+#Ayush {
+  font-family: "Sacramento";
+}
+
+#Ayush-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
