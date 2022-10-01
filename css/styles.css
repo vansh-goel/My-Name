@@ -159,3 +159,18 @@
     margin: 2px auto 16px auto;
     width: 85%;
 }
+
+.john-watson {
+  padding: 7% 15%;
+  background-color: #e94560;
+  text-align: center;
+}
+
+.john-watson-para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.john-watson-h1 {
+  font-family: "Sacramento";
+}

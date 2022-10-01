@@ -38,3 +38,8 @@
 - Place: India
 - Bio: Student, Learning Web Development
 - GitHub: [Rachit Ranka](https://github.com/rachit-ranka)
+
+# Name: John
+- Place: United Kingdom
+- Bio: I love to code and learn new things
+- GitHub: [John Watson](https://github.com/johnwatson484)
