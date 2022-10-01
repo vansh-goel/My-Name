@@ -39,6 +39,22 @@
     font-family: 'Montserrat';
     line-height: 2;
 }
+
+.Aditi-Bendre {
+    padding: 7% 15%;
+    background-color: rgba(134, 232, 119, 0.973);
+    text-align: center;
+}
+
+#Aditi-Bendre {
+    font-family: 'Sacramento';
+}
+
+#Aditi-Bendre {
+    font-family: 'Montserrat';
+    line-height: 2;
+} 
+
 .socials{
     display: flex;
     justify-content: center;
