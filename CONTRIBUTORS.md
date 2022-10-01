@@ -32,3 +32,9 @@
 - Place: England
 - Bio: Aspiring coder
 - GitHub: [Jayne Elliott](https://github.com/JayneElliott404)
+
+
+# Name: Rachit
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Rachit Ranka](https://github.com/rachit-ranka)
