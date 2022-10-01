@@ -17,3 +17,8 @@
 - Place: India
 - Bio: Student, Learning Frontend Development
 - GitHub: [Chirag Khatri](https://github.com/chiragkhatri19)
+
+# Name: Lea
+- Place: France
+- Bio: Journalist, Learning Web Development
+- GitHub: [Lea Guedj](https://github.com/leaggg)
