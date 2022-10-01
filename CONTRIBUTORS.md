@@ -1,24 +1,35 @@
 # Name: Vansh
-- Place: India
-- Bio: Student, Web Developer
-- GitHub: [Vansh Goel](https://github.com/vansh-goel)
+
+-    Place: India
+-    Bio: Student, Web Developer
+-    GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
 # Name: Harsh
-- Place: India
-- Bio: Student, Web Developer
-- GitHub: [Harshvardhan Sharma](https://github.com/vardhan0604)
+
+-    Place: India
+-    Bio: Student, Web Developer
+-    GitHub: [Harshvardhan Sharma](https://github.com/vardhan0604)
 
 # Name: Aditi
-- Place: India
-- Bio: Student, Learning Web Development
-- GitHub: [Aditi Bendre](https://github.com/AditiBendre)
+
+-    Place: India
+-    Bio: Student, Learning Web Development
+-    GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
 # Name: Chirag
-- Place: India
-- Bio: Student, Learning Frontend Development
-- GitHub: [Chirag Khatri](https://github.com/chiragkhatri19)
+
+-    Place: India
+-    Bio: Student, Learning Frontend Development
+-    GitHub: [Chirag Khatri](https://github.com/chiragkhatri19)
 
 # Name: Lea
-- Place: France
-- Bio: Journalist, Learning Web Development
-- GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
+
+-    Place: France
+-    Bio: Journalist, Learning Web Development
+-    GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
+
+# Name: Abdulsamad
+
+-    Place: Nigeria
+-    Bio: Student, Learning Web Development
+-    GitHub: [Jimoh Abdulsamad](https://github.com/buk-ola01)
