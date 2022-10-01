@@ -55,6 +55,21 @@
     line-height: 2;
 } 
 
+.Lea-Guedj {
+    padding: 7% 15%;
+    background-color: rgb(235, 89, 133);
+    text-align: center;
+}
+
+#Lea-Guedj {
+    font-family: 'Sacramento';
+}
+
+#Lea-Guedj {
+    font-family: 'Montserrat';
+    line-height: 2;
+} 
+
 .socials{
     display: flex;
     justify-content: center;
