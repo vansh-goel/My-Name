@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Anand
+- Place: India
+- Bio: A Programming Generalist
+- Github: [SachXD](https://github.com/sachxd)
