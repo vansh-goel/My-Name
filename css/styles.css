@@ -145,4 +145,16 @@
     line-height: 2;
     margin: 2px auto 16px auto;
     width: 85%;
+
+.jayneelliott {
+    padding: 7% 15%;
+    background-color: rgb(200, 55, 142);
+    text-align: center;
+    color:rgb(41, 9, 74)
+}
+
+.jayneelliott-Para {
+    color:rgb(22, 64, 5);
+    font-weight: 700
+
 }

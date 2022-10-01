@@ -26,10 +26,15 @@
 # Name: Markus
 - Place: Switzerland
 - Bio: Lifelong learner, build and learn in public
-- GitHub: [Markus Eicher](https://github.com/MarkusEicher)
+- GitHub: [Markus Eicher](https://github.com/MarkusEicher
 
 # Name: Rachit
 - Place: India
 - Bio: Student, Learning Web Development
 - GitHub: [Rachit Ranka](https://github.com/rachit-ranka)
+
+# Name: Jayne
+- Place: England
+- Bio: Aspiring coder
+- GitHub: [Jayne Elliott](https://github.com/JayneElliott404)
 
