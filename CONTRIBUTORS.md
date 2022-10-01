@@ -22,3 +22,8 @@
 - Place: France
 - Bio: Journalist, Learning Web Development
 - GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
+
+# Name: Markus
+- Place: Switzerland
+- Bio: Lifelong learner, build and learn in public
+- GitHub: [Markus Eicher](https://github.com/MarkusEicher)
