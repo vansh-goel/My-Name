@@ -13,3 +13,7 @@
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
+# Name: Lea
+- Place: France
+- Bio: Journalist, Learning Web Development
+- GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
