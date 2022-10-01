@@ -133,3 +133,16 @@
   padding-top: 10px;
   width: 20px;
 }
+
+.rachit{
+    padding: 7% 15%;
+    background-color: #EAF6F6;
+    font-family: 'Sacramento', sans-serif;
+    text-align: center;
+}
+.rachit-para{
+    font-family: 'Montserrat';
+    line-height: 2;
+    margin: 2px auto 16px auto;
+    width: 85%;
+}
