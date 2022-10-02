@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: chiranjib
+- Place: India
+- Bio: learner, research scholar
+- GitHub: [chiranjib mohapatra](https://github.com/chiranjib2001)
