@@ -53,3 +53,8 @@
 - Place: India
 - Bio: CSE Student, Tech Geek
 - GitHub: [Ishika Garg](https://github.com/ishgit)
+
+# Name: Angel
+-Place: India
+-Bio: Web Developer and machine learning enthusiast
+-Github: [Angel Bansal](https://github.com/abn15)
