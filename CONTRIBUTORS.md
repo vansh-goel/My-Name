@@ -63,3 +63,8 @@
 - Place: India
 - Bio: CSE Student, Open-source enthusiast
 - GitHub: [Dnyanesh Nimbalkar](https://github.com/Dnyaneshvn)
+
+# Name: Divas
+- Place: India
+- Bio: Machine Learning Enthusiast
+- GitHub: [Divas](https://github.com/divasgt)
