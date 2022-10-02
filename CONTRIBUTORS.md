@@ -58,3 +58,8 @@
 -Place: India
 -Bio: Web Developer and machine learning enthusiast
 -Github: [Angel Bansal](https://github.com/abn15)
+
+# Name: Dnyanesh
+- Place: India
+- Bio: CSE Student, Open-source enthusiast
+- GitHub: [Dnyanesh Nimbalkar](https://github.com/Dnyaneshvn)
