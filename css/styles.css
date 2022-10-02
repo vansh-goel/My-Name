@@ -33,6 +33,8 @@
   font-family: "Sacramento";
 }
 
+
+
 #Harshvardhan-Sharma-Para {
   font-family: "Montserrat";
   line-height: 2;
@@ -149,7 +151,7 @@
 
 .rachit{
     padding: 7% 15%;
-    background-color: #EAF6F6;
+    background-color: #eaf6f6;
     font-family: 'Sacramento', sans-serif;
     text-align: center;
 }
@@ -169,6 +171,7 @@
   font-family: "Montserrat";
   line-height: 2;
 }
+/*********** Geremsa **********/
 .Geremsa {
   background-color: #ffb7b792;
   text-align: center;
@@ -183,6 +186,40 @@
   font-size: medium;
   letter-spacing: .3px;
 }
+/* -------------------------- */
+.Ishika-Ishani{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: rgb(115, 199, 251);
+
+}
+
+#Ishika-Ishani{
+  font-family: "Sacramento";
+}
+
+#Ishika-Ishani-Para{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.socials{
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+.github{
+  padding-top: 10px;
+  width: 20px;
+
+}
+.dhruvi
+{font-family: 'Sacramento';
+    background-color: lightblue;
+    text-align: center;
+    font-size: 52px;
+}
+
 .footer {
   padding: 7% 15%;
   background-color: black;
