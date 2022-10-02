@@ -19,11 +19,6 @@
     line-height: 2;
 }
 
-.twt {
-    padding-top: 10px;
-    width: 20px;
-}
-
 .Shivam-Pathak {
     padding: 7% 15%;
     background-color: #8966f2;
@@ -39,7 +34,6 @@
     font-family: 'Courier New';
     line-height: 2;
 }
-
 
 .Harshvardhan-Sharma{
     text-align: center;
@@ -72,21 +66,7 @@
     line-height: 2;
 } 
 
-.socials{
-    display: flex;
-    justify-content: center;
-    gap: 1.2rem;
-    align-items: center;
-}
-.github{
-    padding-top: 10px;
-    width: 20px;
-}
 
-.Linkd {
-    padding-top: 10px;
-    width: 20px;
-}
     
 .Chirag-Khatri {
     padding: 7% 15%;
@@ -119,6 +99,22 @@
 }
 
 .twt {
+    padding-top: 10px;
+    width: 20px;
+}
+
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    align-items: center;
+}
+.github{
+    padding-top: 10px;
+    width: 20px;
+}
+
+.linkd {
     padding-top: 10px;
     width: 20px;
 }
