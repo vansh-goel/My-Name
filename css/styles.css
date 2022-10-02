@@ -169,6 +169,11 @@
   font-family: "Montserrat";
   line-height: 2;
 }
+.chiranjib{
+    font-family: 'Montserrat';
+    line-height: 2;
+    margin: 2px auto 16px auto;
+    width: 80%;
 
 .footer {
   padding: 7% 15%;
