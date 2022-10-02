@@ -48,3 +48,9 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Raj
+- Place: India
+- Bio: Student,Web Developer & Weeb
+- GitHub: [Prashant Raj](https://github.com/gitrajmaurya)
+- Contribution: Redisigned the layout using flexbox now You just have to add class name-wrapper in your div element and it will adpat the style. Made the page a bit modern looking by adding gradient and simple animation on hover.

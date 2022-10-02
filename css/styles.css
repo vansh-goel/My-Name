@@ -1,211 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+/* css variables */
+:root {
+  --gradient-1: linear-gradient(to bottom right, rgb(107, 107, 255), blue);
+
+  --gradient-2:linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  ;
+
+  --gradient-3: linear-gradient(
+    to bottom right,
+    rgb(255, 207, 145),
+    rgb(255, 111, 92)
+  );
+
+  --gradient-4: linear-gradient( 109.6deg,  rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.flex-wrapper{
+  display: flex;
+  width: 100vw;
+  justify-content: space-evenly;
+  height: auto;
+  flex-wrap:wrap ;
+  overflow-y: hidden;
+  background-image: var(--gradient-2);
+}
+.name-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  height: 250px ;
+  width: 500px;
+  background-image: var(--gradient-4);
+  margin-top: 1.5rem;
+  border-radius: 50px 25px 25px 50px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  transition: transform 1s ease-in-out;
+}
+.name-wrapper:hover{
+  transform: translateY(-20px);
+  background-image: var(--gradient-2);
+}
+.name-wrapper h1{
+  font-family: 'Sacramento';
+  color: var(--heading-color);
+}
+.name-wrapper p{
+  font-family: 'Poppins','sans-serif';
+  color: #00060a;
+}
 .Your-Name {
   padding: 7% 15%;
   background-color: #e94560;
   text-align: center;
 }
-
-.Vansh-Goel {
+.footer {
   padding: 7% 15%;
-  background-color: #faf4b7;
-  text-align: center;
+  background-color: black;
 }
-
-#Vansh-Goel {
-  font-family: "Sacramento";
-}
-
-#Vansh-Goel-Para {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
 .twt {
   padding-top: 10px;
   width: 20px;
-}
-
-.Harshvardhan-Sharma {
-  text-align: center;
-  padding: 7% 15%;
-  background-color: #b7facd;
-}
-#Harshvardhan-Sharma {
-  font-family: "Sacramento";
-}
-
-
-
-#Harshvardhan-Sharma-Para {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.Aditi-Bendre {
-  padding: 7% 15%;
-  background-color: rgba(134, 232, 119, 0.973);
-  text-align: center;
-}
-
-#Aditi-Bendre {
-  font-family: "Sacramento";
-}
-
-#Aditi-Bendre {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.socials {
-  display: flex;
-  justify-content: center;
-  gap: 1.2rem;
-  align-items: center;
 }
 .github {
   padding-top: 10px;
   width: 20px;
 }
-
-.Chirag-Khatri {
-  padding: 7% 15%;
-  background-color: #faf4b7;
-  text-align: center;
-}
-
-#Chirag-Khatri {
-  font-family: "Sacramento";
-}
-
-#Chirag-Khatri-Para {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.Lea-Guedj {
-  padding: 7% 15%;
-  background-color: rgb(235, 89, 133);
-  text-align: center;
-}
-
-#Lea-Guedj {
-  font-family: "Sacramento";
-}
-
-#Lea-Guedj {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.twt {
-  padding-top: 10px;
-  width: 20px;
-}
-.Om-Sarraf {
-  padding: 7% 15%;
-  background-color: rgba(134, 232, 119, 0.973);
-  text-align: center;
-}
-
-#Om-Sarraf {
-  font-family: "Sacramento";
-}
-
-#Om-Sarraf {
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.SEC-markus-eicher {
-  padding: 7% 15%;
-  background-color: rgb(55, 64, 192);
-  text-align: center;
-}
-
-#H1-markus-eicher {
-  font-family: "Montserrat";
-  color: white;
-}
-
-.P-markus-eicher {
-  color: white;
-  text-align: center;
-}
-
-#mke-twt {
-  padding-top: 10px;
-  width: 20px;
-}
-
-.jayneelliott {
-    padding: 7% 15%;
-    background-color: rgb(200, 55, 142);
-    text-align: center;
-    color:rgb(41, 9, 74)
-}
-
-.jayneelliott-Para {
-    color:rgb(22, 64, 5);
-    font-weight: 700
-}
-
-
-.rachit{
-    padding: 7% 15%;
-    background-color: #eaf6f6;
-    font-family: 'Sacramento', sans-serif;
-    text-align: center;
-}
-.rachit-para{
-    font-family: 'Montserrat';
-    line-height: 2;
-    margin: 2px auto 16px auto;
-    width: 85%;
-}
-.aman{
-  padding: 7% 15%;
-  background-color: aquamarine;
-  font-family: "Sacramento";
-  text-align: center;
-}
-.aman-Para{
-  font-family: "Montserrat";
-  line-height: 2;
-}
-
-.Ishika-Ishani{
-  text-align: center;
-  padding: 7% 15%;
-  background-color: rgb(115, 199, 251);
-  
-}
-
-#Ishika-Ishani{
-  font-family: "Sacramento";
-}
-
-#Ishika-Ishani-Para{
-  font-family: "Montserrat";
-  line-height: 2;
-}
-.socials{
+.socials {
   display: flex;
   justify-content: center;
   gap: 1.2rem;
   align-items: center;
-}
-.github{
-  padding-top: 10px;
-  width: 20px;
-
-}
-.dhruvi
-{font-family: 'Sacramento';
-    background-color: lightblue;
-    text-align: center;
-    font-size: 52px;
-}
-
-.footer {
-  padding: 7% 15%;
-  background-color: black;
 }
