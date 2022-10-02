@@ -179,6 +179,19 @@
   
 }
 
+.Ashish{
+background-color: lightblue;
+opacity: 0.3;
+padding: 5%;
+background: rgba(0, 128, 0, 0.3)
+p.mix {border-style: dotted dashed solid double;}
+}
+.man{
+color: white;
+text-align: justify;
+ text-align: center;
+}
+
 #Ishika-Ishani{
   font-family: "Sacramento";
 }
