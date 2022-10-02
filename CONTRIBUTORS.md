@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Angel
+-Place: India
+-Bio: Web Developer and machine learning enthusiast
+-Github: [Angel Bansal](https://github.com/abn15)
