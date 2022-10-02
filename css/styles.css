@@ -199,6 +199,13 @@
 
 }
 
+.dhruvi
+{font-family: 'Sacramento';
+    background-color: lightblue;
+    text-align: center;
+    font-size: 52px;
+}
+
 .Ishika-Garg {
   padding: 7% 15%;
   background-color: #FFB6C1;
@@ -215,13 +222,6 @@
 .twt {
   padding-top: 10px;
   width: 20px;
-}
-
-.dhruvi
-{font-family: 'Sacramento';
-    background-color: lightblue;
-    text-align: center;
-    font-size: 52px;
 }
 
 .footer {
