@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Tania 
+-Place: India
+-Bio: Enthusiastic about Web development, caffiene and music.
+-Github: [Tania Banerjee](https://github.com/taniaban2712)

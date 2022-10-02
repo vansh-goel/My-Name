@@ -169,6 +169,16 @@
   font-family: "Montserrat";
   line-height: 2;
 }
+.taniab{
+  font-family:"Sacramento";
+  background-color:rgb(204, 105, 105);
+  text-align: center;
+  padding: 7% 15%;
+}
+.tania{
+  font-family:"Montserrat";
+  line-height: 2;
+}
 
 .footer {
   padding: 7% 15%;
