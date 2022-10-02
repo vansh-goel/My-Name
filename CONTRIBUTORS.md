@@ -48,3 +48,7 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+# Name: Ujjwal
+ -Place: India
+ -Bio: Web Developer
+ -Github: [Ujjwal Gupta](https://github.com/ujjwalgupta9125)
