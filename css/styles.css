@@ -169,7 +169,20 @@
   font-family: "Montserrat";
   line-height: 2;
 }
-
+.Geremsa {
+  background-color: #ffb7b792;
+  text-align: center;
+  padding: 6rem;
+}
+#Geremsa {
+  font-family: 'Silkscreen', 'regular';
+  font-size: 30px;
+}
+.geremsa-para {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  letter-spacing: .3px;
+}
 .footer {
   padding: 7% 15%;
   background-color: black;
