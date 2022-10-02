@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Ishika
+- Place: India
+- Bio: CSE Student, Tech Geek
+- GitHub: [Ishika Garg](https://github.com/ishgit)
