@@ -176,7 +176,7 @@
   text-align: center;
   padding: 7% 15%;
   background-color: rgb(115, 199, 251);
-  
+
 }
 
 #Ishika-Ishani{
@@ -209,3 +209,20 @@
   padding: 7% 15%;
   background-color: black;
 }
+
+/*********** Geremsa **********/
+.Geremsa {
+  background-color: #ffb7b792;
+  text-align: center;
+  padding: 6rem;
+}
+#Geremsa {
+  font-family: 'Silkscreen', 'regular';
+  font-size: 30px;
+}
+.geremsa-para {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  letter-spacing: .3px;
+}
+/* -------------------------- */
