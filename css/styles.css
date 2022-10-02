@@ -32,6 +32,11 @@
 
 #Shivam-Pathak {
     font-family: 'Courier New';
+    line-height: 3;
+}
+
+#Shivam-Pathak-Para{
+    font-family: 'Courier New';
     line-height: 2;
 }
 
@@ -76,7 +81,12 @@
 .github{
     padding-top: 10px;
     width: 20px;
-}    
+}
+
+.Linkd {
+    padding-top: 10px;
+    width: 20px;
+}
     
 .Chirag-Khatri {
     padding: 7% 15%;
