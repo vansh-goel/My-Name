@@ -48,3 +48,8 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+
+# Name: Wulakey
+- Place: India
+- Bio: Gammer and a Full time coder
+- GitHub: [Wulakey Tanwar](https://github.com/Wulakey-tanwar)
