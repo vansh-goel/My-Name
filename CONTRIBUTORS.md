@@ -68,3 +68,8 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Himanshu
+- Place: India
+- Bio: Student, Web Developer
+- GitHub: [Himanshu Kumar Verma](https://github.com/Himanshuiiit)
