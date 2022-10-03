@@ -5,7 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>I was Here</title>
-
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <link rel="manifest" href="./favicon/site.webmanifest" />
     <!-- BootStrap  -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
@@ -15,7 +18,7 @@
     />
 
     <!-- CSS Stylesheet -->
-    <link href="./css/styles.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/styles.css" rel="stylesheet" type="text/css" />
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,8 +27,21 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat&family=Sacramento&display=swap"
       rel="stylesheet"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
   </head>
   <body>
+    <header>
+      <form>
+        <input
+          type="text"
+          placeholder="Search for your name..."
+          id="name-input"
+        />
+        <button id="search-btn">Search</button>
+      </form>
+    </header>
     <!-- Example  -->
     <div class="Your-Name">
       <h1 id="Your-Name">Name was here</h1>
@@ -161,9 +177,9 @@
     </div>
 
     <!-- Markus Eicher -->
-    <section class="SEC-markus-eicher">
-      <h1 id="H1-markus-eicher">Markus was here</h1>
-      <p class="P-markus-eicher">
+    <section class="Markus-Eicher">
+      <h1 id="Markus-Eicher">Markus was here</h1>
+      <p class="Markus-Eicher-Para">
         Hi folks, my name is Markus. I'm currently learning to code and building
         projects in public. I like contributing to opensource and I'm a hockey
         fan and occasionally oil painter. Have a great time and be well!
@@ -185,25 +201,48 @@
     </section>
 
     <!-- Jayne Elliott  -->
-    <div class="jayneelliott">
-        <h1 id="h1jayneelliott">Jayne was here</h1>
-        <p class="jayneelliott-Para"> Hi, my name is Jayne and I am just starting out in the world of coding. I also enjoy Formula One and cats.</p>
-        <a href="https://github.com/JayneElliott404" target="_blank"><img class="github" id="mke-github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub logo shows a white cat silhouette on black background"></a>
-    </div>
-    
-    <!-- Rachit Ranka  -->
-    <div class="rachit">
-        <h1>Rachit was here</h1>
-        <p class="rachit-para">Hey👋, this is Rachit. I am a 1st year engineering student. Currently, I am learning about Bootstrap. I love to explore new tech. </p>
-        <a href="http://twitter.com/rachit_45" target="_blank"><img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt=""></a>
-        <a href="https://github.com/rachit-ranka" target="_blank"><img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+    <div class="Jayne-Elliott">
+      <h1 id="Jayne-Elliott">Jayne was here</h1>
+      <p class="Jayne-Elliott-Para">
+        Hi, my name is Jayne and I am just starting out in the world of coding.
+        I also enjoy Formula One and cats.
+      </p>
+      <a href="https://github.com/JayneElliott404" target="_blank"
+        ><img
+          class="github"
+          id="mke-github"
+          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+          alt="GitHub logo shows a white cat silhouette on black background"
+      /></a>
     </div>
 
-     <!-- Aman Mishra -->
-     <div class="aman">
-      <h1 id="aman">Aman was here</h1>
-      <p class="aman-Para">
-        Hi, I'm Aman Mishra. Currently, I'm learning Web development and I loves to play to Chess in freetime.
+    <!-- Rachit Ranka  -->
+    <div class="Rachit">
+      <h1>Rachit was here</h1>
+      <p class="Rachit-Para">
+        Hey👋, this is Rachit. I am a 1st year engineering student. Currently, I
+        am learning about Bootstrap. I love to explore new tech.
+      </p>
+      <a href="http://twitter.com/rachit_45" target="_blank"
+        ><img
+          class="twt"
+          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+          alt=""
+      /></a>
+      <a href="https://github.com/rachit-ranka" target="_blank"
+        ><img
+          class="github"
+          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+          alt=""
+      /></a>
+    </div>
+
+    <!-- Aman Mishra -->
+    <div class="Aman">
+      <h1 id="Aman">Aman was here</h1>
+      <p class="Aman-Para">
+        Hi, I'm Aman Mishra. Currently, I'm learning Web development and I loves
+        to play to Chess in freetime.
       </p>
       <div class="socials">
         <a href="https://twitter.com/Aman_Mishra_1" target="_blank"
@@ -221,33 +260,58 @@
       </div>
     </div>
 
-       <!-- Ishika Ishani -->
+    <!-- Ishika Ishani -->
     <div class="Ishika-Ishani">
       <h1 id="Ishika-Ishani">Ishika was here</h1>
-      <p class="Ishika-Ishani-Para">Ishika here; I am a student currently learning web programming while pursuing a Bachelor of Data Science at IIT Madras. Music, poetry, reading, and travelling are some of my interests. . </p>
+      <p class="Ishika-Ishani-Para">
+        Ishika here; I am a student currently learning web programming while
+        pursuing a Bachelor of Data Science at IIT Madras. Music, poetry,
+        reading, and travelling are some of my interests. .
+      </p>
       <div class="socials">
-          <a href="https://twitter.com/siya_1255" target="_blank"><img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt=""></a>
-          <a href="https://github.com/ishani-1255" target="_blank"><img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
-      </div> 
-    </div> 
-
-
-
-
-     <!-- Dhruvi Thakkar -->
-    <div class="dhruvi">
-        <h1 id="dhruvi">Dhruvi was here</h1>
-        <p class="dhruvi">Hello everyone, this is Dhruvi. I am currently working on my frontend skills .</p>
-        <a href="https://twitter.com/dhruvicodes" target="_blank"><img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt=""></a>
-        <a href="https://github.com/dhruvi210" target="_blank"><img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+        <a href="https://twitter.com/siya_1255" target="_blank"
+          ><img
+            class="twt"
+            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+            alt=""
+        /></a>
+        <a href="https://github.com/ishani-1255" target="_blank"
+          ><img
+            class="github"
+            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+            alt=""
+        /></a>
+      </div>
     </div>
-    
-    
-     <!-- Ishika Garg  -->
+
+    <!-- Dhruvi Thakkar -->
+    <div class="Dhruvi">
+      <h1 id="Dhruvi">Dhruvi was here</h1>
+      <p class="Dhruvi">
+        Hello everyone, this is Dhruvi. I am currently working on my frontend
+        skills .
+      </p>
+      <a href="https://twitter.com/dhruvicodes" target="_blank"
+        ><img
+          class="twt"
+          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+          alt=""
+      /></a>
+      <a href="https://github.com/dhruvi210" target="_blank"
+        ><img
+          class="github"
+          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+          alt=""
+      /></a>
+    </div>
+
+    <!-- Ishika Garg  -->
     <div class="Ishika-Garg">
       <h1 id="Ishika-Garg">Ishika was here</h1>
       <p class="Ishika-Garg-Para">
-        Hey there! I am first year college student pursuing engineering. Currently learning Web Development and Linux. My fav pastimes are reading and watching sci-fi movies. Big fan of Indie music.
+        Hey there! I am first year college student pursuing engineering.
+        Currently learning Web Development and Linux. My fav pastimes are
+        reading and watching sci-fi movies. Big fan of Indie music.
       </p>
       <a href="http://twitter.com/ishi_g03" target="_blank"
         ><img
@@ -257,13 +321,13 @@
       /></a>
     </div>
 
-
     <!-- Angel Bansal  -->
     <div class="Angel-Bansal">
       <h1 id="Angel-Bansal">Angel was here</h1>
-      <p class="Angel-Bansal-para">
-        Hi everyone my name is Angel Bansal. I am a computer science undergraduate.
-        I am currently learning react and i love to explore new tech stacks.
+      <p class="Angel-Bansal-Para">
+        Hi everyone my name is Angel Bansal. I am a computer science
+        undergraduate. I am currently learning react and i love to explore new
+        tech stacks.
       </p>
       <div class="socials">
         <a href="https://twitter.com/ctrl_zedd" target="_blank"
@@ -281,13 +345,12 @@
       </div>
     </div>
 
-    
     <!-- Divas  -->
     <div class="Divas">
       <h1 id="Divas">Divas was here</h1>
-      <p class="Divas-para">
-        Hi, my name is Divas. I am a computer science student.
-        I am a tech enthusiast and currently learning machine learning.
+      <p class="Divas-Para">
+        Hi, my name is Divas. I am a computer science student. I am a tech
+        enthusiast and currently learning machine learning.
       </p>
       <div class="socials">
         <a href="https://twitter.com/divas_v" target="_blank"
@@ -304,7 +367,51 @@
         /></a>
       </div>
     </div>
+    <div class="Jitesh">
+      <h1 id="Jitesh"> <span id="jitesh_span">Jitesh</span> was here</h1>
+      <p class="Jitesh-para">
+        Hey! I am a third year engineering student. A Fluter enthusiast interested in Frontend Development and learning Data Structures and Algorithms. Playing Chess, reading, gaming are some of my favorite things to do.
+      </p>
+      <div class="socials">
+        <a href="https://twitter.com/Jitesh_117" target="_blank"
+          ><img
+            class="twt"
+            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+            alt=""
+        /></a>
+        <a href="https://github.com/Jitesh117" target="_blank"
+          ><img
+            class="github"
+            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+            alt=""
+        /></a>
+      </div>
+    </div>
 
+    <!-- Mridul Panda -->
+    <div class="mridul2820">
+      <h1 id="mridul2820">Mridul was here</h1>
+      <p class="mridul2820-description">
+        Hi, I'm Mridul Panda. I'm a front-end developer working on React JS,
+        Next JS and React Native. I love to explore new tech stuffs everyday and
+        I'm a Cricket fan.
+      </p>
+      <div class="socials">
+        <a href="https://twitter.com/i_mridul" target="_blank"
+          ><img
+            class="twt"
+            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+            alt=""
+        /></a>
+        <a href="https://github.com/Mridul2820" target="_blank"
+          ><img
+            class="github"
+            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+            alt=""
+        /></a>
+      </div>
+    </div>
+    
     <!-- Vishal Pattnaik -->
     <div class="Vishal-P">
       <h1 id="Vishal-P">Vishal was here</h1>
@@ -319,20 +426,20 @@
       /></a>
     </div>
 
-    
-
     <div class="footer">
       <h1>My-Name</h1>
       <p>
-        Repository made for Hacktoberfest 2022<br/>
-        Made with HTML/CSS and ❤️ by programmers from around the world<br/>
-        <a href="https://github.com/vansh-goel/My-Name" target="blank" rel="noreferrer">Source</a>
+        Repository made for Hacktoberfest 2022<br />
+        Made with HTML/CSS and ❤️ by programmers from around the world<br />
+        <a
+          href="https://github.com/vansh-goel/My-Name"
+          target="blank"
+          rel="noreferrer"
+          >Source</a
+        >
       </p>
     </div>
-
-    
-
-   
+    <script src="./js/app.js"></script>
   </body>
 
   <style>
@@ -345,5 +452,4 @@
       text-align: center;
     }
   </style>
-
 </html>
