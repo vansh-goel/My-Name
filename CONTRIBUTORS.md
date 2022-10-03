@@ -68,3 +68,9 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Dheeraj
+- Place: India
+- Bio: DSA and MERN Stack
+- GitHub: [Dheeraj](https://github.com/Dheeraj13042002)
+
