@@ -12,8 +12,6 @@ const toTitleCase = (str) => {
   return toReturn;
 };
 
-console.log(toTitleCase("hobSbj"));
-
 nameForm.addEventListener("submit", (e) => {
   e.preventDefault();
   const namePartsArray = nameInput.value.split(" ");
