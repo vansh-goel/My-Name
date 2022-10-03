@@ -22,3 +22,26 @@ nameForm.addEventListener("submit", (e) => {
   nameInput.value = "";
   window.location.hash = nameToNavigateTo;
 });
+
+
+function searchFunction() {
+    
+  var searchInput = document.getElementById('name-input');
+
+  var filter = searchInput.value.toUpperCase();
+  
+  var myNames = document.getElementById('my-names');
+  var myName = myNames.getElementsByClassName('my-name');
+
+  for (i = 0; i < myName.length; i++) {
+      var h1 = myName[i].getElementsByTagName("h1")[0];
+      var txtValue = h1.textContent || h1.innerText;
+
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          myName[i].style.display = "";
+      } 
+      else {
+          myName[i].style.display = "none";
+      }
+  }
+}

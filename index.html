@@ -38,12 +38,15 @@
           type="text"
           placeholder="Search for your name..."
           id="name-input"
+          onkeyup="searchFunction()"
         />
         <button id="search-btn">Search</button>
       </form>
     </header>
+
+    <div id="my-names">
     <!-- Example  -->
-    <div class="Your-Name">
+    <div class="Your-Name my-name">
       <h1 id="Your-Name">Name was here</h1>
       <p class="Your-Name-Para">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia odit
@@ -60,7 +63,7 @@
     </div>
 
     <!-- Vansh-Goel -->
-    <div class="Vansh-Goel">
+    <div class="Vansh-Goel my-name">
       <h1 id="Vansh-Goel">Vansh was here</h1>
       <p class="Vansh-Goel-Para">
         Hello everyone this is Vansh, I am a student who is learning web
@@ -77,7 +80,7 @@
     </div>
 
     <!-- Harshvardhan-Sharma -->
-    <div class="Harshvardhan-Sharma">
+    <div class="Harshvardhan-Sharma my-name">
       <h1 id="Harshvardhan-Sharma">Harsh was here</h1>
       <p class="Harshvardhan-Sharma-Para">
         Hello everyone this is Harsh, I am a 1st yr CSE student who is learning
@@ -101,7 +104,7 @@
     </div>
 
     <!-- Aditi-Bendre  -->
-    <div class="Aditi-Bendre">
+    <div class="Aditi-Bendre my-name">
       <h1 id="Aditi-Bendre">Aditi was here</h1>
       <p class="Aditi-Bendre-Para">
         Hi everyone this is Aditi Bendre. I am a 2nd year student of BCA
@@ -117,7 +120,7 @@
     </div>
 
     <!-- Chirag-Khatri -->
-    <div class="Chirag-Khatri">
+    <div class="Chirag-Khatri my-name">
       <h1 id="Chirag-Khatri">Chirag was here</h1>
       <p class="Chirag-Khatri-Para">
         Hi everyone this is Chirag Khatri. I am a High School Passout. I have a
@@ -133,7 +136,7 @@
     </div>
 
     <!-- Lea-Guedj  -->
-    <div class="Lea-Guedj">
+    <div class="Lea-Guedj my-name">
       <h1 id="Lea-Guedj">Lea was here</h1>
       <p class="Lea-Guedj-Para">
         Hello everyone, this is Lea. I am a journalist learning how to code. I
@@ -154,7 +157,7 @@
       /></a>
     </div>
     <!-- Om-Sarraf  -->
-    <div class="Om-Sarraf">
+    <div class="Om-Sarraf my-name">
       <h1 id="Om-Sarraf">Om was here</h1>
       <p class="Om-Sarraf-Para">
         Hi everyone this is Om Sarraf. I am currently in my freshman year
@@ -177,7 +180,7 @@
     </div>
 
     <!-- Markus Eicher -->
-    <section class="Markus-Eicher">
+    <section class="Markus-Eicher my-name">
       <h1 id="Markus-Eicher">Markus was here</h1>
       <p class="Markus-Eicher-Para">
         Hi folks, my name is Markus. I'm currently learning to code and building
@@ -201,7 +204,7 @@
     </section>
 
     <!-- Jayne Elliott  -->
-    <div class="Jayne-Elliott">
+    <div class="Jayne-Elliott my-name">
       <h1 id="Jayne-Elliott">Jayne was here</h1>
       <p class="Jayne-Elliott-Para">
         Hi, my name is Jayne and I am just starting out in the world of coding.
@@ -217,7 +220,7 @@
     </div>
 
     <!-- Rachit Ranka  -->
-    <div class="Rachit">
+    <div class="Rachit my-name">
       <h1>Rachit was here</h1>
       <p class="Rachit-Para">
         Hey👋, this is Rachit. I am a 1st year engineering student. Currently, I
@@ -238,7 +241,7 @@
     </div>
 
     <!-- Aman Mishra -->
-    <div class="Aman">
+    <div class="Aman my-name">
       <h1 id="Aman">Aman was here</h1>
       <p class="Aman-Para">
         Hi, I'm Aman Mishra. Currently, I'm learning Web development and I loves
@@ -261,7 +264,7 @@
     </div>
 
     <!-- Ishika Ishani -->
-    <div class="Ishika-Ishani">
+    <div class="Ishika-Ishani my-name">
       <h1 id="Ishika-Ishani">Ishika was here</h1>
       <p class="Ishika-Ishani-Para">
         Ishika here; I am a student currently learning web programming while
@@ -285,7 +288,7 @@
     </div>
 
     <!-- Dhruvi Thakkar -->
-    <div class="Dhruvi">
+    <div class="Dhruvi my-name">
       <h1 id="Dhruvi">Dhruvi was here</h1>
       <p class="Dhruvi">
         Hello everyone, this is Dhruvi. I am currently working on my frontend
@@ -306,7 +309,7 @@
     </div>
 
     <!-- Ishika Garg  -->
-    <div class="Ishika-Garg">
+    <div class="Ishika-Garg my-name">
       <h1 id="Ishika-Garg">Ishika was here</h1>
       <p class="Ishika-Garg-Para">
         Hey there! I am first year college student pursuing engineering.
@@ -322,7 +325,7 @@
     </div>
 
     <!-- Angel Bansal  -->
-    <div class="Angel-Bansal">
+    <div class="Angel-Bansal my-name">
       <h1 id="Angel-Bansal">Angel was here</h1>
       <p class="Angel-Bansal-Para">
         Hi everyone my name is Angel Bansal. I am a computer science
@@ -346,7 +349,7 @@
     </div>
 
     <!-- Divas  -->
-    <div class="Divas">
+    <div class="Divas my-name">
       <h1 id="Divas">Divas was here</h1>
       <p class="Divas-Para">
         Hi, my name is Divas. I am a computer science student. I am a tech
@@ -367,7 +370,7 @@
         /></a>
       </div>
     </div>
-    <div class="Jitesh">
+    <div class="Jitesh my-name">
       <h1 id="Jitesh"> <span id="jitesh_span">Jitesh</span> was here</h1>
       <p class="Jitesh-para">
         Hey! I am a third year engineering student. A Fluter enthusiast interested in Frontend Development and learning Data Structures and Algorithms. Playing Chess, reading, gaming are some of my favorite things to do.
@@ -389,7 +392,7 @@
     </div>
 
     <!-- Mridul Panda -->
-    <div class="mridul2820">
+    <div class="mridul2820 my-name">
       <h1 id="mridul2820">Mridul was here</h1>
       <p class="mridul2820-description">
         Hi, I'm Mridul Panda. I'm a front-end developer working on React JS,
@@ -411,7 +414,7 @@
         /></a>
       </div>
     </div>
-
+  </div>
     <div class="footer">
       <h1>My-Name</h1>
       <p>
@@ -425,7 +428,7 @@
         >
       </p>
     </div>
-    <script src="./js/app.js"></script>
+    <script src="./js/index.js"></script>
   </body>
 
   <style>
