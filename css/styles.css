@@ -261,3 +261,18 @@
   font-family: "Montserrat";
   line-height: 2;
 }
+
+.Vishal-P {
+  padding: 7% 15%;
+  background-color: #4feeee;
+  text-align: center;
+}
+
+#Vishal-P {
+  font-family: "Papyrus";
+}
+
+.Vishal-P-para {
+  font-family: "cursive";
+  line-height: 2;
+}
