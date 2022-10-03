@@ -308,3 +308,15 @@ header > form {
 #mridul2820 {
   font-family: "Sacramento";
 }
+
+.poojaShinde {
+  padding: 7% 15%;
+  background-color: rgb(84, 55, 200);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.poojaShinde-Para {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}

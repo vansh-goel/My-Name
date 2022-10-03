@@ -68,3 +68,8 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Pooja
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
