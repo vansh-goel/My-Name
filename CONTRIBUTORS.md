@@ -68,3 +68,8 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Agnese
+- Place: Italy
+- Bio: Student, Music Maker
+- GitHub: [Agnese](https://github.com/AgneseB2)
