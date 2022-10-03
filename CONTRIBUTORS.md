@@ -3,10 +3,7 @@
 - Bio: Student, Web Developer
 - GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
-## Name: Ashish
-- Place: India
-- Bio: Student, blockchain devloper
-- GitHub: [ashish](https://github.com/Ashiiidev)
+
 
 # Name: Harsh
 - Place: India
@@ -53,3 +50,10 @@
 - Place: India
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
+## Name: Ashish
+
+- Place: India
+
+- Bio: Student, blockchain devloper
+
+- GitHub: [ashish](https://github.com/Ashiiidev)
