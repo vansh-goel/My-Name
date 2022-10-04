@@ -68,3 +68,8 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Revati Deshmukh
+- Place: Singapore
+- Bio: Software Engineer
+- GitHub: [Divas](https://github.com/revati-deshmukh)
