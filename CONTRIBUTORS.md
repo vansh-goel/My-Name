@@ -69,9 +69,9 @@
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
 
-
-# Name: Shivam Pathak
+# Name: Pooja
 - Place: India
-- Bio: Student, App and web developer
-- GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+- Bio: Student, Learning Web Development
+- GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
+
 
