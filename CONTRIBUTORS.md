@@ -69,7 +69,9 @@
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
 
+
 # Name: Shivam Pathak
 - Place: India
 - Bio: Student, App and web developer
 - GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+
