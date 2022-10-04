@@ -9,3 +9,21 @@ This is a Project I created for anyone just starting out in CSS and Open-Source.
 - Happy Contributing!!
 
 **Yes This Project was Inspired from Shawshank Redemption's "Brooks Was Here"**
+
+---
+## 😎 Project Admin
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/vansh-goel"><img src="https://avatars.githubusercontent.com/u/62180044?v=4" width="100px;" alt=""/><br /><sub><b>Vansh</b></sub></a></td>
+  </tr>
+</table>
+---
+## ⭐ Project Contributors
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/vansh-goel/My-Name/graphs/contributors" align="center">
+  <img src="https://contrib.rocks/image?repo=vansh-goel/My-Name" /> 
+</a>
+---
