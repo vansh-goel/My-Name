@@ -80,4 +80,12 @@
 - Bio: Student-university of madras - ethical hacker and web devoloping enthusiast
 - GitHub: [Sandeep Velayudhan](https://github.com/Sanu1999)
 
+# Name: Akshay Kumar Maurya
+- Place: India
+- Bio: Software Engineer | Android Developer
+- GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
 
+# Name: Ayush Srivastava
+- Place: India
+- Bio: Student | web Developer
+- GitHub: [Ayush](https://github.com/klaus0512)
