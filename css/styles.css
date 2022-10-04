@@ -343,3 +343,18 @@ header > form {
   color: rgb(255, 255, 255);
   font-weight: 700;
 }
+
+
+.AyushSrivastava {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #b7b8fa;
+}
+#Ayush-Srivastava {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Ayush-paragraph {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 2;
+}
