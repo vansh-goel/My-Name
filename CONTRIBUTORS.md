@@ -68,3 +68,8 @@
 - Place: India
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Romeo
+- Place: Benin
+- Bio: Student, Web Developer
+- GitHub: [Romeo Kakpo](https://github.com/romeokakpo)

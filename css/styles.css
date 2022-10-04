@@ -308,3 +308,18 @@ header > form {
 #mridul2820 {
   font-family: "Sacramento";
 }
+
+.romeokakpo{
+  padding: 7% 15%;
+  background-color: rgba(177, 102, 11, 0.5);
+  text-align: center;
+}
+
+#Romeo-Kakpo{
+  font-family: "Sacramento";
+}
+
+.romeokakpo-description{
+  font-family: "Montserrat";
+  line-height: 2;
+}
