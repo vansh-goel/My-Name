@@ -343,3 +343,23 @@ header > form {
   color: rgb(255, 255, 255);
   font-weight: 700;
 }
+.gaurav{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align:center;
+  padding:7rem 5rem;
+  font-family: 'Montserrat';
+  background-image: linear-gradient(to right, rgba(219, 68, 55, 1), rgba(219, 68, 55, .7), rgba(219, 68, 55, 1) );
+}
+.name{
+  background-color: #DB4437;
+  padding:.2rem .5rem;
+  color:#fff;
+  border-radius: 1rem;
+}
+.gaurav-text{
+  padding-top:2rem;
+  text-align: center;
+  width:50%
+}
