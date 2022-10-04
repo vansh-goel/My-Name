@@ -22,3 +22,23 @@ nameForm.addEventListener("submit", (e) => {
   nameInput.value = "";
   window.location.hash = nameToNavigateTo;
 });
+
+
+// Akshay Kumar Maurya
+const countValueEl = document.getElementById('countValue');
+
+pageVisitCount();
+
+// Here created key & value to starting value as 0 
+// https://api.countapi.xyz/create?namespace=my-name&key=akshay&value=0 
+
+
+function pageVisitCount() {
+  // For updating Value of visitors need to fetch this api
+  //here amount will be 1, because we are increasing visitor value by +1
+  fetch('https://api.countapi.xyz/update/my-name/akshay?amount=1')
+    .then(res => res.json())
+    .then(res => {
+      countValueEl.innerHTML = res.value;
+    })
+}
