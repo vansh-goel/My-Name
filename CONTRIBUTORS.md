@@ -72,4 +72,4 @@
 # Name: Revati Deshmukh
 - Place: Singapore
 - Bio: Software Engineer
-- GitHub: [Divas](https://github.com/revati-deshmukh)
+- GitHub: [Revati Deshmukh](https://github.com/revati-deshmukh)
