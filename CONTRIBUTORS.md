@@ -75,3 +75,9 @@
 - Bio: Student, App and web developer
 - GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
 
+# Name: Sandeep Velayudhan
+- Place: India
+- Bio: Student-university of madras - ethical hacker and web devoloping enthusiast
+- GitHub: [Sandeep Velayudhan](https://github.com/Sanu1999)
+
+
