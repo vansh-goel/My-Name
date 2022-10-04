@@ -73,3 +73,10 @@
 - Place: India
 - Bio: Student, Learning Web Development
 - GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
+
+# Name: Shivam Pathak
+- Place: India
+- Bio: Student, App and web developer
+- GitHub: [Shivam Pathak](https://github.com/ShivamPathak99)
+
+
