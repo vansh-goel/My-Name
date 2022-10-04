@@ -73,3 +73,14 @@
 - Place: Benin
 - Bio: Student, Web Developer
 - GitHub: [Romeo Kakpo](https://github.com/romeokakpo)
+
+# Name: Pooja
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
+
+# Name: Sandeep Velayudhan
+- Place: India
+- Bio: Student-university of madras - ethical hacker and web devoloping enthusiast
+- GitHub: [Sandeep Velayudhan](https://github.com/Sanu1999)
+
