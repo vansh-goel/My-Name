@@ -343,6 +343,7 @@ header > form {
   color: rgb(255, 255, 255);
   font-weight: 700;
 }
+
 .gaurav{
   display: flex;
   flex-direction: column;
@@ -363,3 +364,22 @@ header > form {
   text-align: center;
   width:50%
 }
+
+
+.SrikarM{
+    padding: 7% 15%;
+    background-color: #7DF9FF;
+    text-align: center;
+}
+
+#SrikarM{
+    font-family: 'Sacramento';
+    line-height: 2;
+}
+
+.linkedin{
+    padding-top: 10px;
+    padding-left:2px;
+    width: 20px;
+}
+

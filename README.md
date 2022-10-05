@@ -1,3 +1,11 @@
+# Hacktoberfest
+
+<img
+  src="hacktoberfest.ico"
+  alt="Hacktoberfest"
+  title="Hacktoberfest"
+  style="display: inline-block; margin: 0 auto;  max-width: 150px">
+
 # My-Name
 This is a Project I created for anyone just starting out in CSS and Open-Source. The Project as of now contains an example div, you can add a similar section with your name and something about yourself, or you could go all the way out and add something extra you'd want too. Consider this as a learning exercise and your initial step into the world of contribution and Open-Source. If you like the idea of this project make sure to share it with your friends. You can see what the Web Page currently looks like, [Here](https://vansh-goel.github.io/My-Name/)
 
