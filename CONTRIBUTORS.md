@@ -12,6 +12,10 @@
 - Place: India
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
+# Name: Abhay Chandel
+- Place: India
+- Bio: Student, Front-End Developer
+- GitHub: [Abhay Chandel](https://github.com/iabhaychandel)
 
 # Name: Chirag
 - Place: India
