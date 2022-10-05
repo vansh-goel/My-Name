@@ -69,6 +69,22 @@
 - Bio: Machine Learning Enthusiast
 - GitHub: [Divas](https://github.com/divasgt)
 
+# Name: Pooja
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
+
+
+# Name: Sandeep Velayudhan
+- Place: India
+- Bio: Student-university of madras - ethical hacker and web devoloping enthusiast
+- GitHub: [Sandeep Velayudhan](https://github.com/Sanu1999)
+
+# Name: Akshay Kumar Maurya
+- Place: India
+- Bio: Software Engineer | Android Developer
+- GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
+
 # Name: Revati Deshmukh
 - Place: Singapore
 - Bio: Software Engineer
