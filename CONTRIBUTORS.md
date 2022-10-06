@@ -84,3 +84,8 @@
 - Place: India
 - Bio: Software Engineer | Android Developer
 - GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
+
+# Name: Ayush Srivastava
+- Place: India
+- Bio: Student | web Developer
+- GitHub: [Ayush](https://github.com/klaus0512)
