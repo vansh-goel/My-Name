@@ -55,9 +55,9 @@
 - GitHub: [Ishika Garg](https://github.com/ishgit)
 
 # Name: Angel
--Place: India
--Bio: Web Developer and machine learning enthusiast
--Github: [Angel Bansal](https://github.com/abn15)
+- Place: India
+- Bio: Web Developer and machine learning enthusiast
+- Github: [Angel Bansal](https://github.com/abn15)
 
 # Name: Dnyanesh
 - Place: India
@@ -85,7 +85,14 @@
 - Bio: Software Engineer | Android Developer
 - GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
 
+
 # Name: Tania 
 -Place: India
 -Bio: Enthusiastic about Web development, caffiene and music.
 -Github: [Tania Banerjee](https://github.com/taniaban2712)
+
+# Name: Ayush Srivastava
+- Place: India
+- Bio: Student | web Developer
+- GitHub: [Ayush](https://github.com/klaus0512)
+
