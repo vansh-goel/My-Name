@@ -49,6 +49,42 @@
 - Bio: Web Developer
 - GitHub: [Aman Mishra](https://github.com/thisisamanmishra)
 
+# Name: Ishika
+- Place: India
+- Bio: CSE Student, Tech Geek
+- GitHub: [Ishika Garg](https://github.com/ishgit)
+
+# Name: Angel
+-Place: India
+-Bio: Web Developer and machine learning enthusiast
+-Github: [Angel Bansal](https://github.com/abn15)
+
+# Name: Dnyanesh
+- Place: India
+- Bio: CSE Student, Open-source enthusiast
+- GitHub: [Dnyanesh Nimbalkar](https://github.com/Dnyaneshvn)
+
+# Name: Divas
+- Place: India
+- Bio: Machine Learning Enthusiast
+- GitHub: [Divas](https://github.com/divasgt)
+
+# Name: Pooja
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Pooja Shinde](https://github.com/PoojaShinde07)
+
+
+# Name: Sandeep Velayudhan
+- Place: India
+- Bio: Student-university of madras - ethical hacker and web devoloping enthusiast
+- GitHub: [Sandeep Velayudhan](https://github.com/Sanu1999)
+
+# Name: Akshay Kumar Maurya
+- Place: India
+- Bio: Software Engineer | Android Developer
+- GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
+
 # Name: Tania 
 -Place: India
 -Bio: Enthusiastic about Web development, caffiene and music.

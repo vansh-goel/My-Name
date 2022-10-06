@@ -1,3 +1,39 @@
+header {
+  height: 10vh;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(86, 39, 255);
+}
+
+header > form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#name-input {
+  padding: 0.5rem;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  border: none;
+  width: 240px;
+  height: 40px;
+}
+
+#search-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 40px;
+  width: 60px;
+  border-radius: 0 5px 5px 0;
+  background-color: white;
+  font-weight: 400;
+  color: rgb(86, 39, 255);
+}
+
 .Your-Name {
   padding: 7% 15%;
   background-color: #e94560;
@@ -113,18 +149,18 @@
   line-height: 2;
 }
 
-.SEC-markus-eicher {
+.Markus-Eicher {
   padding: 7% 15%;
   background-color: rgb(55, 64, 192);
   text-align: center;
 }
 
-#H1-markus-eicher {
+#Markus-Eicher {
   font-family: "Montserrat";
   color: white;
 }
 
-.P-markus-eicher {
+.Markus-Eicher-Para {
   color: white;
   text-align: center;
 }
@@ -134,38 +170,37 @@
   width: 20px;
 }
 
-.jayneelliott {
-    padding: 7% 15%;
-    background-color: rgb(200, 55, 142);
-    text-align: center;
-    color:rgb(41, 9, 74)
+.Jayne-Elliott {
+  padding: 7% 15%;
+  background-color: rgb(200, 55, 142);
+  text-align: center;
+  color: rgb(41, 9, 74);
 }
 
-.jayneelliott-Para {
-    color:rgb(22, 64, 5);
-    font-weight: 700
+.Jayne-Elliott-Para {
+  color: rgb(22, 64, 5);
+  font-weight: 700;
 }
 
-
-.rachit{
-    padding: 7% 15%;
-    background-color: #EAF6F6;
-    font-family: 'Sacramento', sans-serif;
-    text-align: center;
+.Rachit {
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  font-family: "Sacramento", sans-serif;
+  text-align: center;
 }
-.rachit-para{
-    font-family: 'Montserrat';
-    line-height: 2;
-    margin: 2px auto 16px auto;
-    width: 85%;
+.Rachit-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+  margin: 2px auto 16px auto;
+  width: 85%;
 }
-.aman{
+.Aman {
   padding: 7% 15%;
   background-color: aquamarine;
   font-family: "Sacramento";
   text-align: center;
 }
-.aman-Para{
+.Aman-Para {
   font-family: "Montserrat";
   line-height: 2;
 }
@@ -180,7 +215,170 @@
   line-height: 2;
 }
 
+.Ishika-Ishani {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: rgb(115, 199, 251);
+}
+
+#Ishika-Ishani {
+  font-family: "Sacramento";
+}
+
+#Ishika-Ishani-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+.github {
+  padding-top: 10px;
+  width: 20px;
+}
+.Dhruvi {
+  font-family: "Sacramento";
+  background-color: lightblue;
+  text-align: center;
+  font-size: 52px;
+}
+
+.Ishika-Garg {
+  padding: 7% 15%;
+  background-color: LightPink;
+  text-align: center;
+}
+
+#Ishika-Garg {
+  font-family: "Sacramento";
+}
+
+#Ishika_Garg-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.twt {
+  padding-top: 10px;
+  width: 20px;
+}
+
 .footer {
   padding: 7% 15%;
   background-color: black;
 }
+
+.Angel-Bansal {
+  padding: 7% 15%;
+  background-color: rgba(170, 119, 232, 0.973);
+  text-align: center;
+}
+
+#Angel-Bansal {
+  font-family: "tahoma";
+}
+
+#Angel-Bansal {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Divas {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Divas {
+  font-family: "tahoma";
+}
+
+#Divas {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.Jitesh{
+  padding: 7% 15%;
+  background-color: #fb87f5;
+  text-align: center;
+}
+#jitesh_span{
+  font-family: 'Lobster', cursive;
+}
+
+.mridul2820 {
+  padding: 7% 15%;
+  background-color: rgba(150, 230, 161, 0.5);
+  text-align: center;
+}
+
+#mridul2820 {
+  font-family: "Sacramento";
+
+}
+
+.Shivam-Pathak {
+    padding: 7% 15%;
+    background-color: #8966f2;
+    text-align: center;
+}
+
+#Shivam-Pathak {
+    font-family: 'Courier New';
+    line-height: 3;
+}
+
+#Shivam-Pathak-Para{
+    font-family: 'Courier New';
+    line-height: 2;
+}
+
+.linkd {
+    padding-top: 10px;
+    width: 20px;
+
+}
+
+.poojaShinde {
+  padding: 7% 15%;
+  background-color: rgb(84, 55, 200);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.poojaShinde-Para {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}
+
+.SrikarM{
+    padding: 7% 15%;
+    background-color: #7DF9FF;
+    text-align: center;
+}
+
+#SrikarM{
+    font-family: 'Sacramento';
+    line-height: 2;
+}
+
+.linkedin{
+    padding-top: 10px;
+    padding-left:2px;
+    width: 20px;
+}
+
+.taniab{
+  font-family:"Sacramento";
+  background-color:rgb(230, 116, 116);
+  text-align: center;
+  padding: 7% 15%;
+}
+.tania{
+  font-family:"Montserrat";
+  line-height: 2;
+}
+
