@@ -21,7 +21,7 @@
 # Name: Lea
 - Place: France
 - Bio: Journalist, Learning Web Development
-- GitHub: [Lea Guedj]([https://github.com/AditiBendre](https://github.com/leaggg)
+- GitHub: [Lea Guedj](https://github.com/leaggg)
 
 # Name: Markus
 - Place: Switzerland
