@@ -84,3 +84,8 @@
 - Place: India
 - Bio: Software Engineer | Android Developer
 - GitHub: [Akshay Kumar Maurya](https://github.com/Akshay-21)
+
+# Name: Tania 
+-Place: India
+-Bio: Enthusiastic about Web development, caffiene and music.
+-Github: [Tania Banerjee](https://github.com/taniaban2712)
