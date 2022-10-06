@@ -87,9 +87,9 @@
 
 
 # Name: Tania 
--Place: India
--Bio: Enthusiastic about Web development, caffiene and music.
--Github: [Tania Banerjee](https://github.com/taniaban2712)
+- Place: India
+- Bio: Enthusiastic about Web development, caffiene and music.
+- Github: [Tania Banerjee](https://github.com/taniaban2712)
 
 # Name: Ayush Srivastava
 - Place: India
