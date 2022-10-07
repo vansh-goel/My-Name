@@ -370,18 +370,18 @@ header>form {
     width: 20px;
 }
 
-.Dwi-dhanis {
-    text-align: center;
+.dhanis {
     color: white;
-    padding: 7% 15%;
+    text-align: center;
     background-color: #00bbf9;
+    padding: 5% 17%;
 }
 
-#Dwi-dhanis {
-    font-family: "Sacramento";
+#dhanis {
+    font-family: "Poppins";
 }
 
-#Dwi-dhanis-Para {
-    font-family: "Montserrat";
-    line-height: 2;
+.dhanis-font {
+    padding-top: 2em;
+    font-family: "Lobster";
 }
