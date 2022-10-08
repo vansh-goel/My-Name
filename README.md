@@ -21,6 +21,9 @@ This is a Project I created for anyone just starting out in CSS and Open-Source.
 
 **Yes This Project was Inspired from Shawshank Redemption's "Brooks Was Here"**
 
+If you like this project make sure to follow me for more such projects and join our [Community](https://discord.com/invite/j7WnBsZFPt)
+
+
 ---
 ## 😎 Project Admin
 
