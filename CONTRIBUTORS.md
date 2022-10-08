@@ -96,3 +96,8 @@
 - Bio: Student | web Developer
 - GitHub: [Ayush](https://github.com/klaus0512)
 
+# Name: Agnese
+- Place: Italy
+- Bio: Student, Music Maker
+- GitHub: [Agnese](https://github.com/AgneseB2)
+
