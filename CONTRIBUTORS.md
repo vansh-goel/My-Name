@@ -99,5 +99,5 @@
 # Name: Prashant Raj Maurya
 - Place: India
 - Bio: Student | web Developer
-- GitHub: [Ayush](https://github.com/gitrajmaurya)
+- GitHub: [Raj](https://github.com/gitrajmaurya)
 
