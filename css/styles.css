@@ -451,3 +451,22 @@ header > form {
   line-height: 2;
 }
 
+.Aryan-Sharma{
+  padding: 7% 15%;
+  background-color: rgb(30, 120, 132);
+  text-align: center;
+}
+
+#Aryan-Sharma {
+  font-family: "Sacramento";
+}
+
+#Aryan-Sharma_span{
+  font-family: 'Lobster', cursive;
+}
+
+#Aryan-Sharma{
+  font-family: "Sacramento";
+  z-index: 2;
+}
+
