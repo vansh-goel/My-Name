@@ -2,16 +2,22 @@ header {
   height: 10vh;
   padding: 1rem;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
 
 header > form {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+
 }
+
+.hero-img{
+  width: 130px;
+  border-radius: 50%;
+}
+
 
 #name-input {
   padding: 0.5rem;
@@ -443,6 +449,20 @@ header > form {
 
 #harsh25k {
   font-family: "Montserrat";
+  line-height: 2;
+}
+
+.AyushSoni {
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  text-align: center;
+}
+#Ayush-Soni {
+  font-family: "Sacramento";
+}
+
+#Ayush-paragraph {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
 
