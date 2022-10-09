@@ -14,7 +14,7 @@ header > form {
 }
 
 .hero-img{
-  width: 130px;
+  width: 110px;
   border-radius: 50%;
 }
 
@@ -466,3 +466,37 @@ header > form {
   line-height: 2;
 }
 
+.Yashraj {
+  padding: 7% 15%;
+  background-color: #A9A9A9;
+  text-align: center;
+}
+
+#Yash-raj {
+  font-family: "Sacramento";
+}
+
+.Yash-Raj-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Ujjwal-Gupta {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Ujjwal-Gupta {
+  font-family: "Sacramento";
+}
+
+#Ujjwal-Gupta-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.twt {
+  padding-top: 10px;
+  width: 20px;
+}
