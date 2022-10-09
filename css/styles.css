@@ -450,6 +450,22 @@ header > form {
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
+
+.Yashraj {
+  padding: 7% 15%;
+  background-color: #A9A9A9;
+  text-align: center;
+}
+
+#Yash-raj {
+  font-family: "Sacramento";
+}
+
+.Yash-Raj-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Ujjwal-Gupta {
   padding: 7% 15%;
   background-color: #faf4b7;
