@@ -451,3 +451,17 @@ header > form {
   line-height: 2;
 }
 
+.Yash-raj {
+  padding: 7% 15%;
+  background-color: #A9A9A9;
+  text-align: center;
+}
+
+#Yash-raj {
+  font-family: "Sacramento";
+}
+
+#Yash-Raj-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
