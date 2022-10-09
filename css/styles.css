@@ -4,8 +4,10 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(86, 39, 255);
+  background-color: rgb(40, 39, 43);
 }
+
+/* background-color: rgb(86, 39, 255); */
 
 header > form {
   display: flex;
@@ -31,7 +33,7 @@ header > form {
   border-radius: 0 5px 5px 0;
   background-color: white;
   font-weight: 400;
-  color: rgb(86, 39, 255);
+  color: #333;
 }
 
 .Your-Name {
