@@ -101,3 +101,8 @@
 - Bio: Student, Music Maker
 - GitHub: [Agnese](https://github.com/AgneseB2)
 
+# Name: Harsh Kukreja
+- Place: India
+- Bio: Student, Learning web development and DSA
+- GitHub: [Harsh Kukreja](https://github.com/harsh-25k)
+
