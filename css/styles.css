@@ -13,16 +13,6 @@ header > form {
 
 }
 
-.hero-anchor{
-  text-decoration: none;
-  color: #D0FF27;
-  font-family: 'Macondo', cursive;
-}
-
-.hero-anchor:hover{
-  color: #BEF300;
-}
-
 .hero-img{
   width: 130px;
   border-radius: 50%;
