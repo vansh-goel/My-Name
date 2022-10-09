@@ -2,16 +2,32 @@ header {
   height: 10vh;
   padding: 1rem;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
 
 header > form {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+
 }
+
+.hero-anchor{
+  text-decoration: none;
+  color: #D0FF27;
+  font-family: 'Macondo', cursive;
+}
+
+.hero-anchor:hover{
+  color: #BEF300;
+}
+
+.hero-img{
+  width: 130px;
+  border-radius: 50%;
+}
+
 
 #name-input {
   padding: 0.5rem;
