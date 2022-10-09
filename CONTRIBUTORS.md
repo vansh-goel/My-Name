@@ -96,3 +96,8 @@
 - Bio: Student | web Developer
 - GitHub: [Ayush](https://github.com/klaus0512)
 
+# Name: Prashant Raj Maurya
+- Place: India
+- Bio: Student | web Developer
+- GitHub: [Ayush](https://github.com/gitrajmaurya)
+
