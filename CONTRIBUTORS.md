@@ -101,3 +101,8 @@
 - Bio: Student, Music Maker
 - GitHub: [Agnese](https://github.com/AgneseB2)
 
+# Name: Yash Raj
+- Place: India
+- Bio: Student/ Exploring Tech/ learing Web Dev
+- Github: [Yash](https://github.com/yash-raj10)
+
