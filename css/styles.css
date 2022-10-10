@@ -556,7 +556,20 @@ header > form {
 #saran-sinha {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.SujalSamai {
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  text-align: center;
+}
 
+#Sujal-Samai {
+  font-family: "Sacramento";
+}
+
+#Sujal-paragraph {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 2;
+}
 
 /* scroll to top */
 #scrolltp{
