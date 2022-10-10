@@ -130,6 +130,12 @@
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
 
+# Name: Anurag
+- Place: India
+- Bio: Student
+- GitHub: [Anurag](https://github.com/Anu-Ra-g)
+
+
 # Name: Alit Indrawan
 - Place: Indonesia
 - Bio: Software Engineer
@@ -155,8 +161,5 @@
 - Place: India
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
-
-
-
 
 
