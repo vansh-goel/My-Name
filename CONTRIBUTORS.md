@@ -119,6 +119,11 @@
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
 
+# Name: Akhilesh Waghmare 
+- Place: India
+- Bio: Student/ Explorer/ Tech enthusiast
+- GitHub: [Akhilesh](https://github.com/akhilesh-w)
+
 # Name: Gilang Kharisma
 - Place: Indonesia
 - Bio: Love Linux, Still Learning About Web Programing
@@ -133,5 +138,6 @@
 - Place: India
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
+
 
 
