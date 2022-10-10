@@ -118,17 +118,6 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
-
-# Name: Akhilesh Waghmare 
-- Place: India
-- Bio: Student/ Explorer/ Tech enthusiast
-- GitHub: [Akhilesh](https://github.com/akhilesh-w)
-
-# Name: Gilang Kharisma
-- Place: Indonesia
-- Bio: Love Linux, Still Learning About Web Programing
-- GitHub: [Gilang Kharisma](https://github.com/GilangKharisma)
-
 # Name: Atharva Mogade
 - Place: India
 - Bio: Frontend Web Devloper
@@ -140,4 +129,8 @@
 - Github: [Vagdevi](https://github.com/Vagdevi007)
 
 
+# Name: Aseem
+- Country: India
+- Bio: Student + Exploring + Learning --> **Frontend dev** & **DSA** as of now.
+- Github: [Aseem](https://github.com/AseemsGit)
 
