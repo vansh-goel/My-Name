@@ -545,6 +545,17 @@ header > form {
 
 }
 
+.saran {
+  text-align: center;
+  padding: 7% 15%;
+  /* background-color: #b7b8fa; */
+  background-image: linear-gradient(to right,rgb(46, 161, 243),rgb(11, 247, 184), rgb(48, 162, 244));
+}
+#saran-sinha {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
 /* scroll to top */
 #scrolltp{
   color:white ;
@@ -561,4 +572,3 @@ header > form {
   padding-top: 10px;
   width: 20px;
 }
-
