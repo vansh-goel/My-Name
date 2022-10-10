@@ -40,6 +40,9 @@ header > form {
   background-color: white;
   font-weight: 400;
   color: rgb(86, 39, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Your-Name {
