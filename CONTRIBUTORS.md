@@ -118,3 +118,7 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
+# Name: Akhilesh Waghmare 
+- Place: India
+- Bio: Student/ Explorer/ Tech enthusiast
+- GitHub: [Raj](https://github.com/gitrajmaurya)
