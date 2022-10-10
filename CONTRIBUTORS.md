@@ -122,3 +122,9 @@
 - Place: India
 - Bio: Frontend Web Devloper
 - Github: [atharvamogade](https://github.com/atharvamogade)
+
+# Name: Surarapu Vagdevi
+- Place: India
+- Bio: Student,Competitive Programmer
+- Github: [Vagdevi](https://github.com/Vagdevi007)
+
