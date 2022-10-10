@@ -14,7 +14,7 @@ header > form {
 }
 
 .hero-img{
-  width: 130px;
+  width: 110px;
   border-radius: 50%;
 }
 
@@ -437,6 +437,21 @@ header > form {
   line-height: 2;
 }
 
+.HarshKukreja {
+  padding: 7% 15%;
+  background-color: #ABEBC6;
+  text-align: center;
+}
+
+#HarshKukreja {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#harsh25k {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .AyushSoni {
   padding: 7% 15%;
   background-color: #eaf6f6;
@@ -450,6 +465,7 @@ header > form {
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
+
 
 .Aryan-Sharma{
   padding: 7% 15%;
@@ -470,3 +486,63 @@ header > form {
   z-index: 2;
 }
 
+.Yashraj {
+  padding: 7% 15%;
+  background-color: #A9A9A9;
+  text-align: center;
+}
+
+#Yash-raj {
+  font-family: "Sacramento";
+}
+
+.Yash-Raj-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Ujjwal-Gupta {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Ujjwal-Gupta {
+  font-family: "Sacramento";
+}
+
+#Ujjwal-Gupta-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+/* raj */
+.raj{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding:20px 0;
+  /* gradient */
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+/* scroll to top */
+#scrolltp{
+  color:white ;
+  background: tomato;
+  padding: 15px;
+  border-radius: 50%;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  transition:opacity 0.5s;
+
+
+.twt {
+  padding-top: 10px;
+  width: 20px;
+}

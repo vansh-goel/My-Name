@@ -29,8 +29,8 @@ const countValueEl = document.getElementById('countValue');
 
 pageVisitCount();
 
-// Here created key & value to starting value as 0 
-// https://api.countapi.xyz/create?namespace=my-name&key=akshay&value=0 
+// Here created key & value to starting value as 0
+// https://api.countapi.xyz/create?namespace=my-name&key=akshay&value=0
 
 
 function pageVisitCount() {
@@ -42,3 +42,21 @@ function pageVisitCount() {
       countValueEl.innerHTML = res.value;
     })
 }
+
+
+// scroll to top
+const scrolltp = document.querySelector("#scrolltp");
+scrolltp.addEventListener('click', function(){
+    window.scrollTo({
+        top:0,
+        left:0,
+        behavior:"smooth",
+    });
+});
+window.addEventListener('scroll', function(){
+    if(this.window.scrollY >= 700){
+        scrolltp.style.opacity = 1;
+    }else{
+        scrolltp.style.opacity = 0;
+    }
+})
