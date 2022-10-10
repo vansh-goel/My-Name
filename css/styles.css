@@ -554,6 +554,21 @@ header > form {
 #saran-sinha {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.Vagdevi {
+  padding: 7% 15%;
+  background: linear-gradient(90deg, rgb(238, 174, 216) 0%, rgba(233, 148, 188, 0.349) 100%);
+  text-align: center;
+}
+
+.Vagdevi {
+  font-family: "Sacramento";
+  font-size: 30px;
+}
+
+#Surarapu Vagdevi{
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 
 /* scroll to top */
