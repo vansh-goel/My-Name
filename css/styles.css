@@ -627,6 +627,7 @@ header > form {
 
 #alit-here {
   font-family: 'Sacramento';
+}
 
 .Gilang-Kharisma {
   padding: 7% 15%;
@@ -662,6 +663,29 @@ header > form {
 #Sujal-paragraph {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
+}
+
+/* Atharva Mogade */
+.atharvamogade-conainter {
+  padding: 7% 15%;
+  background-color: #ccccff;
+  text-align: center;
+}
+
+#atharvamogade-h1 {
+  font-family: "Sacramento";
+}
+
+.atharvamogade-p {
+  font-family: "Montserrat";
+  width: 75%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.twt {
+  padding-top: 10px;
+  width: 20px;
 }
 
 /* scroll to top */
