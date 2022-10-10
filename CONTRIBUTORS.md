@@ -106,3 +106,7 @@
 - Bio: Student/ Exploring Tech/ learing Web Dev
 - Github: [Yash](https://github.com/yash-raj10)
 
+#Name: Jyotika
+- Place: India
+- Bio: Student| Exploring web dev, dsa
+- Github: [Jyotika] (https://github.com/jyotika6221)
