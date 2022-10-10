@@ -437,6 +437,21 @@ header > form {
   line-height: 2;
 }
 
+.HarshKukreja {
+  padding: 7% 15%;
+  background-color: #ABEBC6;
+  text-align: center;
+}
+
+#HarshKukreja {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#harsh25k {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .AyushSoni {
   padding: 7% 15%;
   background-color: #eaf6f6;
