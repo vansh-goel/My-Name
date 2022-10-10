@@ -555,6 +555,26 @@ header > form {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Akhilesh Waghmare */
+#Akhilesh-Waghmare {
+  font-family: "Sacramento";
+}
+
+#Akhilesh-Waghmare-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+.github {
+  padding-top: 10px;
+  width: 20px;
+}
+
 
 /* scroll to top */
 #scrolltp{
@@ -566,7 +586,7 @@ header > form {
   right: 50px;
   bottom: 50px;
   transition:opacity 0.5s;
-
+}
 
 .twt {
   padding-top: 10px;
