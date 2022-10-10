@@ -96,6 +96,11 @@
 - Bio: Student | web Developer
 - GitHub: [Ayush](https://github.com/klaus0512)
 
+# Name: Shivam Gutpa
+- Place: India
+- Bio: Student, Web Developer
+- GitHub: [Agnese](https://github.com/rawnge)
+
 # Name: Agnese
 - Place: Italy
 - Bio: Student, Music Maker
