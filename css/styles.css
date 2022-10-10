@@ -627,6 +627,7 @@ header > form {
 
 #alit-here {
   font-family: 'Sacramento';
+}
 
 .Gilang-Kharisma {
   padding: 7% 15%;
@@ -661,6 +662,21 @@ header > form {
 
 #Sujal-paragraph {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 2;
+}
+
+.Jiganesh-Patil{
+  padding: 7% 15%;
+  background-color: rgb(218, 197, 253);
+  text-align: center;
+}
+
+#Jiganesh-Patil {
+  font-family: "Sacramento";
+}
+
+#Jiganesh-Patil {
+  font-family: "Montserrat";
   line-height: 2;
 }
 
