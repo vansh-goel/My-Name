@@ -26,8 +26,7 @@ header > form {
   border-radius: 5px 0 0 5px;
   outline: none;
   border: none;
-  width: 240px;
-  height: 40px;
+  width: 80%;
 }
 
 #search-btn {
