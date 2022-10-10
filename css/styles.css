@@ -557,6 +557,17 @@ header > form {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.alit {
+  font-family: "Montserrat";
+    line-height: 2;
+    text-align: center;
+    padding: 3% 8%;
+    background-image: linear-gradient(to right, rgb(46, 161, 243), rgb(11, 117, 247), rgb(12, 96, 156));
+}
+
+#alit-here {
+  font-family: 'Sacramento';
+}
 
 /* scroll to top */
 #scrolltp{
