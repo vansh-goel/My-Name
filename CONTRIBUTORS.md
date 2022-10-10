@@ -118,6 +118,12 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
+
+# Name: Gilang Kharisma
+- Place: Indonesia
+- Bio: Love Linux, Still Learning About Web Programing
+- GitHub: [Gilang Kharisma](https://github.com/GilangKharisma)
+
 # Name: Atharva Mogade
 - Place: India
 - Bio: Frontend Web Devloper
@@ -127,4 +133,5 @@
 - Place: India
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
+
 
