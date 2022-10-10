@@ -6,9 +6,9 @@ header {
   align-items: center;
   background-color: rgb(40, 39, 43);
 }
-
-/* background-color: rgb(86, 39, 255); */
-
+body{
+  background-color: #222;
+}
 header > form {
   display: flex;
   justify-content: space-around;
@@ -439,6 +439,21 @@ header > form {
   line-height: 2;
 }
 
+.HarshKukreja {
+  padding: 7% 15%;
+  background-color: #ABEBC6;
+  text-align: center;
+}
+
+#HarshKukreja {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#harsh25k {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .AyushSoni {
   padding: 7% 15%;
   background-color: #eaf6f6;
@@ -451,6 +466,26 @@ header > form {
 #Ayush-paragraph {
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
+}
+
+
+.Aryan-Sharma{
+  padding: 7% 15%;
+  background-color: rgb(30, 120, 132);
+  text-align: center;
+}
+
+#Aryan-Sharma {
+  font-family: "Sacramento";
+}
+
+#Aryan-Sharma_span{
+  font-family: 'Lobster', cursive;
+}
+
+#Aryan-Sharma{
+  font-family: "Sacramento";
+  z-index: 2;
 }
 
 .Yashraj {
@@ -468,6 +503,21 @@ header > form {
   line-height: 2;
 }
 
+.Rishabh {
+  padding: 7% 15%;
+  background-color: #2be6f4;
+  text-align: center;
+}
+
+#risahbh {
+  font-family: "Sacramento";
+}
+
+.Rishabh {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Ujjwal-Gupta {
   padding: 7% 15%;
   background-color: #faf4b7;
@@ -481,6 +531,43 @@ header > form {
 #Ujjwal-Gupta-Para {
   font-family: "Montserrat";
   line-height: 2;
+}
+
+/* raj */
+.raj{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding:20px 0;
+  /* gradient */
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+.saran {
+  text-align: center;
+  padding: 7% 15%;
+  /* background-color: #b7b8fa; */
+  background-image: linear-gradient(to right,rgb(46, 161, 243),rgb(11, 247, 184), rgb(48, 162, 244));
+}
+#saran-sinha {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* scroll to top */
+#scrolltp{
+  color:white ;
+  background: tomato;
+  padding: 15px;
+  border-radius: 50%;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  transition:opacity 0.5s;
 }
 
 .twt {
