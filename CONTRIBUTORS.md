@@ -118,3 +118,7 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
+# Name: Atharva Mogade
+- Place: India
+- Bio: Frontend Webdevloper
+- Github: [atharvamogade](https://github.com/atharvamogade)
