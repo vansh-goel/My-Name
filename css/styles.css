@@ -501,6 +501,21 @@ header > form {
   line-height: 2;
 }
 
+.Rishabh {
+  padding: 7% 15%;
+  background-color: #2be6f4;
+  text-align: center;
+}
+
+#risahbh {
+  font-family: "Sacramento";
+}
+
+.Rishabh {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Ujjwal-Gupta {
   padding: 7% 15%;
   background-color: #faf4b7;
@@ -546,3 +561,4 @@ header > form {
   padding-top: 10px;
   width: 20px;
 }
+
