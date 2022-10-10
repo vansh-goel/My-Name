@@ -627,7 +627,7 @@ header > form {
 
 #alit-here {
   font-family: 'Sacramento';
-
+}
 .Gilang-Kharisma {
   padding: 7% 15%;
   background-color: #4A4238;
@@ -663,6 +663,21 @@ header > form {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
+.Robin-Singh {
+  padding: 7% 15%;
+  background-color: rgba(106, 230, 95, 0.973);
+  text-align: center;
+}
+
+#Robin-Singh {
+  font-family: "Sacramento";
+}
+
+#Robin-Singh {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 
 /* scroll to top */
 #scrolltp{
