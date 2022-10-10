@@ -162,4 +162,9 @@
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
 
+# Name: Jiganesh Patil
+- Place: India
+- Bio: Graduate, Developer + Competitive Programmer
+- Github: [Jiganesh](https://github.com/Jiganesh)
+
 
