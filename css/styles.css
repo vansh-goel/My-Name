@@ -634,3 +634,22 @@ header > form {
   padding-top: 10px;
   width: 20px;
 }
+
+.Jyotika{
+  padding: 7% 15%;
+  background-color: rgb(126, 199, 24);
+  text-align: center;
+}
+
+#Jyotika {
+  font-family:"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+}
+
+#jyotika_span{
+  font-family: "Sacramento";
+}
+
+#Jyotika{
+  font-family: "Montserrat";
+  line-height: 2;
+}

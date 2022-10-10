@@ -118,6 +118,12 @@
 - Github: [Yash](https://github.com/yash-raj10)
 
 
+#Name: Jyotika
+- Place: India
+- Bio: Student| Exploring web dev, dsa
+- Github: [Jyotika] (https://github.com/jyotika6221)
+
+
 # Name: Prashant Raj Maurya
 - Place: India
 - Bio: Student | web Developer
@@ -143,6 +149,7 @@
 - Place: India
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
+
 
 
 
