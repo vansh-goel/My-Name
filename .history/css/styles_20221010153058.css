@@ -32,8 +32,6 @@ header > form {
 
 #search-btn {
   border: none;
-  padding-right: 0.5rem; 
-  margin-right: 0.5rem; 
   outline: none;
   cursor: pointer;
   height: 40px;
@@ -578,24 +576,13 @@ header > form {
 }
 
 .krishna {
-  background: #121212;
-  color: white;
-  padding: 10% 15%;
+  color: rgb(197, 200, 198); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px; font-family: Inconsolata, Monaco, Consolas, "Courier New", Courier, monospace; direction: ltr; text-align: left; white-space: pre-wrap; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 4; hyphens: none;
+  padding: 5% 15%;
   text-align: center;
   font-family: "Montserrat";
   /* line-height: 2; */
 }
 
 #krishna {
-  font-family: "Montserrat";
-}
-#krishna span {
-  font-family: "Poppins";
-  font-weight: 600;
-  background: -webkit-linear-gradient(137.49deg, #8242B9 10.37%, #B82F8C 75.94%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-.krishna .socials {
-filter: drop-shadow(0px 0px 10px #a5a5a5);
+  font-family: "Sacramento";
 }

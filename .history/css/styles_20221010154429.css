@@ -32,8 +32,6 @@ header > form {
 
 #search-btn {
   border: none;
-  padding-right: 0.5rem; 
-  margin-right: 0.5rem; 
   outline: none;
   cursor: pointer;
   height: 40px;
@@ -578,8 +576,15 @@ header > form {
 }
 
 .krishna {
-  background: #121212;
-  color: white;
+  background-color:#aaff99;
+  background-image:
+  radial-gradient(at 32% 20%, hsla(237,87%,62%,1) 0px, transparent 50%),
+  radial-gradient(at 58% 85%, hsla(196,86%,79%,1) 0px, transparent 50%),
+  radial-gradient(at 36% 95%, hsla(17,88%,62%,1) 0px, transparent 50%),
+  radial-gradient(at 59% 0%, hsla(275,72%,64%,1) 0px, transparent 50%),
+  radial-gradient(at 77% 31%, hsla(173,74%,70%,1) 0px, transparent 50%),
+  radial-gradient(at 20% 31%, hsla(166,91%,68%,1) 0px, transparent 50%),
+  radial-gradient(at 39% 42%, hsla(48,68%,64%,1) 0px, transparent 50%);
   padding: 10% 15%;
   text-align: center;
   font-family: "Montserrat";
@@ -595,7 +600,5 @@ header > form {
   background: -webkit-linear-gradient(137.49deg, #8242B9 10.37%, #B82F8C 75.94%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-.krishna .socials {
-filter: drop-shadow(0px 0px 10px #a5a5a5);
+
 }

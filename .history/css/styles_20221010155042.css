@@ -32,8 +32,6 @@ header > form {
 
 #search-btn {
   border: none;
-  padding-right: 0.5rem; 
-  margin-right: 0.5rem; 
   outline: none;
   cursor: pointer;
   height: 40px;
@@ -597,5 +595,5 @@ header > form {
   -webkit-text-fill-color: transparent;
 }
 .krishna .socials {
-filter: drop-shadow(0px 0px 10px #a5a5a5);
+filter: drop-shadow(3px 2px 4px #4444dd);
 }
