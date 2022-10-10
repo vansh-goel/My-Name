@@ -40,6 +40,9 @@ header > form {
   background-color: white;
   font-weight: 400;
   color: rgb(86, 39, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Your-Name {
@@ -424,6 +427,21 @@ header > form {
   line-height: 2;
 }
 
+.rawngex01 {
+  padding: 7% 15%;
+  background-color: #ef9561;
+  text-align: center;
+}
+
+#rawngex01 {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#rawngex01-description{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Agnese {
   padding: 7% 15%;
   background-color: #efb661;
@@ -556,6 +574,80 @@ header > form {
 #saran-sinha {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.Vagdevi {
+  padding: 7% 15%;
+  background: linear-gradient(90deg, rgb(238, 174, 216) 0%, rgba(233, 148, 188, 0.349) 100%);
+  text-align: center;
+}
+
+.Vagdevi {
+  font-family: "Sacramento";
+  font-size: 30px;
+}
+
+#Surarapu Vagdevi{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+/* Akhilesh Waghmare */
+#Akhilesh-Waghmare {
+  font-family: "Sacramento";
+}
+
+#Akhilesh-Waghmare-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+.github {
+  padding-top: 10px;
+  width: 20px;
+}
+
+
+
+.alit {
+  font-family: "Montserrat";
+    line-height: 2;
+    text-align: center;
+    padding: 3% 8%;
+    background-image: linear-gradient(to right, rgb(46, 161, 243), rgb(11, 117, 247), rgb(12, 96, 156));
+}
+
+#alit-here {
+  font-family: 'Sacramento';
+
+.Gilang-Kharisma {
+  padding: 7% 15%;
+  background-color: #4A4238;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.Jyotika{
+  padding: 7% 15%;
+  background-color: rgb(126, 199, 24);
+  text-align: center;
+}
+
+#Jyotika {
+  font-family:"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+}
+
+#jyotika_span{
+  font-family: "Sacramento";
+}
+
+#Jyotika{
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 
 /* scroll to top */
@@ -568,9 +660,10 @@ header > form {
   right: 50px;
   bottom: 50px;
   transition:opacity 0.5s;
-
+}
 
 .twt {
   padding-top: 10px;
   width: 20px;
 }
+
