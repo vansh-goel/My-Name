@@ -96,8 +96,17 @@
 - Bio: Student | web Developer
 - GitHub: [Ayush](https://github.com/klaus0512)
 
+# Name: Agnese
+- Place: Italy
+- Bio: Student, Music Maker
+- GitHub: [Agnese](https://github.com/AgneseB2)
+
+# Name: Yash Raj
+- Place: India
+- Bio: Student/ Exploring Tech/ learing Web Dev
+- Github: [Yash](https://github.com/yash-raj10)
+
 # Name: Prashant Raj Maurya
 - Place: India
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
-
