@@ -118,3 +118,7 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
+# Name: Gilang Kharisma
+- Place: Indonesia
+- Bio: Love Linux, Still Learning About Web Programing
+- GitHub: [Gilang Kharisma](https://github.com/GilangKharisma)
