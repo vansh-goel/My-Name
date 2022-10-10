@@ -130,6 +130,12 @@
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
 
+# Name: Alit Indrawan
+- Place: Indonesia
+- Bio: Software Engineer
+- GitHub: [Alit Indrawan](https://github.com/Alitindrawan24)
+
+
 # Name: Akhilesh Waghmare 
 - Place: India
 - Bio: Student/ Explorer/ Tech enthusiast
@@ -149,6 +155,7 @@
 - Place: India
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
+
 
 
 
