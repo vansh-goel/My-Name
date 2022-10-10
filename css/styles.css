@@ -6,7 +6,9 @@ header {
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
-
+body{
+  background-color: #222;
+}
 header > form {
   display: flex;
   justify-content: space-around;
@@ -575,6 +577,13 @@ header > form {
   width: 20px;
 }
 
+
+.Gilang-Kharisma {
+  padding: 7% 15%;
+  background-color: #4A4238;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+}
 
 /* scroll to top */
 #scrolltp{
