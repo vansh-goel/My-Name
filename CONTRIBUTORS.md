@@ -96,6 +96,11 @@
 - Bio: Student | web Developer
 - GitHub: [Ayush](https://github.com/klaus0512)
 
+# Name: Shivam Gutpa
+- Place: India
+- Bio: Student, Web Developer
+- GitHub: [Agnese](https://github.com/rawnge)
+
 # Name: Agnese
 - Place: Italy
 - Bio: Student, Music Maker
@@ -113,13 +118,45 @@
 - Github: [Yash](https://github.com/yash-raj10)
 
 
+#Name: Jyotika
+- Place: India
+- Bio: Student| Exploring web dev, dsa
+- Github: [Jyotika] (https://github.com/jyotika6221)
+
+
 # Name: Prashant Raj Maurya
 - Place: India
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
+
 # Name: Alit Indrawan
 - Place: Indonesia
 - Bio: Software Engineer
 - GitHub: [Alit Indrawan](https://github.com/Alitindrawan24)
+
+
+# Name: Akhilesh Waghmare 
+- Place: India
+- Bio: Student/ Explorer/ Tech enthusiast
+- GitHub: [Akhilesh](https://github.com/akhilesh-w)
+
+# Name: Gilang Kharisma
+- Place: Indonesia
+- Bio: Love Linux, Still Learning About Web Programing
+- GitHub: [Gilang Kharisma](https://github.com/GilangKharisma)
+
+# Name: Atharva Mogade
+- Place: India
+- Bio: Frontend Web Devloper
+- Github: [atharvamogade](https://github.com/atharvamogade)
+
+# Name: Surarapu Vagdevi
+- Place: India
+- Bio: Student,Competitive Programmer
+- Github: [Vagdevi](https://github.com/Vagdevi007)
+
+
+
+
 
