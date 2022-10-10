@@ -120,5 +120,5 @@
 
 # Name: Atharva Mogade
 - Place: India
-- Bio: Frontend Webdevloper
+- Bio: Frontend Web Devloper
 - Github: [atharvamogade](https://github.com/atharvamogade)
