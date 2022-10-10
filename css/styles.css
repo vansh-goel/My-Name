@@ -622,6 +622,23 @@ header > form {
 
 #alit-here {
   font-family: 'Sacramento';
+}
+ 
+.Agrim-Sharma {
+  padding: 7% 15%;
+  background-image:linear-gradient(to right, lightgreen, yellow );
+  text-align: center;
+}
+
+#Agrim-Sharma {
+  font-family: 'Zapfino Extra LT', sans-serif;
+  line-height: 3;
+}
+
+#Agrim-Sharma-Para{
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .Gilang-Kharisma {
   padding: 7% 15%;
