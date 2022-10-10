@@ -106,3 +106,7 @@
 - Bio: Student/ Exploring Tech/ learing Web Dev
 - Github: [Yash](https://github.com/yash-raj10)
 
+# Name: Prashant Raj Maurya
+- Place: India
+- Bio: Student | web Developer
+- GitHub: [Raj](https://github.com/gitrajmaurya)
