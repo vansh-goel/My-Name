@@ -6,9 +6,7 @@ header {
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
-body{
-  background-color: #222;
-}
+
 header > form {
   display: flex;
   justify-content: space-around;
@@ -600,12 +598,10 @@ header > form {
 .Akhilesh-Waghmare {
   padding: 7% 15%;
   text-align: center;
-  color: white;
   font-family: "Sacramento";
 }
 
 #Akhilesh-Waghmare-Para {
-  color: white;
   font-family: "Montserrat";
   line-height: 2;
 }
