@@ -121,4 +121,4 @@
 # Name: Akhilesh Waghmare 
 - Place: India
 - Bio: Student/ Explorer/ Tech enthusiast
-- GitHub: [Raj](https://github.com/gitrajmaurya)
+- GitHub: [Akhilesh](https://github.com/akhilesh-w)
