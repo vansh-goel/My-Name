@@ -163,3 +163,14 @@
 - Github: [Vagdevi](https://github.com/Vagdevi007)
 
 
+# Name: Jiganesh Patil
+- Place: India
+- Bio: Graduate, Developer + Competitive Programmer
+- Github: [Jiganesh](https://github.com/Jiganesh)
+
+# Name: Antony Prince
+- Place: India
+- Bio: Data Engineer, Blockchain Enthusiast
+- Github: [Antony](https://github.com/antoprince001)
+
+
