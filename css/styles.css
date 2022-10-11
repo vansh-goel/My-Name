@@ -806,6 +806,21 @@ header > form {
   margin-top: -10px;
 }
 
+.Pooja-Sharma{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #AAC4FF;
+}
+
+#Pooja-Sharma {
+  font-family: "Sacramento";
+}
+
+#Pooja-Sharma-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
