@@ -740,6 +740,21 @@ header > form {
 
 }
 
+.Jiganesh-Patil{
+  padding: 7% 15%;
+  background-color: rgb(218, 197, 253);
+  text-align: center;
+}
+
+#Jiganesh-Patil {
+  font-family: "Sacramento";
+}
+
+#Jiganesh-Patil {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 /* scroll to top */
 #scrolltp{
   color:white ;
