@@ -6,10 +6,12 @@ header {
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
+
 body{
   background-color: #222;
   scroll-behavior: smooth;
 }
+
 
 header > form {
   display: flex;
@@ -28,8 +30,7 @@ header > form {
   border-radius: 5px 0 0 5px;
   outline: none;
   border: none;
-  width: 240px;
-  height: 40px;
+  width: 80%;
 }
 
 #search-btn {
@@ -46,12 +47,14 @@ header > form {
 
 #search-btn:hover {
   color: rgb(32, 0, 128);
-
 }
 
 .bgfooter {
   background-color: #e0fbfc;
-  color: #293241;
+  color: rgb(86, 39, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Your-Name {
@@ -450,6 +453,21 @@ header > form {
   line-height: 2;
 }
 
+.rawngex01 {
+  padding: 7% 15%;
+  background-color: #ef9561;
+  text-align: center;
+}
+
+#rawngex01 {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#rawngex01-description{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Agnese {
   padding: 7% 15%;
   background-color: #efb661;
@@ -490,7 +508,7 @@ header > form {
 }
 
 #Ayush-paragraph {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
 
@@ -583,6 +601,98 @@ header > form {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.SujalSamai {
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  text-align: center;
+}
+
+.Vagdevi {
+  padding: 7% 15%;
+  background: linear-gradient(90deg, rgb(238, 174, 216) 0%, rgba(233, 148, 188, 0.349) 100%);
+  text-align: center;
+}
+
+.Vagdevi {
+  font-family: "Sacramento";
+  font-size: 30px;
+}
+
+#Surarapu Vagdevi{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+/* Akhilesh Waghmare */
+.Akhilesh-Waghmare {
+  padding: 7% 15%;
+  text-align: center;
+  font-family: "Sacramento";
+}
+
+#Akhilesh-Waghmare-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+.github {
+  padding-top: 10px;
+  width: 20px;
+}
+
+.alit {
+  font-family: "Montserrat";
+    line-height: 2;
+    text-align: center;
+    padding: 7% 15%;
+    background-image: linear-gradient(to right, rgb(46, 161, 243), rgb(11, 117, 247), rgb(12, 96, 156));
+}
+
+#alit-here {
+  font-family: 'Sacramento';
+}
+.Gilang-Kharisma { 
+  padding: 7% 15%;
+  background-color: #4A4238;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+ }
+
+
+
+.Jyotika{
+  padding: 7% 15%;
+  background-color: rgb(126, 199, 24);
+  text-align: center;
+}
+
+#Jyotika {
+  font-family:"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+}
+
+#jyotika_span{
+  font-family: "Sacramento";
+}
+
+#Jyotika{
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
+#Sujal-Samai {
+  font-family: "Sacramento";
+}
+
+#Sujal-paragraph {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 2;
+}
 
 /* scroll to top */
 #scrolltp{
@@ -597,7 +707,11 @@ header > form {
 }
 
 
+
+
+
 .twt {
   padding-top: 10px;
   width: 20px;
 }
+
