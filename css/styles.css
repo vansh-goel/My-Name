@@ -169,6 +169,16 @@
   font-family: "Montserrat";
   line-height: 2;
 }
+.sachxd{
+  padding: 7% 15%;
+  background-color: aliceblue;
+  font-family: "Sacramento";
+  text-align: center;
+}
+.sach-Para{
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .footer {
   padding: 7% 15%;
