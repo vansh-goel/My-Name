@@ -7,6 +7,12 @@ header {
   background-color: rgb(86, 39, 255);
 }
 
+body{
+  background-color: #222;
+  scroll-behavior: smooth;
+}
+
+
 header > form {
   display: flex;
   justify-content: space-around;
@@ -36,6 +42,15 @@ header > form {
   border-radius: 0 5px 5px 0;
   background-color: white;
   font-weight: 400;
+  color: rgb(110, 78, 227);
+}
+
+#search-btn:hover {
+  color: rgb(32, 0, 128);
+}
+
+.bgfooter {
+  background-color: #e0fbfc;
   color: rgb(86, 39, 255);
   display: flex;
   justify-content: center;
@@ -44,10 +59,24 @@ header > form {
 
 .Your-Name {
   padding: 7% 15%;
-  background-color: #e94560;
+  background-color: #dec0f1;
   text-align: center;
 }
 
+.jayrajsingh {
+  padding: 7% 15%;
+  background-color: #ff8a5b;
+  text-align: center;
+}
+.jayrajsinghh1 {
+  color: #293241;
+}
+
+.jayrajsingh-para {
+  color: #293241;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .Vansh-Goel {
   padding: 7% 15%;
   background-color: #faf4b7;
@@ -676,6 +705,10 @@ header > form {
   bottom: 50px;
   transition:opacity 0.5s;
 }
+
+
+
+
 
 .twt {
   padding-top: 10px;
