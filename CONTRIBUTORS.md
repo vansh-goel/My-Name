@@ -162,4 +162,8 @@
 - Bio: Student,Competitive Programmer
 - Github: [Vagdevi](https://github.com/Vagdevi007)
 
+# Name: Antony Prince
+- Place: India
+- Bio: Data Engineer, Blockchain Enthusiast
+- Github: [Antony](https://github.com/antoprince001)
 
