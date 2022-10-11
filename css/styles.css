@@ -806,6 +806,21 @@ header > form {
   margin-top: -10px;
 }
 
+.Saloni {
+  padding: 7% 15%;
+  background-color: #2be6f4;
+  text-align: center;
+}
+
+#saloni {
+  font-family: "Sacramento";
+}
+
+.Saloni {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
