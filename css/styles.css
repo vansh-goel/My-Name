@@ -6,9 +6,7 @@ header {
   align-items: center;
   background-color: rgb(86, 39, 255);
 }
-body{
-  background-color: #222;
-}
+
 header > form {
   display: flex;
   justify-content: space-around;
@@ -26,8 +24,7 @@ header > form {
   border-radius: 5px 0 0 5px;
   outline: none;
   border: none;
-  width: 240px;
-  height: 40px;
+  width: 80%;
 }
 
 #search-btn {
@@ -598,7 +595,9 @@ header > form {
 }
 
 /* Akhilesh Waghmare */
-#Akhilesh-Waghmare {
+.Akhilesh-Waghmare {
+  padding: 7% 15%;
+  text-align: center;
   font-family: "Sacramento";
 }
 
@@ -621,19 +620,22 @@ header > form {
   font-family: "Montserrat";
     line-height: 2;
     text-align: center;
-    padding: 3% 8%;
+    padding: 7% 15%;
     background-image: linear-gradient(to right, rgb(46, 161, 243), rgb(11, 117, 247), rgb(12, 96, 156));
 }
 
 #alit-here {
   font-family: 'Sacramento';
 }
-.Gilang-Kharisma {
+
+.Gilang-Kharisma { 
   padding: 7% 15%;
   background-color: #4A4238;
   text-align: center;
   font-family: 'Franklin Gothic Medium';
-}
+ }
+
+
 
 .Jyotika{
   padding: 7% 15%;
@@ -679,6 +681,65 @@ header > form {
 }
 
 
+
+/* Atharva Mogade */
+.atharvamogade-conainter {
+  padding: 7% 15%;
+  background-color: #ccccff;
+  text-align: center;
+}
+
+#atharvamogade-h1 {
+  font-family: "Sacramento";
+}
+
+.atharvamogade-p {
+  font-family: "Montserrat";
+  width: 75%;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.AntonyPrince {
+  padding: 7% 15%;
+  background-color: #3a4793;
+  text-align: center;
+  color: #80D0C7;
+  
+}
+#Antony-Prince {
+  font-family: "Apple Chancery";
+  overflow: hidden; 
+  border-right: .15em solid olive; 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em;
+  animation:                                                                                                      
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-start infinite;
+}
+
+#Antony-paragraph {
+  font-family: "Poppins" , sans-serif;
+  line-height: 3;
+}
+
+@media screen and (max-width: 520px) {
+  #Antony-Prince {
+    white-space: normal; 
+  }
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 50% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: olive; }
+
+}
+
 /* scroll to top */
 #scrolltp{
   color:white ;
@@ -691,8 +752,36 @@ header > form {
   transition:opacity 0.5s;
 }
 
-.twt {
-  padding-top: 10px;
-  width: 20px;
+.akshay {
+  display: inline;
+  vertical-align: text-top;
+  font-family: 'Open Sans', Monospace;
+  font-size: 16px;
+  line-height: 18px;
 }
+
+
+.akshay_p {
+  margin-top: 0px;
+  color: darkgray;
+  line-height: 0px;
+}
+
+.akshay_h2 {
+  margin-bottom: 0px;
+  color: darkgray;
+  margin-top: -10px;
+}
+
+footer {
+  padding: 5% 25%;
+  background-color: #222;
+  color: #fff;
+  position: relative;
+  text-align: center;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
+
 
