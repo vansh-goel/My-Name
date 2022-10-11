@@ -772,6 +772,28 @@ header > form {
   color: darkgray;
   margin-top: -10px;
 }
+.piyush{
+  
+
+  font-family: 'Open Sans', Monospace;
+  font-size: 16px;
+ padding: 10%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ 
+}
+.piyush-here{
+  
+  color: darkgray;
+  
+}
+.Piyush-paragraph{
+  width: 75%;
+  color: darkgray;
+  
+}
 
 footer {
   padding: 5% 25%;
