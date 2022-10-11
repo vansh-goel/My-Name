@@ -60,3 +60,14 @@ window.addEventListener('scroll', function(){
         scrolltp.style.opacity = 0;
     }
 })
+
+// search bar
+function searchcard() {
+  let searchbar = document.querySelector("#name-input").value;
+  if (searchbar) {
+    document.querySelector('.' +searchbar).scrollIntoView({
+      behavior: 'smooth',
+      inline: 'start'
+    });
+  }
+}
