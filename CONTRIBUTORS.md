@@ -196,6 +196,12 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Amandeep Singh
+
+- Place: India
+- Bio: Android Developer
+- Github: [Amandeep404](https://github.com/Amandeep404)
+
 # Name: Maheen Shaikh
 
 - Place: India
@@ -225,4 +231,3 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
-

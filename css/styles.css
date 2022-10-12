@@ -882,6 +882,21 @@ header > form {
   line-height: 2;
 }
 
+.Amandeeps{
+  padding: 7% 15%;
+  background-image:linear-gradient(to right, #1cc1c1, rgb(241, 117, 241) );
+  text-align: center;
+}
+#Amandeep{
+  font-family: "Futura";
+  text-align: center;
+  line-height :3;
+}
+.Amandeep-para{
+  font-family: 'zapfino extra lt';
+}
+
+
 .akshay_p {
   margin-top: 0px;
   color: darkgray;
