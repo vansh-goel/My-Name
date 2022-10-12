@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Aditya Singh
+
+- Place : India.
+- Bio : App Developer.
+- Github [Aditya](https://github.com/AD1TYA03)
