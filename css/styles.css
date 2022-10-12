@@ -548,6 +548,22 @@ header > form {
   line-height: 2;
 }
 
+/* Divya */
+.Divya-Aggarwal {
+  padding: 7% 15%;
+  background-color: #F3E0F9;
+  text-align: center;
+}
+
+#Divya-Aggarwal {
+  font-family: "Sacramento";
+}
+
+#Divya-Aggarwal-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 /* raj */
 .raj{
   display: flex;
@@ -724,6 +740,8 @@ header > form {
   font-family: "Poppins" , sans-serif;
   line-height: 3;
 }
+
+
 
 @media screen and (max-width: 520px) {
   #Antony-Prince {
