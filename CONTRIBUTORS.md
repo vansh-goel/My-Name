@@ -178,4 +178,12 @@
 - Bio: B.Tech Undergrad, Web Developer
 - Github: [Divya](https://github.com/divya520357)
 
+# Name: Harshita Gupta
+- Place: India
+- Bio: Student, Web Developer
+- Github: [Harshita Gupta](https://github.com/Harshitagupta324)
 
+# Name : Som Datta
+- Place : India.
+- Bio : Backend Developer.
+- Github [Som](https://github.com/soumdatta81)
