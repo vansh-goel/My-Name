@@ -173,4 +173,9 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Amandeep Singh
+- Place: India
+- Bio: Android Developer
+- Github: [Amandeep404](https://github.com/Amandeep404)
+
 
