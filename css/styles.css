@@ -271,6 +271,20 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.Jabed {
+  padding: 7% 15%;
+  background-color: rgb(188, 182, 255);
+  text-align: center;
+}
+
+#Jabed {
+  font-family: "Sacramento";
+}
+
+#Jabed-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .twt {
   padding-top: 10px;
