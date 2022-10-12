@@ -236,4 +236,4 @@
 
 - Place : India.
 - Bio : App Developer.
-- Github [Som](https://github.com/AD1TYA03)
+- Github [Aditya](https://github.com/AD1TYA03)
