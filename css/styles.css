@@ -548,6 +548,22 @@ header > form {
   line-height: 2;
 }
 
+/* Divya */
+.Divya-Aggarwal {
+  padding: 7% 15%;
+  background-color: #F3E0F9;
+  text-align: center;
+}
+
+#Divya-Aggarwal {
+  font-family: "Sacramento";
+}
+
+#Divya-Aggarwal-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 /* raj */
 .raj{
   display: flex;
@@ -725,6 +741,8 @@ header > form {
   line-height: 3;
 }
 
+
+
 @media screen and (max-width: 520px) {
   #Antony-Prince {
     white-space: normal; 
@@ -752,6 +770,21 @@ header > form {
 }
 
 #Jiganesh-Patil {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Priyank-Patil{
+  padding: 7% 15%;
+  background-color: rgb(25, 163, 238);
+  text-align: center;
+}
+
+#Priyank-Patil {
+  font-family: "Sacramento";
+}
+
+#Priyank-Patil {
   font-family: "Montserrat";
   line-height: 2;
 }
@@ -812,6 +845,21 @@ header > form {
   background-color: #A9A9A9;
 }
 
+.HarshitaGupta {
+  padding: 7% 15%;
+  background-color: #ABEBC6;
+  text-align: center;
+}
+
+#HarshitaGupta {
+  font-family: 'Zapfino Extra LT', sans-serif;
+}
+
+#harshita2432 {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .akshay_p {
   margin-top: 0px;
   color: darkgray;
@@ -824,6 +872,80 @@ header > form {
   margin-top: -10px;
 }
 
+.piyush {
+  font-family: 'Open Sans', Monospace;
+  font-size: 16px;
+ padding: 10%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.piyush-here {
+  color: darkgray;
+}
+
+.Piyush-paragraph {
+  width: 75%;
+  color: darkgray;
+}
+
+.kavandiv {
+  padding: 5%;
+  text-align: center;
+  background: #f12711;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.Saloni {
+  padding: 7% 15%;
+  background-color: rgb(255, 219, 215);;
+  text-align: center;
+}
+
+#saloni {
+  font-family: "Sacramento";
+}
+
+.Saloni {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
+.Prajwal{
+  padding: 7% 15%;
+  background-color: #5fb4e6;
+  text-align: center;
+}
+
+#Prajwal {
+  font-family: "Sacramento";
+}
+
+#Prajwal {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
+.Pooja-Sharma{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #AAC4FF;
+}
+
+#Pooja-Sharma {
+  font-family: "Sacramento";
+}
+
+#Pooja-Sharma-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
@@ -834,3 +956,5 @@ footer {
   left: 0%;
   right: 0%;
 }
+
+
