@@ -826,6 +826,25 @@ header > form {
   line-height: 2;
 }
 
+.Amrutanhu-jena {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: violet;
+  color: #42249c;
+  text-align: center;
+  padding: 20px;
+}
+
+.Amrutanhu-jena-about {
+  font-family: 'Lucida Handwriting', cursive;
+  padding: 15px;
+}
+
+.btn{
+  border-radius: 50%;
+  border: none;
+  background-color: #A9A9A9;
+}
+
 .HarshitaGupta {
   padding: 7% 15%;
   background-color: #ABEBC6;
@@ -841,7 +860,6 @@ header > form {
   line-height: 2;
 }
 
-
 .akshay_p {
   margin-top: 0px;
   color: darkgray;
@@ -853,9 +871,8 @@ header > form {
   color: darkgray;
   margin-top: -10px;
 }
-.piyush{
-  
 
+.piyush {
   font-family: 'Open Sans', Monospace;
   font-size: 16px;
  padding: 10%;
@@ -863,17 +880,15 @@ header > form {
  justify-content: center;
  align-items: center;
  flex-direction: column;
- 
 }
-.piyush-here{
-  
+
+.piyush-here {
   color: darkgray;
-  
 }
-.Piyush-paragraph{
+
+.Piyush-paragraph {
   width: 75%;
   color: darkgray;
-  
 }
 
 .kavandiv {

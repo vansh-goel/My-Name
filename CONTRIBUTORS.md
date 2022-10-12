@@ -173,6 +173,11 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Amrutanhu Jena
+- Place: India
+- Bio: Software Enginner, Open Source
+- Github: [ajamru](https://github.com/ajamru)
+
 # Name: Divya Aggarwal
 - Place: India
 - Bio: B.Tech Undergrad, Web Developer
