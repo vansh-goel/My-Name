@@ -173,4 +173,8 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Amrutanhu Jena
+- Place: India
+- Bio: Software Enginner, Open Source
+- Github: [ajamru](https://github.com/ajamru)
 

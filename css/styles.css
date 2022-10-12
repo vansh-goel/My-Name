@@ -793,6 +793,18 @@ header > form {
   line-height: 2;
 }
 
+.Amrutanhu-jena {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: violet;
+  color: #42249c;
+  text-align: center;
+  padding: 20px;
+}
+
+.Amrutanhu-jena-about {
+  font-family: 'Lucida Handwriting', cursive;
+  padding: 15px;
+}
 
 .akshay_p {
   margin-top: 0px;
