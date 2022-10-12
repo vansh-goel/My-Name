@@ -173,4 +173,9 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Harshita Gupta
+- Place: India
+- Bio: Student, Web Developer
+- Github: [Harshita Gupta](https://github.com/Harshitagupta324)
+
 
