@@ -179,3 +179,7 @@
 - Github: [Harshita Gupta](https://github.com/Harshitagupta324)
 
 
+# Name : Som Datta
+- Place : India.
+- Bio : Backend Developer.
+- Github [Som](https://github.com/soumdatta81)
