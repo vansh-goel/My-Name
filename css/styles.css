@@ -851,6 +851,23 @@ header > form {
   line-height: 2;
 }
 
+
+.Prajwal{
+  padding: 7% 15%;
+  background-color: #5fb4e6;
+  text-align: center;
+}
+
+#Prajwal {
+  font-family: "Sacramento";
+}
+
+#Prajwal {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
 footer {
   padding: 5% 25%;
   background-color: #222;
@@ -861,3 +878,5 @@ footer {
   left: 0%;
   right: 0%;
 }
+
+
