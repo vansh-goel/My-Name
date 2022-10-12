@@ -173,4 +173,8 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Chandan Kushwaha
+- Place: India
+- Bio: Student, Competitive programming Enthusiast
+- Github: [Antony](https://github.com/chadanck22)
 
