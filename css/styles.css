@@ -983,6 +983,21 @@ header > form {
   line-height: 2;
 }
 
+.Aditya {
+  padding: 7% 15%;
+  background-color: rgb(255, 220, 215);;
+  text-align: center;
+}
+
+#aditya {
+  font-family: "Sacramento";
+}
+
+.Aditya {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
