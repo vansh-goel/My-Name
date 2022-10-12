@@ -756,6 +756,21 @@ header > form {
   line-height: 2;
 }
 
+.Priyank-Patil{
+  padding: 7% 15%;
+  background-color: rgb(25, 163, 238);
+  text-align: center;
+}
+
+#Priyank-Patil {
+  font-family: "Sacramento";
+}
+
+#Priyank-Patil {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 /* scroll to top */
 #scrolltp{
   color:white ;
