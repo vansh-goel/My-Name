@@ -824,6 +824,18 @@ header > form {
   transition: opacity 0.5s;
 }
 
+/* scroll to bottom */
+#scrollbtm {
+  color: white;
+  background: tomato;
+  padding: 15px;
+  border-radius: 50%;
+  position: fixed;
+  left: 50px;
+  bottom: 50px;
+  transition: opacity 0.5s;
+}
+
 .akshay {
   display: inline;
   vertical-align: text-top;
@@ -994,4 +1006,39 @@ footer {
   right: 0%;
 }
 
+.devhabeeb
+{
+  font-family: "Montserrat";
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+}
 
+.devhabeeb {
+  -webkit-animation: bgcolorchange 4s infinite; /* Chrome, Safari, Opera */ 
+  animation: 4s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: red;
+  }
+  25% {
+    background-color: #2b2b2b;
+  }
+  50% {
+    background-color: orangered;
+  }
+  75% {
+    background-color: green;
+  }
+  100% {
+    background-color: red;
+  }
+}
+
+ @-webkit-keyframes bgcolorchange {
+      0%   {background: red;}
+      25%  {background: yellow;}
+      75%  {background: green;}
+      100% {background: blue;}
+ }
