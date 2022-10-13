@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Manas Sahoo
+
+- Place : India.
+- Bio : Frontend Developer.
+- Github [Manas Sahoo](https://github.com/manassahoo-dev)
