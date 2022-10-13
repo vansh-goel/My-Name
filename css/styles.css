@@ -983,6 +983,31 @@ header > form {
   line-height: 2;
 }
 
+/* Gaurav Makwana Work Start*/
+.Gaurav-Makwana{
+  display: flex;
+  height: 400px;
+  color: #222;
+  background-image: linear-gradient(to bottom right, rgb(4, 255, 0), yellow);
+  border: 1px solid black;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Nunito', sans-serif;
+}
+.Gaurav-Makwana a{
+  color: rgb(48, 17, 17);
+}
+.fa-brands{
+  margin: 0px 5px;
+}
+.fa-brands:hover{
+  transform: rotate(360deg);
+  transition: 0.6s;
+}
+/*Gaurav Makwana Work End */
+
+
 footer {
   padding: 5% 25%;
   background-color: #222;
