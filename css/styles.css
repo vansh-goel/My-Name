@@ -983,6 +983,22 @@ header > form {
   line-height: 2;
 }
 
+.Muskaan-Bhardwaj {
+  padding: 8% 14%;
+  background-color: #f0f8ff;
+  text-align: center;
+}
+
+#Muskaan-Bhardwaj {
+ font-family: 'Public Sans', sans-serif;
+}
+
+#muskaan1913 {
+  font-family: "Montserrat";
+  line-height: 3;
+}
+
+
 footer {
   padding: 5% 25%;
   background-color: #222;
@@ -993,5 +1009,6 @@ footer {
   left: 0%;
   right: 0%;
 }
+
 
 
