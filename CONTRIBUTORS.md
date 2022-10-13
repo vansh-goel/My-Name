@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Timmortal
+
+- Place : Lagos, Nigeria.
+- Bio : Software Engineer.
+- Github [Timmotal](https://github.com/Timmotal)
