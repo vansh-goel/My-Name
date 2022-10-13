@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name: Muskaan Bhardwaj
+
+- Place: India
+- Bio: Student, Web Developer
+- Github: [Muskaan Bhardwaj](https://github.com/muskaan-cpp)
