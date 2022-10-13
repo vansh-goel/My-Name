@@ -231,3 +231,10 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Ejiro Thankgod
+
+- Place : Nigeria.
+- Bio : Frontend Developer.
+- Github [Ejiro](https://github.com/Ejineroz)
+
