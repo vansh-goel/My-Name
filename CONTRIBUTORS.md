@@ -220,6 +220,12 @@
 - Bio: B.Tech Undergrad, Web Developer
 - Github: [Divya](https://github.com/divya520357)
 
+# Name: Vasudev Pant
+
+- Place: India
+- Bio: B.Tech Undergrad, Web Developer
+- Github: [Vasudev Pant](https://github.com/VasudevPant)
+
 # Name: Harshita Gupta
 
 - Place: India
