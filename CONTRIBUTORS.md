@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Harsh Gupta
+
+- Place : India.
+- Bio : Backend Developer, Open Source.
+- Github: [Harsh](https://github.com/harshhes)
