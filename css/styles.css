@@ -7,7 +7,7 @@ header {
   background-color: rgb(86, 39, 255);
 }
 
-header > form {
+header>form {
   display: flex;
   justify-content: space-around;
 }
@@ -86,6 +86,7 @@ header > form {
   padding: 7% 15%;
   background-color: #b7facd;
 }
+
 #Harshvardhan-Sharma {
   font-family: "Sacramento";
 }
@@ -116,6 +117,7 @@ header > form {
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
@@ -155,6 +157,7 @@ header > form {
   padding-top: 10px;
   width: 20px;
 }
+
 .Om-Sarraf {
   padding: 7% 15%;
   background-color: rgba(134, 232, 119, 0.973);
@@ -209,28 +212,33 @@ header > form {
   font-family: "Sacramento", sans-serif;
   text-align: center;
 }
+
 .Rachit-Para {
   font-family: "Montserrat";
   line-height: 2;
   margin: 2px auto 16px auto;
   width: 85%;
 }
+
 .Aman {
   padding: 7% 15%;
   background-color: aquamarine;
   font-family: "Sacramento";
   text-align: center;
 }
+
 .Aman-Para {
   font-family: "Montserrat";
   line-height: 2;
 }
+
 .taniab {
   font-family: "Sacramento";
   background-color: rgb(230, 116, 116);
   text-align: center;
   padding: 7% 15%;
 }
+
 .tania {
   font-family: "Montserrat";
   line-height: 2;
@@ -250,16 +258,19 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+
 .socials {
   display: flex;
   justify-content: center;
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
 }
+
 .Dhruvi {
   font-family: "Sacramento";
   background-color: lightblue;
@@ -321,11 +332,13 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+
 .Jitesh {
   padding: 7% 15%;
   background-color: #fb87f5;
   text-align: center;
 }
+
 #jitesh_span {
   font-family: "Lobster", cursive;
 }
@@ -378,6 +391,7 @@ header > form {
   padding: 7% 15%;
   background-color: #b7b8fa;
 }
+
 #Ayush-Srivastava {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -411,6 +425,7 @@ header > form {
   text-align: center;
   padding: 7% 15%;
 }
+
 .tania {
   font-family: "Montserrat";
   line-height: 2;
@@ -485,6 +500,7 @@ header > form {
   background-color: #eaf6f6;
   text-align: center;
 }
+
 #Ayush-Soni {
   font-family: "Sacramento";
 }
@@ -591,13 +607,12 @@ header > form {
   text-align: center;
   padding: 7% 15%;
   /* background-color: #b7b8fa; */
-  background-image: linear-gradient(
-    to right,
-    rgb(46, 161, 243),
-    rgb(11, 247, 184),
-    rgb(48, 162, 244)
-  );
+  background-image: linear-gradient(to right,
+      rgb(46, 161, 243),
+      rgb(11, 247, 184),
+      rgb(48, 162, 244));
 }
+
 #saran-sinha {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -611,11 +626,9 @@ header > form {
 
 .Vagdevi {
   padding: 7% 15%;
-  background: linear-gradient(
-    90deg,
-    rgb(238, 174, 216) 0%,
-    rgba(233, 148, 188, 0.349) 100%
-  );
+  background: linear-gradient(90deg,
+      rgb(238, 174, 216) 0%,
+      rgba(233, 148, 188, 0.349) 100%);
   text-align: center;
 }
 
@@ -640,12 +653,14 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+
 .socials {
   display: flex;
   justify-content: center;
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
@@ -656,12 +671,10 @@ header > form {
   line-height: 2;
   text-align: center;
   padding: 7% 15%;
-  background-image: linear-gradient(
-    to right,
-    rgb(46, 161, 243),
-    rgb(11, 117, 247),
-    rgb(12, 96, 156)
-  );
+  background-image: linear-gradient(to right,
+      rgb(46, 161, 243),
+      rgb(11, 117, 247),
+      rgb(12, 96, 156));
 }
 
 #alit-here {
@@ -702,6 +715,7 @@ header > form {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   line-height: 2;
 }
+
 .Robin-Singh {
   padding: 7% 15%;
   background-color: rgba(106, 230, 95, 0.973);
@@ -741,6 +755,7 @@ header > form {
   text-align: center;
   color: #80d0c7;
 }
+
 #Antony-Prince {
   font-family: "Apple Chancery";
   overflow: hidden;
@@ -763,20 +778,24 @@ header > form {
     white-space: normal;
   }
 }
+
 @keyframes typing {
   from {
     width: 0;
   }
+
   to {
     width: 50%;
   }
 }
 
 @keyframes blink-caret {
+
   from,
   to {
     border-color: transparent;
   }
+
   50% {
     border-color: olive;
   }
@@ -797,7 +816,7 @@ header > form {
   line-height: 2;
 }
 
-.Priyank-Patil{
+.Priyank-Patil {
   padding: 7% 15%;
   background-color: rgb(25, 163, 238);
   text-align: center;
@@ -861,7 +880,7 @@ header > form {
   padding: 15px;
 }
 
-.btn{
+.btn {
   border-radius: 50%;
   border: none;
   background-color: #A9A9A9;
@@ -882,17 +901,19 @@ header > form {
   line-height: 2;
 }
 
-.Amandeeps{
+.Amandeeps {
   padding: 7% 15%;
-  background-image:linear-gradient(to right, #1cc1c1, rgb(241, 117, 241) );
+  background-image: linear-gradient(to right, #1cc1c1, rgb(241, 117, 241));
   text-align: center;
 }
-#Amandeep{
+
+#Amandeep {
   font-family: "Futura";
   text-align: center;
-  line-height :3;
+  line-height: 3;
 }
-.Amandeep-para{
+
+.Amandeep-para {
   font-family: 'zapfino extra lt';
 }
 
@@ -912,11 +933,11 @@ header > form {
 .piyush {
   font-family: 'Open Sans', Monospace;
   font-size: 16px;
- padding: 10%;
- display: flex;
- justify-content: center;
- align-items: center;
- flex-direction: column;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .piyush-here {
@@ -931,14 +952,18 @@ header > form {
 .kavandiv {
   padding: 5%;
   text-align: center;
-  background: #f12711;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #f12711;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f5af19, #f12711);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .Saloni {
   padding: 7% 15%;
-  background-color: rgb(255, 219, 215);;
+  background-color: rgb(255, 219, 215);
+  ;
   text-align: center;
 }
 
@@ -952,7 +977,7 @@ header > form {
 }
 
 
-.Prajwal{
+.Prajwal {
   padding: 7% 15%;
   background-color: #5fb4e6;
   text-align: center;
@@ -968,7 +993,7 @@ header > form {
 }
 
 
-.Pooja-Sharma{
+.Pooja-Sharma {
   text-align: center;
   padding: 7% 15%;
   background-color: #AAC4FF;
@@ -994,4 +1019,16 @@ footer {
   right: 0%;
 }
 
+.sandradiv {
+  padding: 7% 15%;
+  background: linear-gradient(145.79deg, #FFFFFF 33.06%, #72B071 79.76%);
+}
 
+#sandraName {
+  text-align: center;
+  font-family: 'Butterfly Kids', cursive;
+}
+
+.sandrap {
+  font-family: 'Baumans', cursive;
+}
