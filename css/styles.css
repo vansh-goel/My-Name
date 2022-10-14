@@ -994,4 +994,26 @@ footer {
   right: 0%;
 }
 
+.heismanish{
+  font-family:'Open Sans', Monospace;
+  text-align: center;
+  padding: 8% 2%;
+  background-color: #e6cdf3;
 
+}
+#manish{
+  margin-bottom: 2%;
+  color: #222;
+}
+.manish{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 2%;
+}
+.man-link{
+  display: flex;
+  gap: 1%;
+  justify-content: center;
+}

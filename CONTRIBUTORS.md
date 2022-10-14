@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Manish Kumar Gupta
+
+- Place : India
+- Bio : Student | Front-End Web Developer
+- Github [Som](https://github.com/Heismanish)
