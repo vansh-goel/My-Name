@@ -61,6 +61,29 @@ header > form {
   text-align: center;
 }
 
+.Tushar-Mittal{
+  padding: 7% 15%;
+  text-align: center;
+  background-image: linear-gradient(to bottom right,#283048, #859398);
+}
+#Tushar{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-weight: 900;
+  font-style: italic;
+}
+.Tushar-Mittal-Para{
+  font-family: "Montserrat";
+  font-weight: 100;
+  color: #ffffff;
+}
+.Tushar-Social{
+  padding-top: 10px;
+  width: 2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .Vansh-Goel {
   padding: 7% 15%;
   background-color: #faf4b7;
