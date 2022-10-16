@@ -806,6 +806,28 @@ header > form {
   margin-top: -10px;
 }
 
+.SHREY_NAHAR {
+  padding: 7% 15%;
+  background-color: rgba(119, 232, 232, 0.973);
+  text-align: center;
+}
+
+#SHREY_NAHAR {
+  font-family: 'Sacramento';
+}
+
+#SHREY_NAHAR_Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+} 
+
+.socials{
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
