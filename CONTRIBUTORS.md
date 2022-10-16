@@ -231,3 +231,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name : Shrey Nahar
+
+- Place : India.
+- Bio : web Developer.
+- Github [Shrey](https://github.com/Shrey-Nahar)
