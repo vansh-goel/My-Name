@@ -982,6 +982,20 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.shailendra {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#shailendra {
+  font-family: "Sacramento";
+}
+
+#shailendra-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 footer {
   padding: 5% 25%;
