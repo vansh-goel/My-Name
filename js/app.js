@@ -61,21 +61,6 @@ window.addEventListener('scroll', function(){
     }
 })
 
-// scroll to bottom
-const scrollbtm = document.querySelector("#scrollbtm");
-scrollbtm.addEventListener('click', function(){
-    window.scrollTo(0, document.body.scrollHeight);
-    });
-
-window.addEventListener('scroll', function(){
-    if(this.window.scrollY >= 700 || this.window.scrollY == 0){
-        scrollbtm.style.opacity = 1;
-    }
-    else{
-        scrollbtm.style.opacity = 0;
-    }
-})
-
 // search bar
 function searchcard() {
   let searchbar = document.querySelector("#name-input").value;
