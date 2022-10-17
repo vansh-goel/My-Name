@@ -1035,6 +1035,22 @@ header > form {
   line-height: 2;
 }
 
+
+.Narendrapawar {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Narendrapawar {
+  font-family: "Sacramento";
+}
+
+#Narendrapawar {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .SHREY_NAHAR {
   padding: 7% 15%;
   background-color: rgba(119, 232, 232, 0.973);
@@ -1056,6 +1072,7 @@ header > form {
   gap: 1.2rem;
   align-items: center;
 }
+
 
 footer {
   padding: 5% 25%;
