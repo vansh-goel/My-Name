@@ -1011,6 +1011,16 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.Prashun {
+  font-family: "Sacramento";
+  background-color: rgb(11, 184, 155);
+  text-align: center;
+  font-size: 40px;
+  padding: 7% 10%;
+}
+.Prashun h1{
+  font-size: 50px;
+}
 
 .Aseem {
   text-align:center;
