@@ -106,6 +106,12 @@
 - Bio: Enthusiastic about Web development, caffiene and music.
 - Github: [Tania Banerjee](https://github.com/taniaban2712)
 
+# Name: Ayush Kanduri
+
+- Place: India
+- Bio: Full-Stack (MERN) Web Developer | Open Source Contributor | Tech Enthusiast
+- GitHub: [Ayush Kanduri](https://github.com/Ayush-Kanduri)
+
 # Name: Ayush Srivastava
 
 - Place: India
