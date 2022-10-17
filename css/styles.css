@@ -985,6 +985,25 @@ header>form {
   line-height: 2;
 }
 
+.Keegan-Colaco {
+  padding: 5% 15%;
+  background: linear-gradient(270deg, rgb(252, 115, 60), rgb(252, 176, 76));
+  text-align: center;
+}
+
+#Keegan-Colaco {
+  font-family: "Sacramento";
+  font-weight: 500;
+}
+
+.Keegan-Colaco-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Keegan-Colaco a{
+  padding: 8px;
+
 .Amandeeps {
   padding: 7% 15%;
   background-image: linear-gradient(to right, #1cc1c1, rgb(241, 117, 241));
@@ -999,6 +1018,7 @@ header>form {
 
 .Amandeep-para {
   font-family: 'zapfino extra lt';
+
 }
 
 

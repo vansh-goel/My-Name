@@ -214,6 +214,12 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+
+# Name: Keegan Colaco
+- Place: India
+- Bio: Frontend Web Developer, Open Source Enthusiast
+- Github: [Keegan](https://github.com/theanimator20)
+
 # Name: Amandeep Singh
 
 - Place: India
@@ -251,6 +257,7 @@
 - Github: [Harshita Gupta](https://github.com/Harshitagupta324)
 
 # Name : Som Datta
+
 
 - Place : India.
 - Bio : Backend Developer.
