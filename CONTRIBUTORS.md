@@ -257,6 +257,13 @@
 - Github [Som](https://github.com/soumdatta81)
 
 
+# Name : Harsh Gupta
+
+- Place : India.
+- Bio : Backend Developer, Open Source.
+- Github: [Harsh](https://github.com/harshhes)
+
+
 # Name : Manish Kumar Gupta
 
 - Place : India
@@ -275,5 +282,3 @@
 - Place : India.
 - Bio : Student, Frontend developer(Intermediate).
 - Github [Aseem](https://github.com/AseemsGit)
-
-
