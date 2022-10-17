@@ -268,6 +268,13 @@
 - Github [Som](https://github.com/soumdatta81)
 
 
+# Name : Manas Sahoo
+
+- Place : India.
+- Bio : Frontend Developer.
+- Github [Manas Sahoo](https://github.com/manassahoo-dev)
+
+
 # Name : Harsh Gupta
 
 - Place : India.
@@ -293,3 +300,4 @@
 - Place : India.
 - Bio : Student, Frontend developer(Intermediate).
 - Github [Aseem](https://github.com/AseemsGit)
+
