@@ -136,6 +136,12 @@
 - Bio: Student, Music Maker
 - GitHub: [Agnese](https://github.com/AgneseB2)
 
+# Name: Aryan
+
+- Place: India
+- Bio: Student, Web Developer, Python Dev, caffiene and music.
+- GitHub: [Aryan Sharma](https://github.com/aryan2909)
+
 # Name: Harsh Kukreja
 
 - Place: India

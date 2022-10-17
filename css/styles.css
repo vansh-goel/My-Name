@@ -1127,6 +1127,18 @@ header > form {
 }
 
 
+.Aryan-Sharma {
+  padding: 7% 15%;
+  background-color: #69d4d0;
+  text-align: center;
+}
+#Ayan-Sharma {
+  font-family: "Sacramento";
+}
+.Aryan-Sharma-Para{
+  font-family: "Montserrat";
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
