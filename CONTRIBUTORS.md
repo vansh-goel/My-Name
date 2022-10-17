@@ -202,7 +202,6 @@
 - Bio: Frontend Web Developer, Open Source Enthusiast
 - Github: [Keegan](https://github.com/theanimator20)
 
-=======
 # Name: Amandeep Singh
 
 - Place: India
