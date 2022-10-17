@@ -146,6 +146,23 @@ header>form {
   font-family: 'Montserrat';
   line-height: 2;
 }
+.shubham-sinha {
+  text-align: center;
+  padding: 6% 17%;
+  background-image: linear-gradient( rgb(0, 225, 255) , yellow);
+
+}
+#shubham-sinha {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  text-shadow: 2px 2px rgb(226, 224, 224);
+}
+
+#shubham-sinha-para {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.7;
+
+}
 
 .Aditi-Bendre {
   padding: 7% 15%;
