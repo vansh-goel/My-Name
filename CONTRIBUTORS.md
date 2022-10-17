@@ -4,6 +4,12 @@
 - Bio: Student, Web Developer
 - GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
+# Name: Devansh
+
+- Place: India
+- Bio: Student, Learning Web Development and C++
+- GitHub: [Devansh Verma](https://github.com/devanshv17)
+
 # Name: Harsh
 
 - Place: India
