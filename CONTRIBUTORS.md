@@ -4,6 +4,12 @@
 - Bio: Student, Web Developer
 - GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
+# Name: Devansh
+
+- Place: India
+- Bio: Student, Learning Web Development and C++
+- GitHub: [Devansh Verma](https://github.com/devanshv17)
+
 # Name: Harsh
 
 - Place: India
@@ -106,6 +112,12 @@
 - Bio: Enthusiastic about Web development, caffiene and music.
 - Github: [Tania Banerjee](https://github.com/taniaban2712)
 
+# Name: Ayush Kanduri
+
+- Place: India
+- Bio: Full-Stack (MERN) Web Developer | Open Source Contributor | Tech Enthusiast
+- GitHub: [Ayush Kanduri](https://github.com/Ayush-Kanduri)
+
 # Name: Ayush Srivastava
 
 - Place: India
@@ -123,6 +135,12 @@
 - Place: Italy
 - Bio: Student, Music Maker
 - GitHub: [Agnese](https://github.com/AgneseB2)
+
+# Name: Aryan
+
+- Place: India
+- Bio: Student, Web Developer, Python Dev, caffiene and music.
+- GitHub: [Aryan Sharma](https://github.com/aryan2909)
 
 # Name: Harsh Kukreja
 
@@ -226,6 +244,12 @@
 - Bio: B.Tech Undergrad, Web Developer
 - Github: [Divya](https://github.com/divya520357)
 
+# Name: Vasudev Pant
+
+- Place: India
+- Bio: B.Tech Undergrad, Web Developer
+- Github: [Vasudev Pant](https://github.com/VasudevPant)
+
 # Name: Harshita Gupta
 
 - Place: India
@@ -238,3 +262,30 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+
+# Name : Harsh Gupta
+
+- Place : India.
+- Bio : Backend Developer, Open Source.
+- Github: [Harsh](https://github.com/harshhes)
+
+
+# Name : Manish Kumar Gupta
+
+- Place : India
+- Bio : Student | Front-End Web Developer
+- Github [Som](https://github.com/Heismanish)
+
+
+# Name : Shrey Nahar
+
+- Place : India.
+- Bio : web Developer.
+- Github [Shrey](https://github.com/Shrey-Nahar)
+
+# Name: Aseem
+
+- Place : India.
+- Bio : Student, Frontend developer(Intermediate).
+- Github [Aseem](https://github.com/AseemsGit)
