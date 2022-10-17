@@ -214,6 +214,16 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Chandan Kushwaha
+- Place: India
+- Bio: Student, Competitive programming Enthusiast
+- Github: [Antony](https://github.com/chadanck22)
+
+# Name: Keegan Colaco
+- Place: India
+- Bio: Frontend Web Developer, Open Source Enthusiast
+- Github: [Keegan](https://github.com/theanimator20)
+
 # Name: Amandeep Singh
 
 - Place: India
@@ -252,9 +262,31 @@
 
 # Name : Som Datta
 
+
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+
+# Name : Manas Sahoo
+
+- Place : India.
+- Bio : Frontend Developer.
+- Github [Manas Sahoo](https://github.com/manassahoo-dev)
+
+
+# Name : Harsh Gupta
+
+- Place : India.
+- Bio : Backend Developer, Open Source.
+- Github: [Harsh](https://github.com/harshhes)
+
+
+# Name : Manish Kumar Gupta
+
+- Place : India
+- Bio : Student | Front-End Web Developer
+- Github [Som](https://github.com/Heismanish)
 
 
 # Name : Shrey Nahar
