@@ -7,7 +7,7 @@ header {
   background-color: rgb(86, 39, 255);
 }
 
-header > form {
+header>form {
   display: flex;
   justify-content: space-around;
 }
@@ -16,7 +16,6 @@ header > form {
   width: 110px;
   border-radius: 50%;
 }
-
 #name-input {
   padding: 0.5rem;
   border-radius: 5px 0 0 5px;
@@ -53,12 +52,35 @@ header > form {
 }
 
 #Maheen-Shaikh {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Maheen-Shaikh-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   text-align: center;
+}
+
+.Tushar-Mittal{
+  padding: 7% 15%;
+  text-align: center;
+  background-image: linear-gradient(to bottom right,#283048, #859398);
+}
+#Tushar{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-weight: 900;
+  font-style: italic;
+}
+.Tushar-Mittal-Para{
+  font-family: "Montserrat";
+  font-weight: 100;
+  color: #ffffff;
+}
+.Tushar-Social{
+  padding-top: 10px;
+  width: 2rem;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .Vansh-Goel {
@@ -68,17 +90,45 @@ header > form {
 }
 
 #Vansh-Goel {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Vansh-Goel-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
 .twt {
   padding-top: 10px;
   width: 20px;
+} 
+
+.Harsh-Gupta {
+  text-align: center;
+  padding: 5% 5%;
+  background-color: #b1ebf4;
+}
+
+#Harsh-Gupta {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Harsh-Gupta-Para {
+  font-family: Montserrat;
+}
+
+.Devansh-Verma {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #7FE4E5;
+}
+#Devansh-Verma {
+  font-family: "Sacramento";
+}
+
+#Devansh-Verma-Para {
+  font-family: "Montserrat";
+  line-height: 2;
 }
 
 .Harshvardhan-Sharma {
@@ -86,13 +136,31 @@ header > form {
   padding: 7% 15%;
   background-color: #b7facd;
 }
+
 #Harshvardhan-Sharma {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Harshvardhan-Sharma-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
+}
+.shubham-sinha {
+  text-align: center;
+  padding: 6% 17%;
+  background-image: linear-gradient( rgb(0, 225, 255) , yellow);
+
+}
+#shubham-sinha {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  text-shadow: 2px 2px rgb(226, 224, 224);
+}
+
+#shubham-sinha-para {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.7;
+
 }
 
 .Aditi-Bendre {
@@ -102,11 +170,11 @@ header > form {
 }
 
 #Aditi-Bendre {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Aditi-Bendre {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -116,6 +184,7 @@ header > form {
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
@@ -128,12 +197,42 @@ header > form {
 }
 
 #Chirag-Khatri {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Chirag-Khatri-Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+
+.AyushK {
+  padding: 7% 15%;
+  background-color: aquamarine;
+  font-family: "Sacramento";
+  text-align: center;
+  width: 100%;
+}
+.AyushK-Para {
   font-family: "Montserrat";
   line-height: 2;
+  margin: 2px auto 16px auto;
+  width: 100%;
+  word-spacing: 2px;
+  font-size: 1.2rem !important;
+  font-weight: 600;
+}
+#AyushK{
+  font-size: 3.6rem;
+  font-weight: 500;
+}
+#AyushK_span {
+  font-family: "Lobster", cursive;
+  font-size: 2.7rem;
+}
+#AyushK_span2 {
+  font-family: "Sacramento";
+  font-size: 2.5rem;
+  font-weight: 500;
 }
 
 .Lea-Guedj {
@@ -143,11 +242,11 @@ header > form {
 }
 
 #Lea-Guedj {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Lea-Guedj {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -155,6 +254,7 @@ header > form {
   padding-top: 10px;
   width: 20px;
 }
+
 .Om-Sarraf {
   padding: 7% 15%;
   background-color: rgba(134, 232, 119, 0.973);
@@ -162,11 +262,11 @@ header > form {
 }
 
 #Om-Sarraf {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Om-Sarraf {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -177,7 +277,7 @@ header > form {
 }
 
 #Markus-Eicher {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   color: white;
 }
 
@@ -206,33 +306,38 @@ header > form {
 .Rachit {
   padding: 7% 15%;
   background-color: #eaf6f6;
-  font-family: "Sacramento", sans-serif;
+  font-family: 'Sacramento', sans-serif;
   text-align: center;
 }
+
 .Rachit-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
   margin: 2px auto 16px auto;
   width: 85%;
 }
+
 .Aman {
   padding: 7% 15%;
   background-color: aquamarine;
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   text-align: center;
 }
+
 .Aman-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
+
 .taniab {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   background-color: rgb(230, 116, 116);
   text-align: center;
   padding: 7% 15%;
 }
+
 .tania {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -243,25 +348,28 @@ header > form {
 }
 
 #Ishika-Ishani {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Ishika-Ishani-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
+
 .socials {
   display: flex;
   justify-content: center;
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
 }
+
 .Dhruvi {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   background-color: lightblue;
   text-align: center;
   font-size: 52px;
@@ -274,10 +382,24 @@ header > form {
 }
 
 #Ishika-Garg {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Ishika_Garg-Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+.Jabed {
+  padding: 7% 15%;
+  background-color: rgb(197, 182, 255);
+  text-align: center;
+}
+
+#Jabed {
+  font-family: "Sacramento";
+}
+
+#Jabed-Para {
   font-family: "Montserrat";
   line-height: 2;
 }
@@ -299,11 +421,11 @@ header > form {
 }
 
 #Angel-Bansal {
-  font-family: "tahoma";
+  font-family: 'tahoma';
 }
 
 #Angel-Bansal {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -314,20 +436,22 @@ header > form {
 }
 
 #Divas {
-  font-family: "tahoma";
+  font-family: 'tahoma';
 }
 
 #Divas {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
+
 .Jitesh {
   padding: 7% 15%;
   background-color: #fb87f5;
   text-align: center;
 }
+
 #jitesh_span {
-  font-family: "Lobster", cursive;
+  font-family: 'Lobster', cursive;
 }
 
 .mridul2820 {
@@ -337,7 +461,7 @@ header > form {
 }
 
 #mridul2820 {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Shivam-Pathak {
@@ -347,12 +471,12 @@ header > form {
 }
 
 #Shivam-Pathak {
-  font-family: "Courier New";
+  font-family: 'Courier New';
   line-height: 3;
 }
 
 #Shivam-Pathak-Para {
-  font-family: "Courier New";
+  font-family: 'Courier New';
   line-height: 2;
 }
 
@@ -378,13 +502,14 @@ header > form {
   padding: 7% 15%;
   background-color: #b7b8fa;
 }
+
 #Ayush-Srivastava {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
 }
 
 #Ayush-paragraph {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
 
@@ -395,7 +520,7 @@ header > form {
 }
 
 #SrikarM {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   line-height: 2;
 }
 
@@ -406,13 +531,14 @@ header > form {
 }
 
 .taniab {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   background-color: rgb(230, 116, 116);
   text-align: center;
   padding: 7% 15%;
 }
+
 .tania {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -423,15 +549,15 @@ header > form {
 }
 
 #Harsh-Kapoor {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #harsh_span {
-  font-family: "Lobster", cursive;
+  font-family: 'Lobster', cursive;
 }
 
 #Harsh-Kapoor {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -442,11 +568,11 @@ header > form {
 }
 
 #rawngex01 {
-  font-family: "Zapfino Extra LT", sans-serif;
+  font-family: 'Zapfino Extra LT', sans-serif;
 }
 
 #rawngex01-description {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -457,11 +583,11 @@ header > form {
 }
 
 #Agnese {
-  font-family: "Zapfino Extra LT", sans-serif;
+  font-family: 'Zapfino Extra LT', sans-serif;
 }
 
 #AgneseB2 {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -472,11 +598,11 @@ header > form {
 }
 
 #HarshKukreja {
-  font-family: "Zapfino Extra LT", sans-serif;
+  font-family: 'Zapfino Extra LT', sans-serif;
 }
 
 #harsh25k {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -485,12 +611,13 @@ header > form {
   background-color: #eaf6f6;
   text-align: center;
 }
+
 #Ayush-Soni {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Ayush-paragraph {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
 
@@ -501,15 +628,15 @@ header > form {
 }
 
 #Aryan-Sharma {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Aryan-Sharma_span {
-  font-family: "Lobster", cursive;
+  font-family: 'Lobster', cursive;
 }
 
 #Aryan-Sharma {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   z-index: 2;
 }
 
@@ -520,11 +647,11 @@ header > form {
 }
 
 #Yash-raj {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Yash-Raj-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -535,11 +662,11 @@ header > form {
 }
 
 #risahbh {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Rishabh {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 .akshat {
@@ -565,27 +692,27 @@ header > form {
 }
 
 #Ujjwal-Gupta {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Ujjwal-Gupta-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
 /* Divya */
 .Divya-Aggarwal {
   padding: 7% 15%;
-  background-color: #F3E0F9;
+  background-color: #f3e0f9;
   text-align: center;
 }
 
 #Divya-Aggarwal {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Divya-Aggarwal-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -606,16 +733,15 @@ header > form {
   text-align: center;
   padding: 7% 15%;
   /* background-color: #b7b8fa; */
-  background-image: linear-gradient(
-    to right,
-    rgb(46, 161, 243),
-    rgb(11, 247, 184),
-    rgb(48, 162, 244)
-  );
+  background-image: linear-gradient(to right,
+      rgb(46, 161, 243),
+      rgb(11, 247, 184),
+      rgb(48, 162, 244));
 }
+
 #saran-sinha {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
 }
 
 .SujalSamai {
@@ -626,21 +752,19 @@ header > form {
 
 .Vagdevi {
   padding: 7% 15%;
-  background: linear-gradient(
-    90deg,
-    rgb(238, 174, 216) 0%,
-    rgba(233, 148, 188, 0.349) 100%
-  );
+  background: linear-gradient(90deg,
+      rgb(238, 174, 216) 0%,
+      rgba(233, 148, 188, 0.349) 100%);
   text-align: center;
 }
 
 .Vagdevi {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
   font-size: 30px;
 }
 
 #Surarapu Vagdevi {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -648,46 +772,46 @@ header > form {
 .Akhilesh-Waghmare {
   padding: 7% 15%;
   text-align: center;
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Akhilesh-Waghmare-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
+
 .socials {
   display: flex;
   justify-content: center;
   gap: 1.2rem;
   align-items: center;
 }
+
 .github {
   padding-top: 10px;
   width: 20px;
 }
 
 .alit {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
   text-align: center;
   padding: 7% 15%;
-  background-image: linear-gradient(
-    to right,
-    rgb(46, 161, 243),
-    rgb(11, 117, 247),
-    rgb(12, 96, 156)
-  );
+  background-image: linear-gradient(to right,
+      rgb(46, 161, 243),
+      rgb(11, 117, 247),
+      rgb(12, 96, 156));
 }
 
 #alit-here {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Gilang-Kharisma {
   padding: 7% 15%;
   background-color: #4a4238;
   text-align: center;
-  font-family: "Franklin Gothic Medium";
+  font-family: 'Franklin Gothic Medium';
 }
 
 .Jyotika {
@@ -701,22 +825,23 @@ header > form {
 }
 
 #jyotika_span {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Jyotika {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
 #Sujal-Samai {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Sujal-paragraph {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   line-height: 2;
 }
+
 .Robin-Singh {
   padding: 7% 15%;
   background-color: rgba(106, 230, 95, 0.973);
@@ -724,11 +849,11 @@ header > form {
 }
 
 #Robin-Singh {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Robin-Singh {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -740,11 +865,11 @@ header > form {
 }
 
 #atharvamogade-h1 {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .atharvamogade-p {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   width: 75%;
   margin: 0 auto;
   line-height: 2;
@@ -756,8 +881,9 @@ header > form {
   text-align: center;
   color: #80d0c7;
 }
+
 #Antony-Prince {
-  font-family: "Apple Chancery";
+  font-family: 'Apple Chancery';
   overflow: hidden;
   border-right: 0.15em solid olive;
   white-space: nowrap;
@@ -767,31 +893,33 @@ header > form {
 }
 
 #Antony-paragraph {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   line-height: 3;
 }
-
-
 
 @media screen and (max-width: 520px) {
   #Antony-Prince {
     white-space: normal;
   }
 }
+
 @keyframes typing {
   from {
     width: 0;
   }
+
   to {
     width: 50%;
   }
 }
 
 @keyframes blink-caret {
+
   from,
   to {
     border-color: transparent;
   }
+
   50% {
     border-color: olive;
   }
@@ -804,26 +932,26 @@ header > form {
 }
 
 #Jiganesh-Patil {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Jiganesh-Patil {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
-.Priyank-Patil{
+.Priyank-Patil {
   padding: 7% 15%;
   background-color: rgb(25, 163, 238);
   text-align: center;
 }
 
 #Priyank-Patil {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Priyank-Patil {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -836,13 +964,28 @@ header > form {
   position: fixed;
   right: 50px;
   bottom: 50px;
+  transition:opacity 0.5s;
+  cursor:pointer;
+  transition: opacity 0.5s;
+
+}
+
+/* scroll to bottom */
+#scrollbtm {
+  color: white;
+  background: tomato;
+  padding: 15px;
+  border-radius: 50%;
+  position: fixed;
+  left: 50px;
+  bottom: 50px;
   transition: opacity 0.5s;
 }
 
 .akshay {
   display: inline;
   vertical-align: text-top;
-  font-family: "Open Sans", Monospace;
+  font-family: 'Open Sans', Monospace;
   font-size: 16px;
   line-height: 18px;
 }
@@ -854,12 +997,12 @@ header > form {
 }
 
 #Agrim-Sharma {
-  font-family: "Zapfino Extra LT", sans-serif;
+  font-family: 'Zapfino Extra LT', sans-serif;
   line-height: 3;
 }
 
 #Agrim-Sharma-Para {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
 
@@ -876,15 +1019,15 @@ header > form {
   padding: 15px;
 }
 
-.btn{
+.btn {
   border-radius: 50%;
   border: none;
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
 }
 
 .HarshitaGupta {
   padding: 7% 15%;
-  background-color: #ABEBC6;
+  background-color: #abebc6;
   text-align: center;
 }
 
@@ -893,24 +1036,51 @@ header > form {
 }
 
 #harshita2432 {
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+
+.Keegan-Colaco {
+  padding: 5% 15%;
+  background: linear-gradient(270deg, rgb(252, 115, 60), rgb(252, 176, 76));
+  text-align: center;
+}
+
+#Keegan-Colaco {
+  font-family: "Sacramento";
+  font-weight: 500;
+}
+
+.Keegan-Colaco-Para {
   font-family: "Montserrat";
   line-height: 2;
 }
 
-.Amandeeps{
-  padding: 7% 15%;
-  background-image:linear-gradient(to right, #1cc1c1, rgb(241, 117, 241) );
-  text-align: center;
-}
-#Amandeep{
-  font-family: "Futura";
-  text-align: center;
-  line-height :3;
-}
-.Amandeep-para{
-  font-family: 'zapfino extra lt';
+.Keegan-Colaco a{
+  padding: 8px;
 }
 
+.Amandeeps {
+  padding: 7% 15%;
+  background-image: linear-gradient(to right, #1cc1c1, rgb(241, 117, 241));
+  text-align: center;
+}
+
+#Amandeep {
+  font-family: 'Futura';
+  text-align: center;
+  line-height: 3;
+}
+
+#Amandeep {
+  font-family: "Futura";
+  text-align: center;
+  line-height: 3;
+}
+
+.Amandeep-para {
+  font-family: 'zapfino extra lt';
+}
 
 .akshay_p {
   margin-top: 0px;
@@ -927,11 +1097,11 @@ header > form {
 .piyush {
   font-family: 'Open Sans', Monospace;
   font-size: 16px;
- padding: 10%;
- display: flex;
- justify-content: center;
- align-items: center;
- flex-direction: column;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .piyush-here {
@@ -946,56 +1116,367 @@ header > form {
 .kavandiv {
   padding: 5%;
   text-align: center;
-  background: #f12711;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  background: #f12711; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #f12711;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f5af19, #f12711);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .Saloni {
   padding: 7% 15%;
-  background-color: rgb(255, 219, 215);;
+  background-color: rgb(255, 219, 215);
   text-align: center;
 }
 
 #saloni {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 .Saloni {
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+
+.Vasudev {
+  padding: 7% 15%;
+  background-color: rgb(138 150 242);
+  text-align: center;
   font-family: "Montserrat";
   line-height: 2;
 }
 
+#Vasudev {
+  font-family: "Sacramento";
+}
 
-.Prajwal{
+.Prajwal {
   padding: 7% 15%;
   background-color: #5fb4e6;
   text-align: center;
 }
 
 #Prajwal {
-  font-family: "Sacramento";
+  font-family: 'Sacramento';
 }
 
 #Prajwal {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   line-height: 2;
 }
-
-
-.Pooja-Sharma{
-  text-align: center;
+.shailendra {
   padding: 7% 15%;
-  background-color: #AAC4FF;
+  background-color: #faf4b7;
+  text-align: center;
 }
 
-#Pooja-Sharma {
+#shailendra {
   font-family: "Sacramento";
 }
 
-#Pooja-Sharma-Para {
+#shailendra-Para {
   font-family: "Montserrat";
   line-height: 2;
+}
+
+.Pooja-Sharma {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #aac4ff;
+}
+
+#Pooja-Sharma {
+  font-family: 'Sacramento';
+}
+
+#Pooja-Sharma-Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+
+.manas-sahoo {
+  padding: 7% 15%;
+  background-color: #eaf6f6;
+  text-align: center;
+  font-family: 'Montserrat';
+  line-height: 2;
+}
+.Prashun {
+  font-family: "Sacramento";
+  background-color: rgb(11, 184, 155);
+  text-align: center;
+  font-size: 40px;
+  padding: 7% 10%;
+}
+.Prashun h1{
+  font-size: 50px;
+}
+
+.Aseem {
+  text-align:center;
+  padding: 7% 15%;
+  background-color: aquamarine;
+}
+#aseem{
+  font-family:Sacramento;
+}
+#aseem_para{
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 2;
+}
+
+
+.Narendrapawar {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Narendrapawar {
+  font-family: "Sacramento";
+}
+
+#Narendrapawar {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.Muskaan-Bhardwaj {
+  padding: 8% 14%;
+  background-color: #f0f8ff;
+  text-align: center;
+}
+
+#Muskaan-Bhardwaj {
+ font-family: 'Public Sans', sans-serif;
+}
+
+#muskaan1913 {
+  font-family: "Montserrat";
+  line-height: 3;
+}
+
+.SHREY_NAHAR {
+  padding: 7% 15%;
+  background-color: rgba(119, 232, 232, 0.973);
+  text-align: center;
+}
+
+#SHREY_NAHAR {
+  font-family: 'Sacramento';
+}
+
+#SHREY_NAHAR_Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+} 
+
+.socials{
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+
+.Aryan-Sharma {
+  padding: 7% 15%;
+  background-color: #69d4d0;
+  text-align: center;
+}
+#Ayan-Sharma {
+  font-family: "Sacramento";
+}
+.Aryan-Sharma-Para{
+  font-family: "Montserrat";
+}
+
+.charbel {
+  text-align:center;
+  padding: 7% 15%;
+  background-color: #ccccff;
+}
+#CharbelElBateh{
+  font-family:Sacramento;
+}
+#charbel-p{
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 2;
+}
+
+/* timmortal */
+.timmortal-gradient-cover {
+ position: absolute;
+  top: 10%;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   width: 100%;
+}
+
+.timmortal-glass-card {
+  padding: 7% 15%;
+  max-width: 360px;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 15px 0 rgba(255, 255, 255, .3);
+  backdrop-filter: blur(3px);
+}
+
+.timmortal-flex {
+  display: flex;
+}
+.timmortal-gradient-text {
+  font-family: Montserrat;
+  padding-left: 1rem;
+  text-transform: uppercase;
+  font-size: 35px;
+  color: transparent;
+  background: conic-gradient(
+    #D9D7F1 12%,
+    #00896F  12%, #00896F 33%,
+    #D96545 33%, #D96545 55%, 
+    #B48D4E 55%, #B48D4E 70%,
+    #484A6A 70%, #484A6A  87%, 
+    #b1df0cd2 87%
+  );
+  background-size: 50%;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  animation: expand-reverse .5s ease forwards;
+}
+
+.timmortal-gradient-text:hover {
+  animation: expand .5s ease forwards;
+}
+
+@keyframes expand {
+  0% {
+      background-size: 50%;
+      background-position: 0 0;
+  }
+  20% {
+      background-size: 55%;
+      background-position: 0 1em;
+  }
+  100% {
+      background-size: 325%;
+      background-position: -10em -4em;
+  }
+}
+@keyframes expand-reverse {
+  0% {
+      background-size: 325%;
+      background-position: -10em -4em;
+  }
+  20% {
+      background-size: 55%;
+      background-position: 0 1em;
+  }
+  100% {
+      background-size: 50%;
+      background-position: 0em 0em;
+  }
+}
+
+.timmortal-links{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.timmortal-p {
+  font-family: Prompt;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: roboto mono;
+  color: #000000;
+  padding-left: 1rem;
+}
+.timmortal-twt {
+  align-self: center;
+  align-content: center;
+  justify-content: space-between;
+  width: 1.5rem;
+}
+.timmortal-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.timmortal-bg-pattern {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  animation: animateBg 10s ease-in-out infinite;
+}
+
+@keyframes animateBg {
+  0%, 100% {
+    transform: scale(1.6) rotate(-15deg); 
+  }
+  50% {
+    transform: scale(1.6) rotate(15deg);
+  }
+}
+
+.timmortal-bg-pattern .timmortal-room {
+  width: 100%;
+  height: 50vh;
+  background: url("https://images.unsplash.com/photo-1533912352517-92dd08116ea4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80");
+  background-size: 100px 100px;
+  animation: animate 1s linear infinite;
+  color: white;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0;
+  }
+  100% {
+    background-position: 100px;
+  }
+}
+
+.timmortal-bg-pattern .timmortal-room.room2 {
+  height: 70vh;
+  transform-origin: top;
+  transform: rotateX(70deg);
+}
+
+.timmortal-bg-pattern .room1:before {
+  content: '';
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 125px;
+  background: linear-gradient(0deg, rgba(0,0,0,.5), transparent);
+}
+
+.timmortal-bg-pattern .room2:before {
+  content: '';
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 125px;
+  background: linear-gradient(180deg, rgba(0,0,0,.5), transparent);
 }
 
 footer {
@@ -1007,6 +1488,95 @@ footer {
   bottom: 0%;
   left: 0%;
   right: 0%;
+}
+
+/* chandan kushwaha */
+.banner_wrapper{
+  width: 100%; 
+  height: 40vh;
+  background-image: linear-gradient(
+        -45deg, 
+        rgba(59,173,227,1) 0%, 
+        rgba(87,111,230,1) 25%, 
+        rgba(152,68,183,1) 51%, 
+        rgba(255,53,127,1) 100%
+  );  
+  animation: AnimateBG 20s ease infinite; 
+}
+
+.devhabeeb
+{
+  font-family: "Montserrat";
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+}
+
+.devhabeeb {
+  -webkit-animation: bgcolorchange 4s infinite; /* Chrome, Safari, Opera */ 
+  animation: 4s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: red;
+  }
+  25% {
+    background-color: #2b2b2b;
+  }
+  50% {
+    background-color: orangered;
+  }
+  75% {
+    background-color: green;
+  }
+  100% {
+    background-color: red;
+  }
+}
+
+ @-webkit-keyframes bgcolorchange {
+      0%   {background: red;}
+      25%  {background: yellow;}
+      75%  {background: green;}
+      100% {background: blue;}
+ }
+
+.sandradiv {
+  padding: 7% 15%;
+  background: linear-gradient(145.79deg, #FFFFFF 33.06%, #72B071 79.76%);
+}
+
+#sandraName {
+  text-align: center;
+  font-family: 'Butterfly Kids', cursive;
+}
+
+.sandrap {
+  font-family: 'Baumans', cursive;
+}
+
+.heismanish{
+  font-family:'Open Sans', Monospace;
+  text-align: center;
+  padding: 8% 2%;
+  background-color: #e6cdf3;
+
+}
+#manish{
+  margin-bottom: 2%;
+  color: #222;
+}
+.manish{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 2%;
+}
+.man-link{
+  display: flex;
+  gap: 1%;
+  justify-content: center;
 }
 
 
