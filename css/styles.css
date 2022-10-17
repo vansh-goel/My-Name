@@ -980,6 +980,21 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.shailendra {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#shailendra {
+  font-family: "Sacramento";
+}
+
+#shailendra-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 
 
 .Pooja-Sharma{
@@ -995,6 +1010,16 @@ header > form {
 #Pooja-Sharma-Para {
   font-family: "Montserrat";
   line-height: 2;
+}
+.Prashun {
+  font-family: "Sacramento";
+  background-color: rgb(11, 184, 155);
+  text-align: center;
+  font-size: 40px;
+  padding: 7% 10%;
+}
+.Prashun h1{
+  font-size: 50px;
 }
 
 .Aseem {
@@ -1025,6 +1050,30 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+
+.SHREY_NAHAR {
+  padding: 7% 15%;
+  background-color: rgba(119, 232, 232, 0.973);
+  text-align: center;
+}
+
+#SHREY_NAHAR {
+  font-family: 'Sacramento';
+}
+
+#SHREY_NAHAR_Para {
+  font-family: 'Montserrat';
+  line-height: 2;
+} 
+
+.socials{
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+
 footer {
   padding: 5% 25%;
   background-color: #222;

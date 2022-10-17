@@ -238,8 +238,16 @@
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
 
+
+# Name : Shrey Nahar
+
+- Place : India.
+- Bio : web Developer.
+- Github [Shrey](https://github.com/Shrey-Nahar)
+
 # Name: Aseem
 
 - Place : India.
 - Bio : Student, Frontend developer(Intermediate).
 - Github [Aseem](https://github.com/AseemsGit)
+
