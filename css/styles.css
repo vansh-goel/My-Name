@@ -16,7 +16,6 @@ header>form {
   width: 110px;
   border-radius: 50%;
 }
-
 #name-input {
   padding: 0.5rem;
   border-radius: 5px 0 0 5px;
@@ -102,7 +101,7 @@ header>form {
 .twt {
   padding-top: 10px;
   width: 20px;
-}
+} 
 
 .Harsh-Gupta {
   text-align: center;
@@ -1286,6 +1285,165 @@ header>form {
 #charbel-p{
   font-family: 'Courier New', Courier, monospace;
   line-height: 2;
+}
+
+/* timmortal */
+.timmortal-gradient-cover {
+ position: absolute;
+  top: 10%;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   width: 100%;
+}
+.timmortal-glass-card {
+  padding: 7% 15%;
+  max-width: 360px;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 15px 0 rgba(255, 255, 255, .3);
+  backdrop-filter: blur(3px);
+}
+.timmortal-flex {
+  display: flex;
+}
+.timmortal-gradient-text {
+  font-family: Montserrat;
+  padding-left: 1rem;
+  text-transform: uppercase;
+  font-size: 35px;
+  color: transparent;
+  background: conic-gradient(
+    #D9D7F1 12%,
+    #00896F  12%, #00896F 33%,
+    #D96545 33%, #D96545 55%, 
+    #B48D4E 55%, #B48D4E 70%,
+    #484A6A 70%, #484A6A  87%, 
+    #b1df0cd2 87%
+  );
+  background-size: 50%;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  animation: expand-reverse .5s ease forwards;
+}
+
+.timmortal-gradient-text:hover {
+  animation: expand .5s ease forwards;
+}
+
+@keyframes expand {
+  0% {
+      background-size: 50%;
+      background-position: 0 0;
+  }
+  20% {
+      background-size: 55%;
+      background-position: 0 1em;
+  }
+  100% {
+      background-size: 325%;
+      background-position: -10em -4em;
+  }
+}
+@keyframes expand-reverse {
+  0% {
+      background-size: 325%;
+      background-position: -10em -4em;
+  }
+  20% {
+      background-size: 55%;
+      background-position: 0 1em;
+  }
+  100% {
+      background-size: 50%;
+      background-position: 0em 0em;
+  }
+}
+.timmortal-links{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.timmortal-p {
+  font-family: Prompt;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: roboto mono;
+  color: #000000;
+  padding-left: 1rem;
+}
+.timmortal-twt {
+  align-self: center;
+  align-content: center;
+  justify-content: space-between;
+  width: 1.5rem;
+}
+.timmortal-section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.timmortal-bg-pattern {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  animation: animateBg 10s ease-in-out infinite;
+}
+
+@keyframes animateBg {
+  0%, 100% {
+    transform: scale(1.6) rotate(-15deg); 
+  }
+  50% {
+    transform: scale(1.6) rotate(15deg);
+  }
+}
+
+.timmortal-bg-pattern .timmortal-room {
+  width: 100%;
+  height: 50vh;
+  background: url("https://images.unsplash.com/photo-1533912352517-92dd08116ea4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=778&q=80");
+  background-size: 100px 100px;
+  animation: animate 1s linear infinite;
+  color: white;
+}
+
+@keyframes animate {
+  0% {
+    background-position: 0;
+  }
+  100% {
+    background-position: 100px;
+  }
+}
+
+.timmortal-bg-pattern .timmortal-room.room2 {
+  height: 70vh;
+  transform-origin: top;
+  transform: rotateX(70deg);
+}
+
+.timmortal-bg-pattern .room1:before {
+  content: '';
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 125px;
+  background: linear-gradient(0deg, rgba(0,0,0,.5), transparent);
+}
+
+.timmortal-bg-pattern .room2:before {
+  content: '';
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 125px;
+  background: linear-gradient(180deg, rgba(0,0,0,.5), transparent);
 }
 
 footer {

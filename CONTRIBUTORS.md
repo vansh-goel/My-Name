@@ -268,6 +268,13 @@
 - Github [Som](https://github.com/soumdatta81)
 
 
+# Name : Timmortal
+
+- Place : Lagos, Nigeria.
+- Bio : Software Engineer.
+- Github [Timmotal](https://github.com/Timmotal)
+
+
 # Name : Manas Sahoo
 
 - Place : India.
@@ -306,3 +313,4 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
