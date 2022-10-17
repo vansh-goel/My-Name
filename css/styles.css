@@ -921,7 +921,10 @@ header>form {
   position: fixed;
   right: 50px;
   bottom: 50px;
+  transition:opacity 0.5s;
+  cursor:pointer;
   transition: opacity 0.5s;
+
 }
 
 .akshay {
