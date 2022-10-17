@@ -237,3 +237,9 @@
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name: Aseem
+
+- Place : India.
+- Bio : Student, Frontend developer(Intermediate).
+- Github [Aseem](https://github.com/AseemsGit)
