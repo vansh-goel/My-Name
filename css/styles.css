@@ -1010,6 +1010,21 @@ header > form {
   line-height: 2;
 }
 
+
+.Narendrapawar {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Narendrapawar {
+  font-family: "Sacramento";
+}
+
+#Narendrapawar {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 footer {
   padding: 5% 25%;
   background-color: #222;
