@@ -669,21 +669,6 @@ header>form {
   font-family: 'Montserrat';
   line-height: 2;
 }
-.akshat {
-  text-align: center;
-  padding: 7% 15%;
-  /* background-color: #b7b8fa; */
-  background-image: linear-gradient(
-    to right,
-    rgb(255, 86, 119),
-    rgb(185, 88, 165),
-    rgb(76, 63, 145)
-  );
-}
-#akshatm {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
 
 .Ujjwal-Gupta {
   padding: 7% 15%;
@@ -1254,21 +1239,6 @@ header>form {
   line-height: 2;
 }
 
-.Muskaan-Bhardwaj {
-  padding: 8% 14%;
-  background-color: #f0f8ff;
-  text-align: center;
-}
-
-#Muskaan-Bhardwaj {
- font-family: 'Public Sans', sans-serif;
-}
-
-#muskaan1913 {
-  font-family: "Montserrat";
-  line-height: 3;
-}
-
 .SHREY_NAHAR {
   padding: 7% 15%;
   background-color: rgba(119, 232, 232, 0.973);
@@ -1327,7 +1297,6 @@ header>form {
   justify-content: center;
    width: 100%;
 }
-
 .timmortal-glass-card {
   padding: 7% 15%;
   max-width: 360px;
@@ -1339,7 +1308,6 @@ header>form {
   box-shadow: 0 5px 15px 0 rgba(255, 255, 255, .3);
   backdrop-filter: blur(3px);
 }
-
 .timmortal-flex {
   display: flex;
 }
@@ -1396,7 +1364,6 @@ header>form {
       background-position: 0em 0em;
   }
 }
-
 .timmortal-links{
   display: flex;
   flex-direction: column;
@@ -1579,4 +1546,14 @@ footer {
   justify-content: center;
 }
 
+.gaurav{
+  
+  body {background-color: rgb(242, 241, 254);}
 
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 8px;
+border-width: 5%;
+}
