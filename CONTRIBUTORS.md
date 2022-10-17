@@ -260,6 +260,12 @@
 - Bio: Student, Web Developer
 - Github: [Harshita Gupta](https://github.com/Harshitagupta324)
 
+# Name: Akshat
+
+- Place: India
+- Bio: Student, Web Developer
+- GitHub: [Akshat Mishra](https://github.com/akshatmishra25)
+
 # Name : Som Datta
 
 

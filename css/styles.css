@@ -669,6 +669,21 @@ header>form {
   font-family: 'Montserrat';
   line-height: 2;
 }
+.akshat {
+  text-align: center;
+  padding: 7% 15%;
+  /* background-color: #b7b8fa; */
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 86, 119),
+    rgb(185, 88, 165),
+    rgb(76, 63, 145)
+  );
+}
+#akshatm {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 
 .Ujjwal-Gupta {
   padding: 7% 15%;
