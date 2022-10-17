@@ -257,6 +257,13 @@
 - Github [Som](https://github.com/soumdatta81)
 
 
+# Name : Manish Kumar Gupta
+
+- Place : India
+- Bio : Student | Front-End Web Developer
+- Github [Som](https://github.com/Heismanish)
+
+
 # Name : Shrey Nahar
 
 - Place : India.
@@ -268,4 +275,5 @@
 - Place : India.
 - Bio : Student, Frontend developer(Intermediate).
 - Github [Aseem](https://github.com/AseemsGit)
+
 
