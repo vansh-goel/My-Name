@@ -982,6 +982,16 @@ header > form {
 }
 
 
+.Akash {
+  padding: 7% 15%;
+  background-color: rgb(106, 218, 91);;
+  text-align: center;
+}
+
+#Akash {
+  font-family: "Sacramento";
+}
+
 .Prajwal{
   padding: 7% 15%;
   background-color: #5fb4e6;
