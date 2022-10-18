@@ -214,6 +214,10 @@
 - Bio: Data Engineer, Blockchain Enthusiast
 - Github: [Antony](https://github.com/antoprince001)
 
+# Name: Chandan Kushwaha
+- Place: India
+- Bio: Student, Competitive programming Enthusiast
+- Github: [Antony](https://github.com/chadanck22)
 
 # Name: Keegan Colaco
 - Place: India
@@ -256,12 +260,37 @@
 - Bio: Student, Web Developer
 - Github: [Harshita Gupta](https://github.com/Harshitagupta324)
 
+# Name: Akshat
+
+- Place: India
+- Bio: Student, Web Developer
+- GitHub: [Akshat Mishra](https://github.com/akshatmishra25)
+
 # Name : Som Datta
 
 
 - Place : India.
 - Bio : Backend Developer.
 - Github [Som](https://github.com/soumdatta81)
+
+# Name: Muskaan Bhardwaj
+
+- Place: India
+- Bio: Student, Web Developer
+- Github: [Muskaan Bhardwaj](https://github.com/muskaan-cpp)
+
+# Name : Timmortal
+
+- Place : Lagos, Nigeria.
+- Bio : Software Engineer.
+- Github [Timmotal](https://github.com/Timmotal)
+
+
+# Name : Manas Sahoo
+
+- Place : India.
+- Bio : Frontend Developer.
+- Github [Manas Sahoo](https://github.com/manassahoo-dev)
 
 
 # Name : Harsh Gupta
@@ -289,3 +318,9 @@
 - Place : India.
 - Bio : Student, Frontend developer(Intermediate).
 - Github [Aseem](https://github.com/AseemsGit)
+
+# Name: Charbel
+
+- Place : Lebanon.
+- Bio : Junior computer engineer.
+- Github [Charbel](https://github.com/CharbelElBateh)
