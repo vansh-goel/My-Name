@@ -1013,6 +1013,14 @@ header > form {
   line-height: 2;
 }
 
+.retroannie {
+  padding: 5%;
+  text-align: center;
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  font-family: monospace;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
