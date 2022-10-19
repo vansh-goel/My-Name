@@ -46,6 +46,15 @@ header > form {
   text-align: center;
 }
 
+.ashish-khare {
+  padding: 7% 15%;
+  background-color: #FCE2DB;
+  text-align: center;
+}
+.ashish-khare > h1{
+  font-family: "Sacramento";
+}
+
 .Maheen-Shaikh {
   padding: 7% 15%;
   background-color: #b7b8fa;
