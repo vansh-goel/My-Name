@@ -1,5 +1,5 @@
 header {
-  height: 10vh;
+  height: 11.5vh;
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -1011,6 +1011,33 @@ header > form {
 #Pooja-Sharma-Para {
   font-family: "Montserrat";
   line-height: 2;
+}
+
+.yuvraj{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding: 6% 17%;
+  line-height: 2;
+  text-align: center;
+  background: #200122;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #6f0000, #200122);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #6f0000, #200122); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+}
+
+.yuvraj-p{
+  margin: 1rem 0;
+  font-size: large;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.socials .social-btn{
+  border: none;
+  border-radius: 50% 50% 50% 50% / 49% 49% 51% 51% ;
+  padding: 0 13px 13px 13px;
 }
 
 footer {
