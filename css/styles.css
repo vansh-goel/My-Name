@@ -1012,6 +1012,28 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.Shweta{
+  padding: 7% 15%;
+  text-align: center;
+  background-image: linear-gradient(to bottom right,#283048, #859398);
+}
+#Shweta-name{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-weight: 900;
+  font-style: italic;
+}
+.Shweta-Para{
+  font-family: "Montserrat";
+  font-weight: 100;
+  color: #ffffff;
+}
+.Shweta-Social{
+  padding-top: 10px;
+  width: 2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 footer {
   padding: 5% 25%;
