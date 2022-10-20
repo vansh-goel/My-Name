@@ -1013,6 +1013,21 @@ header > form {
   line-height: 2;
 }
 
+.Kritika-Joshi{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #AAC4FF;
+}
+
+#Kritika-Joshi {
+  font-family: "Sacramento";
+}
+
+#Kritika-Joshi-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
