@@ -324,3 +324,9 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
+# Name: Harshita
+
+- Place : United States.
+- Bio : Deep Learning Research Assistant.
+- Github [harshitakukreja](https://github.com/harshitakukreja)
