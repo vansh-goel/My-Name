@@ -324,3 +324,9 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
+# Name: Manish Kumar
+
+- Place : India.
+- Bio : Full Stack Developer.
+- Github [Manish](https://github.com/mk-manishkumar)
