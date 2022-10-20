@@ -981,6 +981,17 @@ header > form {
   line-height: 2;
 }
 
+.bilal {
+  padding: 7% 15%;
+  background-color: rgb(255, 219, 215);;
+  text-align: center;
+}
+
+#bilal {
+  font-family: "Lobster";
+}
+
+
 
 .Prajwal{
   padding: 7% 15%;
