@@ -152,7 +152,7 @@ header > form {
   font-size: 1.2rem !important;
   font-weight: 600;
 }
-#AyushK{
+#AyushK {
   font-size: 3.6rem;
   font-weight: 500;
 }
@@ -591,7 +591,7 @@ header > form {
 /* Divya */
 .Divya-Aggarwal {
   padding: 7% 15%;
-  background-color: #F3E0F9;
+  background-color: #f3e0f9;
   text-align: center;
 }
 
@@ -786,8 +786,6 @@ header > form {
   line-height: 3;
 }
 
-
-
 @media screen and (max-width: 520px) {
   #Antony-Prince {
     white-space: normal;
@@ -827,7 +825,7 @@ header > form {
   line-height: 2;
 }
 
-.Priyank-Patil{
+.Priyank-Patil {
   padding: 7% 15%;
   background-color: rgb(25, 163, 238);
   text-align: center;
@@ -879,7 +877,7 @@ header > form {
 }
 
 .Amrutanhu-jena {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   background-color: violet;
   color: #42249c;
   text-align: center;
@@ -887,24 +885,24 @@ header > form {
 }
 
 .Amrutanhu-jena-about {
-  font-family: 'Lucida Handwriting', cursive;
+  font-family: "Lucida Handwriting", cursive;
   padding: 15px;
 }
 
-.btn{
+.btn {
   border-radius: 50%;
   border: none;
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
 }
 
 .HarshitaGupta {
   padding: 7% 15%;
-  background-color: #ABEBC6;
+  background-color: #abebc6;
   text-align: center;
 }
 
 #HarshitaGupta {
-  font-family: 'Zapfino Extra LT', sans-serif;
+  font-family: "Zapfino Extra LT", sans-serif;
 }
 
 #harshita2432 {
@@ -912,20 +910,19 @@ header > form {
   line-height: 2;
 }
 
-.Amandeeps{
+.Amandeeps {
   padding: 7% 15%;
-  background-image:linear-gradient(to right, #1cc1c1, rgb(241, 117, 241) );
+  background-image: linear-gradient(to right, #1cc1c1, rgb(241, 117, 241));
   text-align: center;
 }
-#Amandeep{
+#Amandeep {
   font-family: "Futura";
   text-align: center;
-  line-height :3;
+  line-height: 3;
 }
-.Amandeep-para{
-  font-family: 'zapfino extra lt';
+.Amandeep-para {
+  font-family: "zapfino extra lt";
 }
-
 
 .akshay_p {
   margin-top: 0px;
@@ -940,13 +937,13 @@ header > form {
 }
 
 .piyush {
-  font-family: 'Open Sans', Monospace;
+  font-family: "Open Sans", Monospace;
   font-size: 16px;
- padding: 10%;
- display: flex;
- justify-content: center;
- align-items: center;
- flex-direction: column;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .piyush-here {
@@ -961,14 +958,22 @@ header > form {
 .kavandiv {
   padding: 5%;
   text-align: center;
-  background: #f12711;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #f12711; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .Saloni {
   padding: 7% 15%;
-  background-color: rgb(255, 219, 215);;
+  background-color: rgb(255, 219, 215);
   text-align: center;
 }
 
@@ -981,8 +986,7 @@ header > form {
   line-height: 2;
 }
 
-
-.Prajwal{
+.Prajwal {
   padding: 7% 15%;
   background-color: #5fb4e6;
   text-align: center;
@@ -997,11 +1001,10 @@ header > form {
   line-height: 2;
 }
 
-
-.Pooja-Sharma{
+.Pooja-Sharma {
   text-align: center;
   padding: 7% 15%;
-  background-color: #AAC4FF;
+  background-color: #aac4ff;
 }
 
 #Pooja-Sharma {
@@ -1010,6 +1013,21 @@ header > form {
 
 #Pooja-Sharma-Para {
   font-family: "Montserrat";
+  line-height: 2;
+}
+
+.UdaySingh {
+  padding: 7% 15%;
+  background-color: #cf0a0a;
+  text-align: center;
+}
+
+#UdaySingh {
+  font-family: "Montserrat";
+}
+
+#Uday-paragraph {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   line-height: 2;
 }
 
@@ -1023,5 +1041,3 @@ footer {
   left: 0%;
   right: 0%;
 }
-
-
