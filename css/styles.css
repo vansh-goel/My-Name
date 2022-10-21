@@ -1013,6 +1013,20 @@ header > form {
   line-height: 2;
 }
 
+.Veeresh{
+padding: 7% 15%;
+text-align: center;
+background: #c5f6fa;
+}
+
+.VeereshHeading{
+font-family:'Montserrat',sans-serif;
+font-weight:bold;
+}
+
+.VeereshParagraph{
+font-family: 'Montserrat',sans-serif;
+}
 
 .MonicaKukreja {
   padding: 7% 15%;

@@ -325,6 +325,11 @@
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
 
+# Name: Veeresh Tadkal
+
+- Place : India.
+- Bio : Boomi Developer.
+- Github [Veeresh](https://github.com/VeereshTadkal)
 
 # Name: Monica Kukreja
 
