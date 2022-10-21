@@ -1013,6 +1013,14 @@ header > form {
   line-height: 2;
 }
 
+#TalhaQuddoos {
+  font-family: "Montserrat";
+  padding: 7% 15%;
+  background-color: rgb(150, 71, 63);
+  text-align: center;
+  color: white;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
