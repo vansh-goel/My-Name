@@ -1013,7 +1013,6 @@ header > form {
   line-height: 2;
 }
 
-
 #Amisha {
   font-family: "Sacramento";
   font-size: 60px;
@@ -1038,6 +1037,59 @@ header > form {
 .Amisha--highlight{
   font-weight: bold;
   color: blueviolet;
+}
+
+.Veeresh{
+padding: 7% 15%;
+text-align: center;
+background: #c5f6fa;
+}
+
+.VeereshHeading{
+font-family:'Montserrat',sans-serif;
+font-weight:bold;
+}
+
+.VeereshParagraph{
+font-family: 'Montserrat',sans-serif;
+}
+
+.MonicaKukreja {
+  padding: 7% 15%;
+  background-color: #abebc6;
+  text-align: center;
+}
+
+#MonicaKukreja {
+  font-family: "Zapfino Extra LT", sans-serif;
+}
+
+#monicap {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+#TalhaQuddoos {
+  font-family: "Montserrat";
+  padding: 7% 15%;
+  background-color: rgb(150, 71, 63);
+  text-align: center;
+  color: white;
+}
+
+.SachXD{
+  padding: 7% 15%;
+  background-color: #3B2BA8;
+  text-align: center;
+}
+
+#SachXD {
+  font-family: "Sacramento";
+}
+
+#SachXD {
+  font-family: "Montserrat";
+  line-height: 2;
 }
 
 footer {
