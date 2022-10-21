@@ -1013,6 +1013,7 @@ header > form {
   line-height: 2;
 }
 
+
 .MonicaKukreja {
   padding: 7% 15%;
   background-color: #abebc6;
@@ -1024,6 +1025,29 @@ header > form {
 }
 
 #monicap {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+#TalhaQuddoos {
+  font-family: "Montserrat";
+  padding: 7% 15%;
+  background-color: rgb(150, 71, 63);
+  text-align: center;
+  color: white;
+}
+
+.SachXD{
+  padding: 7% 15%;
+  background-color: #3B2BA8;
+  text-align: center;
+}
+
+#SachXD {
+  font-family: "Sacramento";
+}
+
+#SachXD {
   font-family: "Montserrat";
   line-height: 2;
 }
