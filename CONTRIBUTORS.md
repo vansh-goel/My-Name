@@ -324,3 +324,9 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
+# Name: Ananth 
+
+- Place : South India.
+- Bio : Freshman at SCTCE, Rust Enthusiast
+- Github [SachXD](https://github.com/sachxd)
