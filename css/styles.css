@@ -1014,6 +1014,21 @@ header > form {
 }
 
 
+.MonicaKukreja {
+  padding: 7% 15%;
+  background-color: #abebc6;
+  text-align: center;
+}
+
+#MonicaKukreja {
+  font-family: "Zapfino Extra LT", sans-serif;
+}
+
+#monicap {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 #TalhaQuddoos {
   font-family: "Montserrat";
   padding: 7% 15%;
