@@ -1012,6 +1012,18 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.srinika{
+  text-align: center;
+  padding: 7% 15%;
+  font-family: "sacramento" ;
+  background-color: #DFD3C3;
+}
+.srinikapara{
+  padding: 7% 15%;
+  font-family:sans-serif;
+  text-align: center;
+  background-color: #D0B8A8;
+}
 
 footer {
   padding: 5% 25%;
