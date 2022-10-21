@@ -1013,6 +1013,33 @@ header > form {
   line-height: 2;
 }
 
+
+#Amisha {
+  font-family: "Sacramento";
+  font-size: 60px;
+}
+
+.AmishaPandey{
+  padding: 7% 15%;
+  background-color: rgb(213, 251, 155);
+  text-align: center;
+  color: black;
+  
+}
+
+.Amisha--about{
+  font-family:'Poppins', sans-serif;
+  padding: 3%;
+  line-height: 2;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+
+.Amisha--highlight{
+  font-weight: bold;
+  color: blueviolet;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
