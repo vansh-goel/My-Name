@@ -324,3 +324,9 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
+# Name: Monica Kukreja
+
+- Place: India
+- Bio: Student, interested in web development
+- GitHub: [Monica Kukreja](https://github.com/monicakukreja)
