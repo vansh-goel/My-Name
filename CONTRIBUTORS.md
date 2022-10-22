@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name : Ayush Shrotriya
+
+- Place : India.
+- Bio : Student, Open Source.
+- Github: [Ayushsgit](https://github.com/ayushsgit)
