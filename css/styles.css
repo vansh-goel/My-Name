@@ -7,6 +7,7 @@ header {
   background-color: rgb(86, 39, 255);
 }
 
+
 header > form {
   display: flex;
   justify-content: space-around;
@@ -1038,6 +1039,23 @@ header > form {
   font-weight: bold;
   color: blueviolet;
 }
+
+.avish1xyz {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#avish1xyz {
+  font-family: "Sacramento";
+}
+
+#avish1xyz-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
 
 .Veeresh{
 padding: 7% 15%;
