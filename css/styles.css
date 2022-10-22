@@ -135,6 +135,23 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.balaji-bharath {
+  text-align: center;
+  background-color: #85F4FF;
+  padding: 10% 10%;
+}
+
+#bharath {
+  font-family: "Sacramento";
+  font-size: 70px;
+}
+.bha:hover{
+  color: #026d7b;
+}
+.bharath-para {
+  font-family: sans-serif;
+  font-size: 20px;
+}
 
 .AyushK {
   padding: 7% 15%;
