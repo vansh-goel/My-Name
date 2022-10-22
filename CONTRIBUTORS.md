@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Pooja Sanwal
+
+- Place: India
+- Bio: Student, self-taught front-end developer
+- Github: [Pooja Sanwal](https://github.com/poojasanwal)
