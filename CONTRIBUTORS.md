@@ -343,3 +343,11 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+
+# Name: Upendra Singh Karmiyal 
+
+- Place : India.
+- Bio : DE/ML Engineer, Interested in Opensource communities.
+- Github [Upendra Singh Karliyal](https://github.com/Upendra-Singh-Karmiyal)
+
+
