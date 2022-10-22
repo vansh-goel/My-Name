@@ -1092,6 +1092,26 @@ font-family: 'Montserrat',sans-serif;
   line-height: 2;
 }
 
+.Mansi114 {
+  padding: 7% 15%;
+  background-color: #faf4b7;
+  text-align: center;
+}
+
+#Mansi114 {
+  font-family: "Sacramento";
+}
+
+#Mansi114-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+.socials {
+  padding-top: 10px;
+  width: 20px;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
