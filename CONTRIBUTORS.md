@@ -343,3 +343,9 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Rajan
+
+- Place: India
+- Bio: Student, interested in machine learning
+- GitHub: [Rajan](https://github.com/rajan25k)
+
