@@ -1069,6 +1069,21 @@ font-family: 'Montserrat',sans-serif;
   line-height: 2;
 }
 
+.Jayavardhan {
+  padding: 7% 15%;
+  background-color:  rgb(25, 163, 238);
+  text-align: center;
+}
+
+#Jayavardhan {
+  font-family: 'Poppins', sans-serif;
+}
+
+#about-Jaya {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 #TalhaQuddoos {
   font-family: "Montserrat";
   padding: 7% 15%;
