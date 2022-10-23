@@ -1091,7 +1091,28 @@ font-family: 'Montserrat',sans-serif;
   font-family: "Montserrat";
   line-height: 2;
 }
+.Triptichugh{
+  background-image: linear-gradient(to right top, #e6dfe5, #dfafe0, #cd7fe0, #af4fe4, #8112eb);
+  height: 410px;
+  text-align: center;
+  padding: 7% 18%;
+}
+.triptipara{
+  font-family: 'Poppins';
+  width: 952px;
+  color: #2d2d2d;
+  font-size: 18px;
+  line-height: 2;
+  font-weight: lighter;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+#Triptichugh {
+  font-family: "Sacramento";
+  font-size: 60px;
+  
 
+}
 footer {
   padding: 5% 25%;
   background-color: #222;
