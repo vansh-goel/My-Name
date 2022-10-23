@@ -34,6 +34,13 @@
 - Bio: Journalist, Learning Web Development
 - GitHub: [Lea Guedj](https://github.com/leaggg)
 
+# Name: Priya
+
+- Place: India
+- Bio: Student, learninng and exploring
+- GitHub: [Priya Singh](https://github.com/PriyaSingh03)
+
+
 # Name: Markus
 
 - Place: Switzerland
