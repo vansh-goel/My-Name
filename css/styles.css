@@ -1013,6 +1013,19 @@ header > form {
   line-height: 2;
 }
 
+
+.Khemendra {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #AAC4FF;
+  font-family: 'Open Sans', Monospace;
+  
+}
+
+
+
+
+=======
 #Amisha {
   font-family: "Sacramento";
   font-size: 60px;
@@ -1091,6 +1104,7 @@ font-family: 'Montserrat',sans-serif;
   font-family: "Montserrat";
   line-height: 2;
 }
+
 
 footer {
   padding: 5% 25%;
