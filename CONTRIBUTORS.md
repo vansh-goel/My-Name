@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Teddir 
+
+- Place : Asia.
+- Bio : Student, Mobile Developer
+- Github [Teddir](https://github.com/Teddir)

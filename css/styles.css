@@ -1092,6 +1092,21 @@ font-family: 'Montserrat',sans-serif;
   line-height: 2;
 }
 
+.td-div {
+  padding: 7% 15%;
+  background-color: #ffb5cb;
+  text-align: center;
+}
+
+#td-h1 {
+  font-family: "Sacramento";
+}
+
+#td-p {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 footer {
   padding: 5% 25%;
   background-color: #222;
