@@ -341,5 +341,12 @@
 
 - Place : South India.
 - Bio : Freshman at SCTCE, Rust Enthusiast
-- Github [SachXD](https://github.com/sachxd)
+- Github [SachXD](https://github.com/sachxd
+- 
+# Name: Rohit Singh
+
+- Place: India
+- Bio: Student, fresher
+- GitHub: [Vansh Goel](https://github.com/Rohit9804)
+
 
