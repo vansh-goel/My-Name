@@ -343,3 +343,11 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Rudrakant Tiwari
+
+- Place : India.
+- Bio : CS Undergrad .
+- Github [Rudra-KT](https://github.com/Rudra-KT) .
+
+
+
