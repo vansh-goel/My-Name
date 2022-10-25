@@ -325,6 +325,12 @@
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
 
+# Name: Bilal
+
+- Place : Pakistan.
+- Bio : Full Stack Developer
+- Github [Bilal](https://github.com/bilalzhd)
+=======
 # Name: Veeresh Tadkal
 
 - Place : India.
