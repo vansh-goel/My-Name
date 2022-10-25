@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
 header {
   height: 10vh;
   padding: 1rem;
@@ -1090,6 +1092,23 @@ font-family: 'Montserrat',sans-serif;
 #SachXD {
   font-family: "Montserrat";
   line-height: 2;
+}
+
+.divDev {
+  padding: 7% 15%;
+  background-color: #d6eae9;
+  text-align: center;
+}
+
+#headingDev {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.aboutDev {
+  font-family: 'Open Sans', Monospace;
+  line-height: 2;
+  letter-spacing: 0.1em;
+  color: #2e073b;
 }
 
 footer {
