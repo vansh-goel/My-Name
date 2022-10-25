@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Pranav
+
+- Place: India
+- Bio: Student, Learning Web Dev
+- GitHub: [Pranav Malik](https://github.com/pran9v)
