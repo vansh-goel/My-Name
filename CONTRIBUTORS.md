@@ -325,9 +325,27 @@
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
 
-
 # Name: Bilal
 
 - Place : Pakistan.
 - Bio : Full Stack Developer
 - Github [Bilal](https://github.com/bilalzhd)
+=======
+# Name: Veeresh Tadkal
+
+- Place : India.
+- Bio : Boomi Developer.
+- Github [Veeresh](https://github.com/VeereshTadkal)
+
+# Name: Monica Kukreja
+
+- Place: India
+- Bio: Student, interested in web development
+- GitHub: [Monica Kukreja](https://github.com/monicakukreja)
+
+# Name: Ananth 
+
+- Place : South India.
+- Bio : Freshman at SCTCE, Rust Enthusiast
+- Github [SachXD](https://github.com/sachxd)
+
