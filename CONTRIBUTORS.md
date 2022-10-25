@@ -347,6 +347,6 @@
 
 - Place: India
 - Bio: Student, fresher
-- GitHub: [Vansh Goel](https://github.com/Rohit9804)
+- GitHub: [Rohit Singh](https://github.com/Rohit9804)
 
 
