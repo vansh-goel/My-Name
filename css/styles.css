@@ -81,6 +81,33 @@ header > form {
   width: 20px;
 }
 
+.Anupesh-Kumar-Verma{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #b7facd;
+
+}
+#Anupesh-Kumar-Verma{
+    font-family: 'Sacramento';
+
+}
+
+#Anupesh-Kumar-Verma-Para{
+    font-family: 'Montserrat';
+    line-height: 2;
+}
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    align-items: center;
+}
+.github{
+    padding-top: 10px;
+    width: 20px;
+
+}
+
 .Harshvardhan-Sharma {
   text-align: center;
   padding: 7% 15%;
