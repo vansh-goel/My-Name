@@ -1092,6 +1092,29 @@ font-family: 'Montserrat',sans-serif;
   line-height: 2;
 }
 
+.Ashish Kumar Sharma{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #b7facd;
+
+}
+#Ashish Kumar Sharma{
+    font-family: 'Sacramento';
+
+}
+
+#Ashish Kumar Sharma-Para{
+    font-family: 'Montserrat';
+    line-height: 2;
+}
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    align-items: center;
+}
+
+
 footer {
   padding: 5% 25%;
   background-color: #222;

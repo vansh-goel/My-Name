@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Ashish Kumar Sharma
+
+- Place : India.
+- Bio : Btech student '24 in ECE
+- Github [Ashish Kumar Sharma](https://github.com/AshishSharma1203)
