@@ -347,4 +347,4 @@
 
 - Place: India
 - Bio: Student, Learning Web Dev
-- GitHub: [Pranav Malik](https://github.com/chiragkhatri19)
+- GitHub: [Pranav Malik](https://github.com/pran9v)
