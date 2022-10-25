@@ -325,6 +325,24 @@
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
 
+# Name: Veeresh Tadkal
+
+- Place : India.
+- Bio : Boomi Developer.
+- Github [Veeresh](https://github.com/VeereshTadkal)
+
+# Name: Monica Kukreja
+
+- Place: India
+- Bio: Student, interested in web development
+- GitHub: [Monica Kukreja](https://github.com/monicakukreja)
+
+# Name: Ananth 
+
+- Place : South India.
+- Bio : Freshman at SCTCE, Rust Enthusiast
+- Github [SachXD](https://github.com/sachxd)
+
 # Name: Harshita
 
 - Place : United States.
