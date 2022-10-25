@@ -1076,6 +1076,21 @@ font-family: 'Montserrat',sans-serif;
   text-align: center;
   color: white;
 }
+.Divyansh {
+  padding: 7% 15%;
+  background-color: rgb(255, 219, 215);;
+  text-align: center;
+}
+
+#divyansh {
+  font-family: "Sacramento";
+}
+
+.Divyansh {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 
 .SachXD{
   padding: 7% 15%;
