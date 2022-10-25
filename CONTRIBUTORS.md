@@ -343,3 +343,8 @@
 - Bio : Freshman at SCTCE, Rust Enthusiast
 - Github [SachXD](https://github.com/sachxd)
 
+# Name: Devansh Mudgal
+
+- Place : India
+- Bio : Senior at VIT Vellore, Coding Enthusiast
+- Github [Devansh](https://github.com/DevanshMudgal)
