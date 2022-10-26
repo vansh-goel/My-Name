@@ -349,7 +349,11 @@
 - Bio: Student, fresher
 - GitHub: [Rohit Singh](https://github.com/Rohit9804)
 
+# Name: Harshita
 
+- Place : United States.
+- Bio : Deep Learning Research Assistant.
+- Github [harshitakukreja](https://github.com/harshitakukreja)
 # Name: Pranav
 
 - Place: India
