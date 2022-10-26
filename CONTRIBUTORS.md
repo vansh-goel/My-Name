@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Rajan
+
+- Place: India
+- Bio: Student, interested in machine learning
+- GitHub: [Rajan](https://github.com/rajan25k)
