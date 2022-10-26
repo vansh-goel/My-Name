@@ -350,6 +350,12 @@
 - GitHub: [Rohit Singh](https://github.com/Rohit9804)
 
 
+# Name: Hamzat Abdul-Muizz
+
+- Place: Nigeria
+- Bio: Student, Webdeveloper
+- GitHub: [Tazmah](https://github.com/Tazmah)
+
 # Name: Pranav
 
 - Place: India
