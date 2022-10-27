@@ -172,6 +172,25 @@ header > form {
   text-align: center;
 }
 
+/* Afolabi-start */
+#afolabi, .afolabi {
+  font-family: 'Poppins', sans-serif;
+}
+
+#afolabi, {
+  color: rgb(117, 98, 224);
+  font-weight: 600;
+}
+
+.olaskid {
+  color: rgb(117, 98, 224);
+  font-weight: 500;
+}
+.linktoyinka {
+  background-color: rgb(26, 26, 41);
+}
+/* Afolabi-end */
+
 #Lea-Guedj {
   font-family: "Sacramento";
 }
