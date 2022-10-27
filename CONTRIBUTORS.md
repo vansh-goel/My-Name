@@ -22,6 +22,12 @@
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
+# Name: Swarnim
+
+- Place: India
+- Bio: Student, Learing Frontend Development
+- Github: [Swarnim-Chandve](https://github.com/Swarnim-Chandve)
+
 # Name: Chirag
 
 - Place: India
