@@ -1132,4 +1132,25 @@ footer {
   line-height: 2;
 }
 
+#Deepak-Rajak {
+  font-family: "Courier New', Courier, monospace";
+  font-size: 60px;
+}
+
+.Deepak-Rajak{
+  padding: 7% 15%;
+  background-color: rgb(25, 163, 238);
+  text-align: center;
+  color: black;
+  
+}
+
+.Deepak-Rajak-Para{
+  font-family:'Poppins', sans-serif;
+  padding: 3%;
+  line-height: 2;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+
 
