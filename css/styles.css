@@ -981,6 +981,20 @@ header > form {
   line-height: 2;
 }
 
+.PranavMalik {
+  padding: 7% 15%;
+  background-color: #abebc6;
+  text-align: center;
+}
+
+#PranavMalik {
+  font-family: "Zapfino Extra LT", sans-serif;
+}
+
+#pranavM {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .Prajwal{
   padding: 7% 15%;
@@ -1016,7 +1030,7 @@ header > form {
 .Kritika-Joshi{
   text-align: center;
   padding: 7% 15%;
-  background-color: #AAC4FF;
+  background-color: #99b0e5;
 }
 
 #Kritika-Joshi {
@@ -1024,6 +1038,84 @@ header > form {
 }
 
 #Kritika-Joshi-Para {
+font-family: "Montserrat";
+  line-height: 2;
+}
+#Amisha {
+  font-family: "Sacramento";
+  font-size: 60px;
+}
+
+.AmishaPandey{
+  padding: 7% 15%;
+  background-color: rgb(213, 251, 155);
+  text-align: center;
+  color: black;
+  
+}
+
+.Amisha--about{
+  font-family:'Poppins', sans-serif;
+  padding: 3%;
+  line-height: 2;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+
+.Amisha--highlight{
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.Veeresh{
+padding: 7% 15%;
+text-align: center;
+background: #c5f6fa;
+}
+
+.VeereshHeading{
+font-family:'Montserrat',sans-serif;
+font-weight:bold;
+}
+
+.VeereshParagraph{
+font-family: 'Montserrat',sans-serif;
+}
+
+.MonicaKukreja {
+  padding: 7% 15%;
+  background-color: #abebc6;
+  text-align: center;
+}
+
+#MonicaKukreja {
+  font-family: "Zapfino Extra LT", sans-serif;
+}
+
+#monicap {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+#TalhaQuddoos {
+  font-family: "Montserrat";
+  padding: 7% 15%;
+  background-color: rgb(150, 71, 63);
+  text-align: center;
+  color: white;
+}
+
+.SachXD{
+  padding: 7% 15%;
+  background-color: #3B2BA8;
+  text-align: center;
+}
+
+#SachXD {
+  font-family: "Sacramento";
+}
+
+#SachXD {
   font-family: "Montserrat";
   line-height: 2;
 }
@@ -1037,6 +1129,21 @@ footer {
   bottom: 0%;
   left: 0%;
   right: 0%;
+}
+
+.rohitsingh {
+  padding: 7% 15%;
+  background-color: #F2D2BD;
+  text-align: center;
+}
+
+#rohitsingh {
+  font-family: "Sacramento";
+}
+
+.Rohit-Singh-Para {
+  font-family: "Montserrat";
+  line-height: 2;
 }
 
 
