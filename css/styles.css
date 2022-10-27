@@ -5,6 +5,8 @@ header {
   justify-content: space-between;
   align-items: center;
   background-color: rgb(86, 39, 255);
+  position: fixed;
+  width: 100%;
 }
 
 header > form {
@@ -1130,6 +1132,32 @@ footer {
 .Rohit-Singh-Para {
   font-family: "Montserrat";
   line-height: 2;
+}
+/* Festus Adeyemi's Styling */
+.festus-adeyemi{
+  background-color: #063647;
+  text-align: center;
+  margin-top: 2%;
+  padding: 5% 0;
+  color: #DFDFDF;
+  line-height: 1.5;
+  font-family: "Kumbh Sans";
+  font-weight: 400;
+}
+
+.festus-adeyemi>h1{
+  color: #00d1b2;
+  padding: 2% 0;
+  font-weight: 700;
+}
+
+.festus-adeyemi>p{
+  padding:0 15%;
+  
+}
+
+.festus-adeyemi .twitter-icon, .festus-adeyemi .github-icon{
+  width: 2%;
 }
 
 

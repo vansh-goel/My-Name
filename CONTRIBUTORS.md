@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Festus Adeyemi
+
+- Place: Nigeria
+- Bio: Graduate, Learning web development
+- GitHub: [Festus Adeyemi](https://github.com/kalosFestus)
