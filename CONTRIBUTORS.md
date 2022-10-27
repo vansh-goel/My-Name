@@ -355,3 +355,10 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+
+# Name: Afolabi
+
+- Place: Nigeria
+- Bio: Frontend Dev
+- GitHub: [Afolabi Abdullahi](https://github.com/linktoyinka)
