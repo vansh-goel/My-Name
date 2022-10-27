@@ -341,5 +341,17 @@
 
 - Place : South India.
 - Bio : Freshman at SCTCE, Rust Enthusiast
-- Github [SachXD](https://github.com/sachxd)
+- Github [SachXD](https://github.com/sachxd
+- 
+# Name: Rohit Singh
 
+- Place: India
+- Bio: Student, fresher
+- GitHub: [Rohit Singh](https://github.com/Rohit9804)
+
+
+# Name: Pranav
+
+- Place: India
+- Bio: Student, Learning Web Dev
+- GitHub: [Pranav Malik](https://github.com/pran9v)
