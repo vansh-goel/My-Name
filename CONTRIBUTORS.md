@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Deepak Rajak
+
+- Place: India
+- Bio: Software Engineer
+- GitHub: [Deepak Rajak](https://github.com/rajak3750)
