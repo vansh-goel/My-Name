@@ -1105,6 +1105,52 @@ font-family: 'Montserrat',sans-serif;
   font-family: "Montserrat";
   line-height: 2;
 }
+/********** RUDRA *************/
+
+#rudra-kt{
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.rudra-h1{
+    color: #000;
+    font-size: 4.5rem;
+    margin-top:0px;
+    margin-bottom:0px;
+    font-family: 'Sacramento';
+    font-weight: normal;
+    padding:40px 0 1.5rem 0;
+}
+.rudra-para{
+  font-family: "Montserrat";
+}
+.rudra-h2{
+  font-family: "Montserrat";
+  
+  padding-bottom: 10px;   
+}
+.rudra-h3{
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+}
+.rudra-footer-link{
+  text-decoration: none;
+  margin: 0 5px 0 5px;
+  color:#000;
+}
+#rudra-kt{
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    background-color: #905E96;
+  }
+  50% {
+    background-color: #D58BDD;
+  }
+}
+
+
 
 footer {
   padding: 5% 25%;
