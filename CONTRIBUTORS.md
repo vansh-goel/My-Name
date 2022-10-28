@@ -345,6 +345,12 @@
 - 
 # Name: Rohit Singh
 
+# Name: Upendra Singh Karmiyal 
+
+- Place : India.
+- Bio : DE/ML Engineer, Interested in Opensource communities.
+- Github [Upendra Singh Karliyal](https://github.com/Upendra-Singh-Karmiyal)
+
 - Place: India
 - Bio: Student, fresher
 - GitHub: [Rohit Singh](https://github.com/Rohit9804)
