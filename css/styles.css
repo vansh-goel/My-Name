@@ -981,6 +981,20 @@ header > form {
   line-height: 2;
 }
 
+.PranavMalik {
+  padding: 7% 15%;
+  background-color: #abebc6;
+  text-align: center;
+}
+
+#PranavMalik {
+  font-family: "Zapfino Extra LT", sans-serif;
+}
+
+#pranavM {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .Prajwal{
   padding: 7% 15%;
@@ -1108,6 +1122,21 @@ footer {
   background-color: rgba(150, 230, 161, 0.5);
   text-align: center;
 }
+.rohitsingh {
+  padding: 7% 15%;
+  background-color: #F2D2BD;
+  text-align: center;
+}
+
+#rohitsingh {
+  font-family: "Sacramento";
+}
+
+.Rohit-Singh-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 
 #Upendra-Singh-Karmiyal {
   font-family: "Sacramento";
