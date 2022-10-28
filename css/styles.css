@@ -1,3 +1,9 @@
+body > div{
+  margin: 30px;
+  border-radius: 30px;
+  border: 1.5px solid gray;
+  box-shadow: 8px 8px 8px lightgrey;
+}
 header {
   height: 10vh;
   padding: 1rem;
@@ -5,6 +11,8 @@ header {
   justify-content: space-between;
   align-items: center;
   background-color: rgb(86, 39, 255);
+  position: sticky;
+  top: 0px;
 }
 
 header > form {
@@ -141,7 +149,7 @@ header > form {
   background-color: aquamarine;
   font-family: "Sacramento";
   text-align: center;
-  width: 100%;
+  /* width: 100%; */
 }
 .AyushK-Para {
   font-family: "Montserrat";
@@ -1131,5 +1139,52 @@ footer {
   font-family: "Montserrat";
   line-height: 2;
 }
+
+/* Sreejit's CSS */
+.sreejit{
+  text-align: center;
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+  padding-top: 50px;
+}
+#sreeh1{
+  color: pink;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all;
+  transition-duration: 0.5s;
+}
+#sreeh1:hover{
+  font-size: 50px;
+  color: plum;
+  text-shadow: 0px 0px 6px brown;
+}
+#sreep{
+  margin: 100px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0px 0px 6px black;
+  font-family: 'Fasthand', cursive;
+  font-family: 'Inconsolata', monospace;
+  font-family: 'Poppins', sans-serif;
+}
+#sreetwitter{
+  padding-bottom: 10px;
+}
+#sreesocial {
+  background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  color: wheat;
+  border: none;
+  border-radius: 10px;
+  text-shadow: 0px 0px 6px black;
+  width: 190px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 2px 4px;
+}
+
+/* Sreejit's CSS ends here */
 
 
