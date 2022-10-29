@@ -1132,4 +1132,25 @@ footer {
   line-height: 2;
 }
 
+#Anirudh {
+  font-family: "Montserrat";
+  font-size: 45px;
+}
+
+.AnirudhGadekar{
+  padding: 7% 15%;
+  background-color: rgb(63, 166, 222);
+  text-align: center;
+  color: black;
+  
+}
+
+.Anirudh--about{
+  font-family:'Poppins', sans-serif;
+  padding: 3%;
+  line-height: 2;
+  font-weight: 100;
+  letter-spacing: 0.1em;
+}
+
 
