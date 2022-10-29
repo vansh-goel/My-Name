@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Sreevidya 
+
+- Place: India
+- Bio: Student, Learning WebDevelopment,MachineLearning
+- GitHub: [Sreevidya](https://github.com/Sreevidya181)
