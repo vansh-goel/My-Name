@@ -350,7 +350,7 @@
 # Name: Anirudh Gadekar
 
 - Place: India
-- Bio: Student
+- Bio: Student, 3rd year engineering
 - GitHub: [Anirudh Gadekar](https://github.com/anirudh-44)
 
 # Name: Pranav
