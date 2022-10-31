@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Luz Zapata
+
+- Place: Argentina
+- Bio: Artist, Business Manager and Student
+- GitHub: [Luz Zapata](https://github.com/LuZapata)
