@@ -1139,5 +1139,16 @@ footer {
   font-family: "Montserrat";
   line-height: 2;
 }
-
+.chinemerem{
+  background-color: papayawhip;
+  text-align: center;
+  padding: 50px 20rem;
+}
+.chinemerem h1{
+  font-size: 70px;
+  font-family: Sacramento;
+}
+.chinemerem p{
+  font-size: 20px;
+}
 
