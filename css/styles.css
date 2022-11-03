@@ -200,6 +200,14 @@ header > form {
   line-height: 2;
 }
 
+.Satyam {
+  padding: 7% 15%;
+  background-color: rgba(134, 232, 119, 0.973);
+  text-align: center;
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
 .Markus-Eicher {
   padding: 7% 15%;
   background-color: rgb(55, 64, 192);
