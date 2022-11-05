@@ -1,8 +1,18 @@
+body{
+  scroll-behavior: smooth;
+}
 body > div{
   margin: 30px;
   border-radius: 30px;
   border: 1.5px solid gray;
-  box-shadow: 8px 8px 8px lightgrey;
+  box-shadow: 4px 4px 4px lightgrey;
+  transition: all;
+  transition-duration: 0.3s;
+}
+body>div:hover{
+  border: 1px solid limegreen;
+  box-shadow: 1px 1px 12px limegreen;
+  margin: 20px;
 }
 header {
   height: 10vh;
@@ -1186,5 +1196,3 @@ footer {
 }
 
 /* Sreejit's CSS ends here */
-
-
