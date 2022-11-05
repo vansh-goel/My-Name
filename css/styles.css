@@ -1140,4 +1140,28 @@ footer {
   line-height: 2;
 }
 
+.pooja-sanwal{
+  text-align: center;
+  background-color: #D2DAFF;
+  padding: 5% 20%;
+}
+
+.pooja-title{
+  margin-bottom: 40px;
+  font-family: "Sacramento";
+  font-size: 50px;
+}
+
+.pooja-intro{
+  font-family:'Poppins', sans-serif;
+  line-height: 1.7;
+  margin-bottom: 40px;
+}
+
+.pooja-socials img{
+  width: 20px;
+  height: 20px;
+  margin: 0px 10px;
+}
+
 
