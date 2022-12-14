@@ -1157,6 +1157,18 @@ footer {
   font-family: "Montserrat";
   line-height: 2;
 }
+.anik-dhabal-babu{
+  padding: 7% 0;
+  background-color: #1cc1c1;
+  font-family:"Montserrat";
+  text-align: center;
+}
+.anik-dhabal-babu h1{
+  font-weight: bold;
+}
+.anik-dhabal-babu p{
+  letter-spacing: 1px;
+}
 
 /* Sreejit's CSS */
 .sreejit{
