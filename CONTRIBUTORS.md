@@ -4,6 +4,12 @@
 - Bio: Student, Web Developer
 - GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
+# Name: Swadesh
+
+- Place: India
+- Bio: Student, Learning Web Development and DSA
+- GitHub: [Swadesh Pal](https://github.com/Swadeshit27)
+
 # Name: Devansh
 
 - Place: India

@@ -64,6 +64,25 @@ header > form {
   text-align: center;
 }
 
+.Swadesh-Pal {
+  padding: 7% 15%;
+  background-color: #E5EBB2;
+  text-align: center;
+}
+#Swadesh-Pal {
+  font-family: sans-serif;
+}
+.Swadesh-Pal-Para {
+  font-family: cursive;
+  line-height: 3;
+}
+.twter_sp, .github_sp  {
+  font-size: 20px;
+  padding-top: 5px;
+  width: 25px;
+  margin-left: 20px;
+}
+
 .Maheen-Shaikh {
   padding: 7% 15%;
   background-color: #b7b8fa;
