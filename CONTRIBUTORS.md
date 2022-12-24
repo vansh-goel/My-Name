@@ -22,6 +22,12 @@
 - Bio: Student, Learning Web Development
 - GitHub: [Aditi Bendre](https://github.com/AditiBendre)
 
+# Name: Jayavardhan
+
+- Place: India
+- Bio: Student, Learning Web Development
+- GitHub: [Aditi Bendre](https://github.com/eddejayaklu)
+
 # Name: Chirag
 
 - Place: India
