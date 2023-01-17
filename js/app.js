@@ -23,51 +23,60 @@ nameForm.addEventListener("submit", (e) => {
   window.location.hash = nameToNavigateTo;
 });
 
-
 // Akshay Kumar Maurya
-const countValueEl = document.getElementById('countValue');
+const countValueEl = document.getElementById("countValue");
 
 pageVisitCount();
 
 // Here created key & value to starting value as 0
 // https://api.countapi.xyz/create?namespace=my-name&key=akshay&value=0
 
-
 function pageVisitCount() {
   // For updating Value of visitors need to fetch this api
   //here amount will be 1, because we are increasing visitor value by +1
-  fetch('https://api.countapi.xyz/update/my-name/akshay?amount=1')
-    .then(res => res.json())
-    .then(res => {
+  fetch("https://api.countapi.xyz/update/my-name/akshay?amount=1")
+    .then((res) => res.json())
+    .then((res) => {
       countValueEl.innerHTML = res.value;
-    })
+    });
 }
-
 
 // scroll to top
 const scrolltp = document.querySelector("#scrolltp");
-scrolltp.addEventListener('click', function(){
-    window.scrollTo({
-        top:0,
-        left:0,
-        behavior:"smooth",
-    });
+scrolltp.addEventListener("click", function () {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: "smooth",
+  });
 });
-window.addEventListener('scroll', function(){
-    if(this.window.scrollY >= 700){
-        scrolltp.style.opacity = 1;
-    }else{
-        scrolltp.style.opacity = 0;
-    }
-})
+window.addEventListener("scroll", function () {
+  if (this.window.scrollY >= 700) {
+    scrolltp.style.opacity = 1;
+  } else {
+    scrolltp.style.opacity = 0;
+  }
+});
 
 // search bar
 function searchcard() {
   let searchbar = document.querySelector("#name-input").value;
   if (searchbar) {
-    document.querySelector('.' +searchbar).scrollIntoView({
-      behavior: 'smooth',
-      inline: 'start'
+    document.querySelector("." + searchbar).scrollIntoView({
+      behavior: "smooth",
+      inline: "start",
     });
+  }
+}
+
+function liveSearch() {
+  let cards = document.querySelectorAll(".cards");
+  let search_query = document.getElementById("searchbox").value;
+  for (var i = 0; i < cards.length; i++) {
+    if (cards[i].innerText.toLowerCase().includes(search_query.toLowerCase())) {
+      cards[i].classList.remove("is-hidden");
+    } else {
+      cards[i].classList.add("is-hidden");
+    }
   }
 }
