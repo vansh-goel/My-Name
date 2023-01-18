@@ -1,7 +1,11 @@
-body{
+.is-hidden {
+  display: none;
+}
+
+body {
   scroll-behavior: smooth;
 }
-body > div{
+body > div {
   margin: 30px;
   border-radius: 30px;
   border: 1.5px solid gray;
@@ -9,7 +13,7 @@ body > div{
   transition: all;
   transition-duration: 0.3s;
 }
-body>div:hover{
+body > div:hover {
   border: 1px solid limegreen;
   box-shadow: 1px 1px 12px limegreen;
   margin: 20px;
@@ -170,7 +174,7 @@ header > form {
   font-size: 1.2rem !important;
   font-weight: 600;
 }
-#AyushK{
+#AyushK {
   font-size: 3.6rem;
   font-weight: 500;
 }
@@ -617,7 +621,7 @@ header > form {
 /* Divya */
 .Divya-Aggarwal {
   padding: 7% 15%;
-  background-color: #F3E0F9;
+  background-color: #f3e0f9;
   text-align: center;
 }
 
@@ -630,15 +634,9 @@ header > form {
   line-height: 2;
 }
 
-/* raj */
-.raj {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+.Prashant {
   text-align: center;
   padding: 20px 0;
-  /* gradient */
   background-color: #0093e9;
   background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
 }
@@ -812,8 +810,6 @@ header > form {
   line-height: 3;
 }
 
-
-
 @media screen and (max-width: 520px) {
   #Antony-Prince {
     white-space: normal;
@@ -853,7 +849,7 @@ header > form {
   line-height: 2;
 }
 
-.Priyank-Patil{
+.Priyank-Patil {
   padding: 7% 15%;
   background-color: rgb(25, 163, 238);
   text-align: center;
@@ -905,7 +901,7 @@ header > form {
 }
 
 .Amrutanhu-jena {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   background-color: violet;
   color: #42249c;
   text-align: center;
@@ -913,24 +909,24 @@ header > form {
 }
 
 .Amrutanhu-jena-about {
-  font-family: 'Lucida Handwriting', cursive;
+  font-family: "Lucida Handwriting", cursive;
   padding: 15px;
 }
 
-.btn{
+.btn {
   border-radius: 50%;
   border: none;
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
 }
 
 .HarshitaGupta {
   padding: 7% 15%;
-  background-color: #ABEBC6;
+  background-color: #abebc6;
   text-align: center;
 }
 
 #HarshitaGupta {
-  font-family: 'Zapfino Extra LT', sans-serif;
+  font-family: "Zapfino Extra LT", sans-serif;
 }
 
 #harshita2432 {
@@ -938,20 +934,19 @@ header > form {
   line-height: 2;
 }
 
-.Amandeeps{
+.Amandeeps {
   padding: 7% 15%;
-  background-image:linear-gradient(to right, #1cc1c1, rgb(241, 117, 241) );
+  background-image: linear-gradient(to right, #1cc1c1, rgb(241, 117, 241));
   text-align: center;
 }
-#Amandeep{
+#Amandeep {
   font-family: "Futura";
   text-align: center;
-  line-height :3;
+  line-height: 3;
 }
-.Amandeep-para{
-  font-family: 'zapfino extra lt';
+.Amandeep-para {
+  font-family: "zapfino extra lt";
 }
-
 
 .akshay_p {
   margin-top: 0px;
@@ -966,13 +961,9 @@ header > form {
 }
 
 .piyush {
-  font-family: 'Open Sans', Monospace;
+  font-family: "Open Sans", Monospace;
   font-size: 16px;
- padding: 10%;
- display: flex;
- justify-content: center;
- align-items: center;
- flex-direction: column;
+  padding: 10%;
 }
 
 .piyush-here {
@@ -987,14 +978,22 @@ header > form {
 .kavandiv {
   padding: 5%;
   text-align: center;
-  background: #f12711;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #f12711; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f5af19,
+    #f12711
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .Saloni {
   padding: 7% 15%;
-  background-color: rgb(255, 219, 215);;
+  background-color: rgb(255, 219, 215);
   text-align: center;
 }
 
@@ -1022,7 +1021,7 @@ header > form {
   line-height: 2;
 }
 
-.Prajwal{
+.Prajwal {
   padding: 7% 15%;
   background-color: #5fb4e6;
   text-align: center;
@@ -1037,11 +1036,10 @@ header > form {
   line-height: 2;
 }
 
-
-.Pooja-Sharma{
+.Pooja-Sharma {
   text-align: center;
   padding: 7% 15%;
-  background-color: #AAC4FF;
+  background-color: #aac4ff;
 }
 
 #Pooja-Sharma {
@@ -1058,40 +1056,39 @@ header > form {
   font-size: 60px;
 }
 
-.AmishaPandey{
+.AmishaPandey {
   padding: 7% 15%;
   background-color: rgb(213, 251, 155);
   text-align: center;
   color: black;
-  
 }
 
-.Amisha--about{
-  font-family:'Poppins', sans-serif;
+.Amisha--about {
+  font-family: "Poppins", sans-serif;
   padding: 3%;
   line-height: 2;
   font-weight: 100;
   letter-spacing: 0.1em;
 }
 
-.Amisha--highlight{
+.Amisha--highlight {
   font-weight: bold;
   color: blueviolet;
 }
 
-.Veeresh{
-padding: 7% 15%;
-text-align: center;
-background: #c5f6fa;
+.Veeresh {
+  padding: 7% 15%;
+  text-align: center;
+  background: #c5f6fa;
 }
 
-.VeereshHeading{
-font-family:'Montserrat',sans-serif;
-font-weight:bold;
+.VeereshHeading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
 }
 
-.VeereshParagraph{
-font-family: 'Montserrat',sans-serif;
+.VeereshParagraph {
+  font-family: "Montserrat", sans-serif;
 }
 
 .MonicaKukreja {
@@ -1109,7 +1106,7 @@ font-family: 'Montserrat',sans-serif;
   line-height: 2;
 }
 
-#TalhaQuddoos {
+.Talcards {
   font-family: "Montserrat";
   padding: 7% 15%;
   background-color: rgb(150, 71, 63);
@@ -1117,9 +1114,9 @@ font-family: 'Montserrat',sans-serif;
   color: white;
 }
 
-.SachXD{
+.SachXD {
   padding: 7% 15%;
-  background-color: #3B2BA8;
+  background-color: #3b2ba8;
   text-align: center;
 }
 
@@ -1143,60 +1140,68 @@ footer {
   right: 0%;
 }
 
-.rohitsingh {
+.ROHIT {
   padding: 7% 15%;
-  background-color: #F2D2BD;
+  background-color: #f2d2bd;
   text-align: center;
 }
 
-#rohitsingh {
+#SINGH {
   font-family: "Sacramento";
 }
 
-.Rohit-Singh-Para {
+.ROHIT {
   font-family: "Montserrat";
   line-height: 2;
 }
 
 /* Sreejit's CSS */
-.sreejit{
+.sreejit {
   text-align: center;
-  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+  background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(255, 124, 0) 0%,
+    rgb(255, 124, 0) 15.9%,
+    rgb(255, 163, 77) 15.9%,
+    rgb(255, 163, 77) 24.4%,
+    rgb(19, 30, 37) 24.5%,
+    rgb(19, 30, 37) 66%
+  );
   padding-top: 50px;
 }
 
-#sreeh1{
+#sreeh1 {
   color: pink;
-  font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   transition: all;
   transition-duration: 0.5s;
 }
-#sreeh1:hover{
+#sreeh1:hover {
   font-size: 50px;
   color: plum;
   text-shadow: 0px 0px 6px brown;
 }
 
-#sreep{
+#sreep {
   margin: 100px;
   font-size: 15px;
   font-weight: bold;
   color: white;
   text-shadow: 0px 0px 6px black;
-  font-family: 'Fasthand', cursive;
-  font-family: 'Inconsolata', monospace;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Fasthand", cursive;
+  font-family: "Inconsolata", monospace;
+  font-family: "Poppins", sans-serif;
 }
 
-#sreetwitter{
+#sreetwitter {
   padding-bottom: 10px;
 }
 
 #sreesocial {
   background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
-  font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: wheat;
   border: none;
   border-radius: 10px;
@@ -1207,30 +1212,28 @@ footer {
   padding: 2px 4px;
 }
 
-.pooja-sanwal{
+.pooja-sanwal {
   text-align: center;
-  background-color: #D2DAFF;
+  background-color: #d2daff;
   padding: 5% 20%;
 }
 
-.pooja-title{
+.pooja-title {
   margin-bottom: 40px;
   font-family: "Sacramento";
   font-size: 50px;
 }
 
-.pooja-intro{
-  font-family:'Poppins', sans-serif;
+.pooja-intro {
+  font-family: "Poppins", sans-serif;
   line-height: 1.7;
   margin-bottom: 40px;
 }
 
-.pooja-socials img{
+.pooja-socials img {
   width: 20px;
   height: 20px;
   margin: 0px 10px;
 }
-
-
 
 /* Sreejit's CSS ends here */
