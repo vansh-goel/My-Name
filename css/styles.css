@@ -1051,6 +1051,20 @@ header > form {
   line-height: 2;
 }
 
+.Kritika-Joshi{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #99b0e5;
+}
+
+#Kritika-Joshi {
+  font-family: "Sacramento";
+}
+
+#Kritika-Joshi-Para {
+font-family: "Montserrat";
+  line-height: 2;
+}
 #Amisha {
   font-family: "Sacramento";
   font-size: 60px;
