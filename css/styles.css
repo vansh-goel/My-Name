@@ -1288,5 +1288,19 @@ footer {
   transform: rotate(30deg);
   box-shadow: 1px 1px 1px 1px white;
 }
-
 /* Lewoaragao CSS end */
+
+/* scrollbar CSS start */
+::-webkit-scrollbar {
+  background: white; 
+  width: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(86, 39, 255); 
+}
+
+::-webkit-scrollbar-track-piece {
+  background: rgba(86, 39, 255, 0.5); 
+}
+/* scrollbar CSS end */
