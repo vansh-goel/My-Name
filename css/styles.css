@@ -1247,3 +1247,46 @@ footer {
 #scroll img {
   width: 100px;
 }
+
+/* Lewoaragao CSS start */
+.lewoaragao {
+  color: white;
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(44, 52, 65), rgb(17, 24, 39), rgb(0, 0, 0));
+  padding: 5% 20%;
+  margin-bottom: 10px;
+}
+
+.lewoaragao-title {
+  font-family: monospace, sans-serif;
+  letter-spacing: 2px;
+}
+
+.lewoaragao-intro {
+  font-size: 20px;
+  font-weight: 100;
+  font-family: 'Poppins';
+  line-height: 25px;
+  text-align: justify;
+  letter-spacing: 1px;
+  margin: 40px 0;
+}
+
+.lewoaragao-socials img {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  opacity: 0.5;
+  transition: opacity 0.3s, transform 0.3s, box-shadow 0.3s;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.lewoaragao-socials img:hover {
+  opacity: 1;
+  transform: rotate(30deg);
+  box-shadow: 1px 1px 1px 1px white;
+}
+
+/* Lewoaragao CSS end */
