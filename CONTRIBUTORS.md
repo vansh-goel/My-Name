@@ -355,3 +355,10 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+
+# Name: Nitesh Mishra
+
+- Place: India
+- Bio: B.Tech Graduate, Lifelong learner
+- GitHub: [Nitesh Mishra](https://github.com/Nitesh232)
