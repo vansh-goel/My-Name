@@ -1237,6 +1237,23 @@ footer {
   margin: 0px 10px;
 }
 
+/* Nitesh's CSS starts here */
+.Nitesh {
+  padding: 7% 15%;
+  background-image: linear-gradient(to left, #1cc1c1, rgb(241, 117, 241));
+  text-align: center;
+}
+#Nitesh {
+  font-family: "Futura";
+  text-align: center;
+  line-height: 3;
+}
+.Nitesh-para {
+  font-family: "zapfino extra lt";
+}
+
+/* Nitesh's CSS ends here */
+
 /* Scroll button */
 #scroll {
   width: 100px;
