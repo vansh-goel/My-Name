@@ -97,6 +97,20 @@ header > form {
   font-family: "Montserrat";
   line-height: 2;
 }
+.Nancy-Kasaudhan {
+  padding: 7% 15%;
+  background-color: #a4f4f6;
+  text-align: center;
+}
+
+#Nancy-Kasaudhan {
+  font-family: "Sacramento";
+}
+
+#Nancy-Kasaudhan-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
 
 .twt {
   padding-top: 10px;

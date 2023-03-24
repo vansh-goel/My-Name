@@ -4,6 +4,12 @@
 - Bio: Student, Web Developer
 - GitHub: [Vansh Goel](https://github.com/vansh-goel)
 
+# Name: Nancy
+
+- Place: India
+- Bio: Student, Learner, Developer, Creative person
+- GitHub: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
+
 # Name: Devansh
 
 - Place: India
