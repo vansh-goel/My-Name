@@ -355,3 +355,9 @@
 - Place: India
 - Bio: Student, Learning Web Dev
 - GitHub: [Pranav Malik](https://github.com/pran9v)
+
+# Name: Peter
+
+- Place: Canada
+- Bio: Learning Web Dev, Open Source Contributor
+- GitHub: [Peter Dinh](https://github.com/PeterDevelops)
