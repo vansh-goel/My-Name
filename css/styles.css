@@ -1236,6 +1236,19 @@ footer {
   height: 20px;
   margin: 0px 10px;
 }
+/* Start of Peters CSS */
+div.cards.peter {
+  text-align: center;
+  background-color: #52b0e6;
+  padding-top: 5%;
+}
+#peter-title {
+  font-family: cursive, sans-serif;
+}
+#peter-paragraph {
+  padding: 5% 20%;
+}
+/* End of Peters CSS */
 
 /* Scroll button */
 #scroll {
