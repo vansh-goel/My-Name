@@ -38,7 +38,18 @@ If you like this project make sure to follow me for more such projects and join 
 <table align="center">
 <tr>
 <td>
+<a href="https://github.com/vansh-goel/My-Name/graphs/contributors" align="center">
+  <img src="https://contrib.rocks/image?repo=vansh-goel/My-Name" /> 
+</a></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td>
 <a href="https://github.com/kevinRapahel" align="center">
   <img src="https://avatars.githubusercontent.com/u/97072993?s=400&u=adcc97d35a9c099217928e197e5898744a7b4dfd&v=4" /> 
-</a>
+</a></td>
+</tr>
+</table>
 ---
